@@ -1,6 +1,6 @@
 # Earn to Learn
 
-This is a simple webapp-style landing page designed to provide more information about the _"Earn to Learn"_ initiative. The page also redirects users to a bounty platform from which they can hunt Earn to Learn bounties or bounties from other initiatives. 
+This is a simple webapp-style landing page designed to provide more information about the _"Earn to Learn"_ initiative. The page also redirects users to a [bounty platform](bdu.dev) from which they can hunt Earn to Learn bounties or bounties from other initiatives. 
 
 ## The mission 
 
