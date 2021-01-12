@@ -64,17 +64,17 @@ const Hero = ({
               Earn
             </h1>
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="800">        
-            <span className="text-color-light" data-reveal-delay="800" > to </span>
+            <span className="text-color-light"> to </span>
             </h1>
-            <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="1600">
-            <span className="text-color-primary" data-reveal-delay="1600" > Learn </span>
+            <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="1400">
+            <span className="text-color-primary" > Learn </span>
             </h1>
 
             <div className="container-xs">
-              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="2600">
+              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="4800">
                 Earn cash by completing tutorials and learning new things.
                 </p>
-              <div className="reveal-from-bottom" data-reveal-delay="5200">
+              <div className="reveal-from-bottom" data-reveal-delay="2650">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="https://bdu.dev/">
                     Get started
