@@ -2,6 +2,8 @@
 
 This is a simple webapp-style landing page designed to provide more information about the _"Earn to Learn"_ initiative. The page also redirects users to a [bounty platform](https://bdu.dev/) from which they can hunt Earn to Learn bounties or bounties from other initiatives. 
 
+Check it out [here](https://earn-2-learn.netlify.app/).
+
 ## The mission 
 
 To help people earn cash by completing tutorials.
