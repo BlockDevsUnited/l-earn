@@ -1,6 +1,6 @@
 #Lesson 1 - Ethereum
 
-## Learning Outcomes
+## Overview
 
 ### Theory
  - What is Ethereum
@@ -11,8 +11,11 @@
 ### Practice
 - Set up an Ethereum Wallet (metamask)
 - Back up your wallet
-- Share your ethereum address
 
+
+### Testing
+- Answer examiner questions
+- Share your ethereum address
 
 
 ## Theory

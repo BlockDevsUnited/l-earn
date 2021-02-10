@@ -14,9 +14,9 @@
 - Send Tokens
 
 ### Testing
-- Send transaction to our address
-- Check token balance on blockscout
-- Multiple Choice
+- Send xDAI transaction to our us
+- Check a token balance on blockscout
+- Answer examiner questions
 
 
 
