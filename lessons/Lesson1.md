@@ -21,14 +21,15 @@
 ## Theory
 
 ### What is Ethereum
-Ethereum is an open source, decentralized, blockchain based software platform. It has a native currency called "Ether", or "Eth"
+Ethereum is open source software running on a decentralized network of computers.
 
-Ethereum consensus mechanism
+Ethereum has a native currency called "Ether", or "Eth"
 
-Smart Contracts
+Ethereum maintains consensus across all the computers in it's network with Proof of Work (PoW). In the near future Ethereum will be moving to a Proof of Stake (PoS) mechanism.
 
-ERC20 Token
+Smart contracts are small computer programs called smart contracts are replicated and processed on all the computers on the Ethereum network, without a central coordinator. Smart Contracts allow you to program contracts that can be automatically enforced by computer code.  
 
+In addition to Ether, people can also create and use their own currencies on Ethereum. The most common form of currency is ERC20 tokens. ERC20 Tokens are smart contracts that fit the ERC20 standard. The ERC20 standard was created so that everyone could follow it and create tokens that behave the same way.
 
 
 ### Required Readings
@@ -36,6 +37,9 @@ ERC20 Token
 - Recommended Readings
   - https://ethereum.org/en/whitepaper/
   - https://cointelegraph.com/explained/erc-20-tokens-explained
+  - https://www.youtube.com/watch?v=ZE2HxTmxfrI
+  - https://blockgeeks.com/guides/smart-contracts/
+  - https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/
 
 ## Practice
 
