@@ -61,13 +61,13 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Earn
+              Learn
             </h1>
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="800">        
-            <span className="text-color-light"> to </span>
+            <span className="text-color-light"> and </span>
             </h1>
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="1400">
-            <span className="text-color-primary" > Learn </span>
+            <span className="text-color-primary" > Earn </span>
             </h1>
 
             <div className="container-xs">
