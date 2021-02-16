@@ -9,7 +9,7 @@
 - Get address
 
 ### Testing
-Send us your ethereum address
+Send us your Ethereum address
 
 ### Additional
 ID proof

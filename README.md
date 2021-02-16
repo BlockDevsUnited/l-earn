@@ -1,6 +1,6 @@
 # Earn to Learn
 
-This is a simple webapp-style landing page designed to provide more information about the _"Earn to Learn"_ initiative. The page also redirects users to a [bounty platform](https://bdu.dev/) from which they can hunt Earn to Learn bounties or bounties from other initiatives. 
+This is a simple webapp-style landing page designed to provide information about the _"Learn and Earn"_ initiative. The page also redirects users to a [bounty platform](https://bdu.dev/) from which they can hunt Earn to Learn bounties or bounties from other initiatives. 
 
 Check it out [here](https://earn-2-learn.netlify.app/).
 
@@ -10,7 +10,13 @@ To help people earn cash by completing tutorials.
 
 ## Usage
 
-Run your own build of the Earn to Learn landing page. Feel free to make pull requests to improve on what's here. This landing page was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Run your own build of the Learn and Earn landing page. Feel free to make pull requests to improve on what's here. This landing page was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This initiatvie is currently in its pilot phase, onboarding a few people interested in testing out the platform. 
+
+## How it works
+
+Participants complete the lessons in this repo and reach out to admins via a Telegram chat group (link on the website) to get tested on what they've learnt. Upon successful validation that participants completed the lessons, they will receive a reward in xDai via simple hand-shake method.
 
 ### Available Scripts
 

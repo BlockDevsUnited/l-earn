@@ -76,7 +76,7 @@ const Testimonial = ({
                     Tutorial #1
                     </h4>
                   <p className="m-0 text-sm">
-                    Set up an Ethereum Wallet.
+                    Set up an Ethereum Wallet. 
                     </p>
                 </div>
               </div>
