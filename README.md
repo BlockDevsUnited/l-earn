@@ -1,12 +1,12 @@
-# Earn to Learn
+# Learn and Earn
 
-This is a simple webapp-style landing page designed to provide information about the _"Learn and Earn"_ initiative. The page also redirects users to a [bounty platform](https://bdu.dev/) from which they can hunt Earn to Learn bounties or bounties from other initiatives. 
+This is a simple webapp-style landing page designed to provide information about the _"Learn and Earn"_ initiative. The page also redirects users to a [bounty platform](https://bdu.dev/) from which they can hunt Learn and Earn bounties or bounties from other initiatives (future feature).
 
 Check it out [here](https://earn-2-learn.netlify.app/).
 
 ## The mission 
 
-To help people earn cash by completing tutorials.
+To help people earn cash by completing tutorials, and subsequently, spread knowledge about crypto-currencies, blockchain development, and web3 protocols.
 
 ## Usage
 
