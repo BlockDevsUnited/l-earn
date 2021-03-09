@@ -38,8 +38,8 @@ To set up xDai on Metamask, go to: https://www.xdaichain.com/for-users/wallets/m
 3. Go to the tokens tab
 4. View your token balances
 
-### Send Tokens
-1. Find the token contract address on https://blockscout.com/poa/xdai/
+### Send ERC20 Tokens
+1. Find the ERC20 token contract address on https://blockscout.com/poa/xdai/
 2. Go to Metamask and add token
 3. Paste the token contract address
 4. Click "Add"
