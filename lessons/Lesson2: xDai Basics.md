@@ -22,6 +22,11 @@ Here are 3 of xDai's most useful characteristics:
 - xDai has a bridge to DAI
 - xDAI has a bridge for any ERC20 token
 
+### xDai bridges
+- Dai to xDai bridge: https://omni.xdaichain.com/
+- Ethereum to xDai ERC20 token bridge: https://omni.xdaichain.com/
+
+
 ### Required Readings
 - https://jaredstauffer.medium.com/what-is-xdai-how-do-i-use-xdai-a-simple-explanation-7440cbaf1df6
 
