@@ -27,6 +27,9 @@ Smart contracts are small computer programs called smart contracts are replicate
 #### What are ERC20 Tokens
 In addition to Ether, people can also create and use their own currencies on Ethereum. The most common form of currency is ERC20 tokens. ERC20 Tokens are smart contracts that fit the ERC20 standard. The ERC20 standard was created so that everyone could follow it and create tokens that behave the same way.
 
+#### Your keys, your crypto
+Never give out your private keys or your seed phrase. If anyone ever asks for your private keys or seed phrase, refuse!
+
 ### Required Readings
   - https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/
 - Recommended Readings
