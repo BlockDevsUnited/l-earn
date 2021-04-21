@@ -8,6 +8,11 @@ Check it out [here](https://earn-2-learn.netlify.app/).
 
 To help people earn cash by completing tutorials, and subsequently, spread knowledge about crypto-currencies, blockchain development, and web3 protocols.
 
+
+## Participate
+
+To participate in our learn and earn program, join our telegram group!  https://t.me/learn_and_earn_crypto. We will ask you to study Lessons 1 and 2, and give you a test via telegram message. If you pass, you will receive the reward :)
+
 ## Usage
 
 Run your own build of the Learn and Earn landing page. Feel free to make pull requests to improve on what's here. This landing page was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
