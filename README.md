@@ -13,15 +13,19 @@ To help people earn cash by completing tutorials, and subsequently, spread knowl
 
 To participate in our learn and earn program, join our telegram group!  https://t.me/learn_and_earn_crypto. We will ask you to study Lessons 1 and 2, and give you a test via telegram message. If you pass, you will receive the reward :)
 
-## Usage
-
-Run your own build of the Learn and Earn landing page. Feel free to make pull requests to improve on what's here. This landing page was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 This initiatvie is currently in its pilot phase, onboarding a few people interested in testing out the platform. 
+
+
+
+
 
 ## How it works
 
 Participants complete the lessons in this repo and reach out to admins via a Telegram chat group (link on the website) to get tested on what they've learnt. Upon successful validation that participants completed the lessons, they will receive a reward in xDai via simple hand-shake method.
+
+## Contribute
+
+Run your own build of the Learn and Earn landing page. Feel free to make pull requests to improve on what's here. This landing page was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
 
