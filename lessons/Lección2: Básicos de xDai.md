@@ -27,7 +27,6 @@ Aquí hay tres de las características más útiles de xDai:
 - Ethereum a xDai ERC20 puente token: https://omni.xdaichain.com/
 
 ### Lecturas Requeridas
-- https://jaredstauffer.medium.com/what-is-xdai-how-do-i-use-xdai-a-simple-explanation-7440cbaf1df6
 
 - https://wiki.1hive.org/v/espanol/guides/xdai
 
