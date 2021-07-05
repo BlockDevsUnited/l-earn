@@ -30,7 +30,7 @@ Además de Ether, las personas también pueden crear y usar sus propias monedas 
 #### Tus claves, tu crypto
 Nunca revele sus claves privadas o su frase semilla. Si alguna vez alguien le pide sus datos de acceso, ¡no se los de!
 
-### Lecturas Requeridas.
+### Lecturas Requeridas
   - https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/
 - Lecturas Recomendadas
   - https://ethereum.org/en/whitepaper/
@@ -39,7 +39,7 @@ Nunca revele sus claves privadas o su frase semilla. Si alguna vez alguien le pi
   - https://blockgeeks.com/guides/smart-contracts/
   - https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/
 
-## 2. Práctica.
+## 2. Práctica
 
 ### Usando Metamask 
 - Ir a [MetaMask](https://metamask.io)
