@@ -1,4 +1,4 @@
-# Lesson 2 - Xdai
+# Lesson 2 - xDai
 
 ## Learning Outcomes
 - [1. Theory](#1.-Theory)
