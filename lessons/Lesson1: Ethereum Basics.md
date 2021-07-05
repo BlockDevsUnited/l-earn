@@ -46,7 +46,7 @@ Never give out your private keys or seed phrase. If anyone ever asks for them, r
 
 - Follow the instructions and install the Metamask browser extension.
 
-- Once you get your new seed phrase, (a 12 words phrase), write it down somewhere safe. This is your wallet backup.
+- Once you get your new seed phrase, (a 12 word phrase), write it down somewhere safe. This is your wallet backup.
 
 ## 3. Testing
 
