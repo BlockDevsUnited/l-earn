@@ -49,7 +49,7 @@ Nunca revele sus claves privadas o su frase semilla. Si alguna vez alguien le pi
 - Cuando cree su cuenta y obtenga su nueva frase semilla (secuencia de 12 palabras), escríbala en un lugar seguro. Esta es la copia de seguridad de su billetera.
 
 ## 3. Prueba
-Para esta fase piloto de Learn and Earn, un miembro de BDU probará sus conocimientos en una llamada 1 on 1, utilizando [BrightID](https://www.brightid.org/) para verificar su identidad. Póngase en contacto con ellos a través de ésta vía o en el grupo de Telegram en nuestro sitio web.
+Para esta fase piloto de Learn and Earn, un miembro de BDU probará sus conocimientos en una llamada 1 on 1, utilizando [BrightID](https://www.brightid.org/) para verificar su identidad. Póngase en contacto con nosotros a través de ésta vía o en el grupo de Telegram en nuestro sitio web.
 
 ### Compartir dirección
 Una vez que Metamask esté instalado, copie su address y envíela a uno de los propietarios de ésta publicación.
