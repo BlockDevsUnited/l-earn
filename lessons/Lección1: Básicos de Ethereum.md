@@ -31,13 +31,12 @@ Además de Ether, las personas también pueden crear y usar sus propias monedas 
 Nunca revele sus claves privadas o su frase semilla. Si alguna vez alguien le pide sus datos de acceso, ¡no se los de!
 
 ### Lecturas Requeridas
-  - https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/
+  - https://blockgeeks.com/guides/es/que-es-ethereum/
 - Lecturas Recomendadas
-  - https://ethereum.org/en/whitepaper/
-  - https://cointelegraph.com/explained/erc-20-tokens-explained
+  - https://crypto4dummy.com/whitepaper-ethereum/
   - https://www.youtube.com/watch?v=ZE2HxTmxfrI
-  - https://blockgeeks.com/guides/smart-contracts/
-  - https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/
+  - https://academy.bit2me.com/que-es-erc-20-token/
+  - www.estrategiasdeinversion.com/amp/que-son-los-smart-contracts-n-475455
 
 ## 2. Práctica
 
