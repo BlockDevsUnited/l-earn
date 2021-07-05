@@ -51,5 +51,5 @@ Para configurar xDai en Metamask, vaya a: https://www.xdaichain.com/for-users/wa
  5. Ahora puede ver el saldo de sus tokens y enviar tokens
 
 ## 3. Prueba
-Para esta fase piloto de Learn and Earn, alguien de BDU probará sus conocimientos en una llamada individual, utilizando [BrightID] (https://www.brightid.org/) para verificar su identidad.  Póngase en contacto con ellos a través de ésta vía o en el grupo de Telegram en nuestro sitio web.
+Para esta fase piloto de Learn and Earn, alguien de BDU probará sus conocimientos en una llamada individual, utilizando [BrightID] (https://www.brightid.org/) para verificar su identidad.  Póngase en contacto con nosotros a través de ésta vía o en el grupo de Telegram en nuestro sitio web.
 
