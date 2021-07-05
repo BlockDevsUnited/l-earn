@@ -22,7 +22,7 @@ Ethereum is an open source software running on a decentralized network of comput
 Ethereum has a native currency called "Ether", or "Eth".
 
 #### What are Smart Contracts
-Smart contracts are small computer programs that are replicated and processed on all the computers on the Ethereum network, without a central coordinator. Smart Contracts allow you to program contracts that can be automatically enforced by computer code.  
+Smart contracts are small computer programs that are replicated and processed on all the computers on the Ethereum network without a central coordinator. Smart Contracts allow you to program contracts that can be automatically enforced by computer code.  
 
 #### What are ERC20 Tokens
 In addition to Ether, people can also create and use their own currencies on Ethereum. The most common form of currency is ERC20 tokens. ERC20 Tokens are smart contracts that fit the ERC20 standard. The ERC20 standard was created so that everyone could follow it and create tokens that behave the same way.
