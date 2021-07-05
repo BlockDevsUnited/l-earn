@@ -32,7 +32,7 @@ Nunca revele sus claves privadas o su frase semilla. Si alguna vez alguien le pi
 
 ### Lecturas Requeridas.
   - https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/
-- Recommended Readings
+- Lecturas Recomendadas
   - https://ethereum.org/en/whitepaper/
   - https://cointelegraph.com/explained/erc-20-tokens-explained
   - https://www.youtube.com/watch?v=ZE2HxTmxfrI
