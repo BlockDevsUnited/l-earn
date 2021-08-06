@@ -32,7 +32,7 @@ https://bdu.dev
 
 BDU is a decentralized network of developer communities. We have communities such as Toronto, Buenos Aires and Singapore that hold regular events 
 
-You can join our discord community here: 
+You can join our discord community here: https://discord.gg/V4Tncte9D5
 
 
 ### Devcash Background
