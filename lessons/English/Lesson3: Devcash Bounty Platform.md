@@ -1,19 +1,21 @@
 # Devcash Bounty Platform
 
-The Devcash bounty platform is a decentralized app that lets you post and hunt bounties. A bounty is a task with a reward. 
+The Devcash bounty platform is a decentralized app that lets you post and hunt bounties. 
 
+The platform is hosted at https://xdai.devcash.dev
 
-The platform is hosted at 
-https://devcash.dev, or https://xdai.devcash.dev for xDai
+The platform supports xDAI, and Devcash, the native cryptocurrency of BDU. The Devcash Bounty Platform was developed by BDU as a way to incentivize developers to contribute to our organization. 
+About BDU: https://bdu.dev
+
+During this lesson we will use the Platform to hunt bounties. 
 
 ## Theory
 
 ### BDU
 
-- BDU stands for Blockchain Developers United
+BDU stands for Blockchain Developers United.
 https://bdu.dev
-- BDU is a decentralized, autonomous network of developer communities
-- 
+BDU is a decentralized, autonomous network of developer communities
 
 
 ### Devcash
@@ -25,16 +27,15 @@ https://bdu.dev
 
 ### Bounty Hunting
 "Bounty Hunting is a complicated profession" 
-
 - The Client (Mandalorian Season 1 Ep 1)
 
-A bounty is
+A bounty is a task with a reward attached. The reward is normally given based on successful completion of task, not based time and effort expended.
 
-- a task with a reward
-- the reward is normally given based on successful completion of task, not based time and effort expended
-- Bounty hunting can be ruthless, but highly lucrative for those at the top of their game
+Bounty hunting can be ruthless, but highly lucrative for those at the top of their game
 
 Devcash bounty platform
+
+### Devcash Bounty Platform
 
 
 
