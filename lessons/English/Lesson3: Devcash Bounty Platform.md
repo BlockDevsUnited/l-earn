@@ -17,7 +17,7 @@ There are multiple bounty platforms in the crypto space including [Gitcoin](gitc
 
 Bounty hunting can be ruthless, but highly lucrative for those at the top of their game. 
 
-The most common form of bounty are bug bounties, bounties for general work are becoming increasingly popular in the crypto space. 
+The most common form of bounty are bug bounties, however bounties for general work are becoming increasingly popular in the crypto space. 
 
 ### Platform Overview
 
