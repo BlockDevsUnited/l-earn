@@ -13,7 +13,7 @@ During this lesson we will learn about the platform, why it exists, and use it t
 
 A bounty is a task with a reward attached to it. The reward is normally given based on successful completion of task, not based time and effort expended.
 
-There are multiple bounty platforms in the crypto space including Gitcoin, Bounties Network, 0x bounties, Rabbithole, BitcoinTalk bounties, and more. All these let you perform tasks in exchange for crypto. 
+There are multiple bounty platforms in the crypto space including [gitcoin.co](Gitcoin), [https://bounties.network](bounties.network),[https://bounty0x.io](0x Bounties), [https://rabbithole.gg](Rabbithole), [https://bitcointalk.org/index.php?board=238.0](BitcoinTalk bounties), and more. All these let you perform tasks in exchange for crypto. 
 
 Bounty hunting can be ruthless, but highly lucrative for those at the top of their game. 
 
