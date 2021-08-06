@@ -6,7 +6,7 @@ The platform is hosted at https://xdai.devcash.dev
 
 During this lesson we will learn about the platform, why it exists, and use it to complete bounties.
 
-Make sure you cover the entire lesson including the links
+Be sure to study the entire lesson including material in the links. 
 
 ## Theory
 
