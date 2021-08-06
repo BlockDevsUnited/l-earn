@@ -23,6 +23,30 @@ https://bdu.dev
 - You can earn devcash through bounties
 - You can use devcash to incentivize others to work for you
 
+### Bounty Hunting
+"Bounty Hunting is a complicated profession" 
+
+- The Client (Mandalorian Season 1 Ep 1)
+
+A bounty is
+
+- a task with a reward
+- the reward is normally given based on successful completion of task, not based time and effort expended
+- Bounty hunting can be ruthless, but highly lucrative for those at the top of their game
+
+Devcash bounty platform
+
+
+
+- the devcash bounty platforms works on Ethereum mainnet and xdai chain. We will be using the version on xdaichain
+
+-how it works
+
+- become a bounty hunter by hunting your first bounty
+
+- we do our best to provide a gentle introduction to bounty hunting
+
+
 ## Practice
 
 ### Become a Bounty Hunter
