@@ -11,12 +11,11 @@ Make sure you cover the entire lesson including the links
 ## Theory
 
 ### Bounty Hunting
-"Bounty Hunting is a complicated profession" 
-- The Client (Mandalorian Season 1 Ep 1)
+"Bounty Hunting is a complicated profession" - The Client (Mandalorian Season 1 Ep 1)
 
 A bounty is a task with a reward attached to it. The reward is normally given based on successful completion of task, not based time and effort expended.
 
-There are multiple bounty platforms in the crypto space including Gitcoin, Bounties Network, Ox bounties, Rabbithole, BitcoinTalk bounties, and more. 
+There are multiple bounty platforms in the crypto space including Gitcoin, Bounties Network, Ox bounties, Rabbithole, BitcoinTalk bounties, and more. All these let you perform tasks in exchange for crypto. 
 
 Bounty hunting can be ruthless, but highly lucrative for those at the top of their game. 
 
