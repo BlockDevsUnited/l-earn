@@ -37,7 +37,7 @@ You can join our discord community here: https://discord.gg/V4Tncte9D5
 
 ### Devcash Background
 
-Devcash is the native cryptocurrency for the BDU Ecosystem. We call Devcash "cash for the developer economy". Devcash is an ERC20 token on Ethereum, and bridged to xDAI Chain. 
+Devcash is the native cryptocurrency for the BDU Ecosystem. We call Devcash "cash for the developer economy". Devcash is an [ERC20 token](https://etherscan.io/address/0x0fca8fdb0fb115a33baadec6e7a141ffc1bc7d5a) on Ethereum, and bridged to xDAI Chain. 
 
 You can earn Devcash by performing bounties on the bounty platform, and contributing to the BDU ecosystem.  You can use Devcash to incentivize others to work for you by posting bounties. 
 
