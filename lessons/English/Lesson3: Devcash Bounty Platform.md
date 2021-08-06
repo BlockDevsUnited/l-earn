@@ -64,7 +64,7 @@ Once the bounty is posted, hunters can start making submissions. The poster can 
 
 As soon as the bounty is posted, the required amounts of xDAI and Devcash are locked up in a special smart contract for that bounty called a "bounty chest".
 The bounty reward must stay in the chest until the bounty task is completed, or the bounty deadline expires. 
-The reward inside the Bounty Chest is publically visible and verifiable on chain, so that Bounty Hunter can feel secure that the money exists, and is reserved for the completion of the task. 
+The reward inside the bounty chest is publically visible and verifiable on chain, so that bounty hunter can feel secure that the money exists, and is reserved for the completion of the task. 
 
 Once a submission is approved, the reward gets sent from the bounty chest contract to the bounty hunter's address. 
 
