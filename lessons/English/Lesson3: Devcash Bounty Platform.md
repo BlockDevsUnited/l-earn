@@ -19,7 +19,7 @@ There are multiple bounty platforms in the crypto space including Gitcoin, Bount
 
 Bounty hunting can be ruthless, but highly lucrative for those at the top of their game. 
 
-The most common form of bounty are bug bounties, however general bounties in the crypto space are becoming increasingly popular. 
+The most common form of bounty are bug bounties, bounties for general work are becoming increasingly popular in the crypto space. 
 
 ### Platform Overview
 
@@ -50,25 +50,39 @@ Read more here: https://devcash.dev
 
 ### How the Platform works
 
+There are two users of the platform. Bounty Posters, and Bounty Hunters. Both need an Ethereum wallet to use the platform. 
 
+There are two types of bounties, open bounties and personal bounties. Open Bounties are available for all bounty hunters. Personal Bounties are only available to the holder of an individual address. In some cases, a bounty poster might post an open bounty to submit proposals for a big project, and reward all sensible proposals, but choose only one bounty hunter and post a personal bounty to them to complete the project. 
 
--how it works
+When a bounty gets posted, the poster must provide 
+- a title 
+- a description
+- xDai and Devcash reward amounts
+- Number of bounties available
+- a deadline (optional)
+- Address of the bounty hunter (optional)
 
-Become a bounty hunter by hunting your first bounty here: 
+Once the bounty is posted, hunters can start making submissions. The poster can then review the submission, and approve or reject them based on the conditions in the description. It is the poster's job to verify the work done. 
+
+As soon as the bounty is posted, the required amounts of xDAI and Devcash are locked up in a special smart contract for that bounty called a "bounty chest".
+The bounty reward must stay in the chest until the bounty task is completed, or the bounty deadline expires. 
+The reward inside the Bounty Chest is publically visible and verifiable on chain, so that Bounty Hunter can feel secure that the money exists, and is reserved for the completion of the task. 
+
+Once a submission is approved, the reward gets sent from the bounty chest contract to the bounty hunter's address. 
 
 
 
 ## Practice
 
 ### Become a Bounty Hunter
-Follow the steps here to become a Devcash Bounty Hunter: https://xdai.devcash.dev/bountyplatform/bounty/72
+Follow the steps here to become a Devcash Bounty Hunter: https://xdai.devcash.dev/bountyplatform/bounty/75
 
 ### Verify your payment
 Once your submission has been approved, make sure you got paid properly. Check blockscout to see if the payment was sent to your address. 
 
 ### Continue Hunting Bounties
  
-We will be posting bounties to help build the Earn and Learn program!
+More bounties are available. We will also be posting bounties to help build the Earn and Learn program!
 
 
 
