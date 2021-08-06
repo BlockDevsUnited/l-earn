@@ -4,48 +4,51 @@ The Devcash bounty platform is a decentralized app that lets you post and hunt b
 
 The platform is hosted at https://xdai.devcash.dev
 
-The platform supports xDAI, and Devcash, the native cryptocurrency of BDU. The Devcash Bounty Platform was developed by BDU as a way to incentivize developers to contribute to our organization. 
-About BDU: https://bdu.dev
+During this lesson we will learn about bounty hunting and use the Platform to complete bounties.
 
-During this lesson we will use the Platform to hunt bounties. 
+Make sure you cover the entire lesson including the links
 
 ## Theory
 
-### BDU
+### BDU Background
 
 BDU stands for Blockchain Developers United.
 https://bdu.dev
-BDU is a decentralized, autonomous network of developer communities
 
+BDU is a decentralized network of developer communities. We have communities such as Toronto, Buenos Aires and Singapore that hold regular events 
+
+You can join our discord community here: 
 
 ### Devcash
 
-- Devcash is the native cryptocurrency for the BDU Ecosystem
-- Devcash is cash for the developer economy
-- You can earn devcash through bounties
-- You can use devcash to incentivize others to work for you
+Devcash is the native cryptocurrency for the BDU Ecosystem. We call Devcash "cash for the developer economy". Devcash is an ERC20 token on Ethereum, and bridged to xDAI. 
+
+You can earn devcash by performing bounties on the bounty platform. You can also use devcash to incentivize others to work for you.
+
+We are also running an IBO (Initial Bounty Offering) 
+
+Read more here: https://devcash.dev
+
 
 ### Bounty Hunting
 "Bounty Hunting is a complicated profession" 
 - The Client (Mandalorian Season 1 Ep 1)
 
-A bounty is a task with a reward attached. The reward is normally given based on successful completion of task, not based time and effort expended.
+A bounty is a task with a reward attached to it. The reward is normally given based on successful completion of task, not based time and effort expended.
 
 Bounty hunting can be ruthless, but highly lucrative for those at the top of their game
 
-Devcash bounty platform
 
-### Devcash Bounty Platform
-
+### How the Devcash Bounty Platform works
 
 
-- the devcash bounty platforms works on Ethereum mainnet and xdai chain. We will be using the version on xdaichain
+the devcash bounty platforms works on both Ethereum mainnet and xDai chain. We will use  the version on xDai chain
 
 -how it works
 
-- become a bounty hunter by hunting your first bounty
+Become a bounty hunter by hunting your first bounty here: 
 
-- we do our best to provide a gentle introduction to bounty hunting
+We do our best to provide a gentle introduction to bounty hunting
 
 
 ## Practice
