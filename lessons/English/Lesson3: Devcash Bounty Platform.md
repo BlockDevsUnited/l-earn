@@ -4,9 +4,7 @@ The Devcash bounty platform is a decentralized app that lets you post and hunt b
 
 The platform is hosted at https://xdai.devcash.dev
 
-During this lesson we will learn about the platform, why it exists, and use it to complete bounties.
-
-Be sure to study the entire lesson including material in the links. 
+During this lesson we will learn about the platform, why it exists, and use it to complete bounties. Be sure to study the entire lesson including material in the links. 
 
 ## Theory
 
