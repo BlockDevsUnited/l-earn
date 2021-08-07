@@ -76,9 +76,9 @@ Once a submission is approved, the reward gets sent from the bounty chest contra
 Follow the steps here to become a DevCash Bounty Hunter: https://xdai.devcash.dev/bountyplatform/bounty/75
 
 ### Verify your payment
-Once your submission has been approved, make sure you got paid properly. Check blockscout to see if the payment was sent to your address. 
+Once your submission has been approved, make sure you got paid properly. Check Blockscout to see if the payment was sent to your address. 
 
-### Continue Hunting Bounties
+### Continue Hunting Bounties!
  
 More bounties are available. We will also be posting bounties to help build the Learn and Earn program!
 
