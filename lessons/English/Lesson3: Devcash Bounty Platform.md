@@ -1,6 +1,6 @@
-# Devcash Bounty Platform
+# DevCash Bounty Platform
 
-The Devcash bounty platform is a decentralized app that lets you post and hunt bounties. 
+The DevCash bounty platform is a decentralized app that lets you post and hunt bounties. 
 
 The platform is hosted at https://xdai.devcash.dev
 
@@ -13,7 +13,7 @@ During this lesson we will learn about the platform, why it exists, and use it t
 
 A bounty is a task with a reward attached to it. The reward is normally given based on successful completion of task, not based time and effort expended.
 
-There are multiple bounty platforms in the crypto space including [Gitcoin](gitcoin.co), [bounties.network](https://bounties.network),[0x Bounties](https://bounty0x.io), [Rabbithole](https://rabbithole.gg), [BitcoinTalk bounties](https://bitcointalk.org/index.php?board=238.0), and more. All these let you perform tasks in exchange for crypto. 
+There are multiple bounty platforms in the crypto space including [Gitcoin](gitcoin.co), [bounties.network](https://bounties.network), [0x Bounties](https://bounty0x.io), [Rabbithole](https://rabbithole.gg), [BitcoinTalk bounties](https://bitcointalk.org/index.php?board=238.0), and more. All these let you perform tasks in exchange for crypto. 
 
 Bounty hunting can be ruthless, but highly lucrative for those at the top of their game. 
 
@@ -21,9 +21,9 @@ The most common form of bounty are bug bounties, however bounties for general wo
 
 ### Platform Overview
 
-The Devcash Bounty Platform was developed by BDU to incentivize developers to contribute to our organization. It works on both Ethereum mainnet (https://devcash.dev) and xDai chain (https://xdai.devcash.dev). We will be using the xDAI version.
+The DevCash Bounty Platform was developed by BDU to incentivize developers to contribute to our organization. It works on both Ethereum mainnet (https://devcash.dev) and xDAI chain (https://xdai.devcash.dev). We will be using the xDAI version.
 
-Anybody can use the platform to post or hunt for bounties. ETH, xDAI and Devcash are currently supported as rewards. 
+Anybody can use the platform to post or hunt for bounties. ETH, xDAI and DevCash are currently supported as rewards. 
 
 ### BDU Background
 
@@ -35,11 +35,11 @@ BDU is a decentralized network of developer communities. We have communities suc
 You can join our discord community here: https://discord.gg/V4Tncte9D5
 
 
-### Devcash Background
+### DevCash Background
 
-Devcash is the native cryptocurrency for the BDU Ecosystem. We call Devcash "cash for the developer economy". Devcash is an [ERC20 token](https://etherscan.io/address/0x0fca8fdb0fb115a33baadec6e7a141ffc1bc7d5a) on Ethereum, and [bridged to xDAI Chain](https://blockscout.com/xdai/mainnet/tokens/0x248E081e3C9e738D7C1ded5d471069dcf4Fd9B15). 
+DevCash is the native cryptocurrency for the BDU Ecosystem. We call DevCash "cash for the developer economy". DevCash is an [ERC20 token](https://etherscan.io/address/0x0fca8fdb0fb115a33baadec6e7a141ffc1bc7d5a) on Ethereum, and [bridged to xDAI Chain](https://blockscout.com/xdai/mainnet/tokens/0x248E081e3C9e738D7C1ded5d471069dcf4Fd9B15). 
 
-You can earn Devcash by performing bounties on the bounty platform, and contributing to the BDU ecosystem.  You can use Devcash to incentivize others to work for you by posting bounties. 
+You can earn DevCash by performing bounties on the bounty platform, and contributing to the BDU ecosystem.  You can use DevCash to incentivize others to work for you by posting bounties. 
 
 We are currently running an IBO (Initial Bounty Offering). 
 
@@ -53,16 +53,16 @@ There are two users of the platform. Bounty Posters, and Bounty Hunters. Both ne
 There are two types of bounties, open bounties and personal bounties. Open Bounties are available for all bounty hunters. Personal Bounties are only available to the holder of an individual address. In some cases, a bounty poster might post an open bounty to submit proposals for a big project, and reward all sensible proposals, but choose only one bounty hunter and post a personal bounty to them to complete the project. 
 
 When a bounty gets posted, the poster must provide 
-- a title 
-- a description
-- xDai and Devcash reward amounts
+- A title 
+- A description
+- xDAI and DevCash reward amounts
 - Number of bounties available
-- a deadline (optional)
+- A deadline (optional)
 - Address of the bounty hunter (optional)
 
 Once the bounty is posted, hunters can start making submissions. The poster can then review the submission, and approve or reject them based on the conditions in the description. It is the poster's job to verify the work done. 
 
-As soon as the bounty is posted, the required amounts of xDAI and Devcash are locked up in a special smart contract for that bounty called a "bounty chest".
+As soon as the bounty is posted, the required amounts of xDAI and DevCash are locked up in a special smart contract for that bounty called a "bounty chest".
 The bounty reward must stay in the chest until the bounty task is completed, or the bounty deadline expires. 
 The reward inside the bounty chest is publically visible and verifiable on chain, so that bounty hunter can feel secure that the money exists, and is reserved for the completion of the task. 
 
@@ -73,14 +73,14 @@ Once a submission is approved, the reward gets sent from the bounty chest contra
 ## Practice
 
 ### Become a Bounty Hunter
-Follow the steps here to become a Devcash Bounty Hunter: https://xdai.devcash.dev/bountyplatform/bounty/75
+Follow the steps here to become a DevCash Bounty Hunter: https://xdai.devcash.dev/bountyplatform/bounty/75
 
 ### Verify your payment
 Once your submission has been approved, make sure you got paid properly. Check blockscout to see if the payment was sent to your address. 
 
 ### Continue Hunting Bounties
  
-More bounties are available. We will also be posting bounties to help build the Earn and Learn program!
+More bounties are available. We will also be posting bounties to help build the Learn and Earn program!
 
 
 
