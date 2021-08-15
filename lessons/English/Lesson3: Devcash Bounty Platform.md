@@ -62,9 +62,10 @@ When a bounty gets posted, the poster must provide
 
 Once the bounty is posted, hunters can start making submissions. The poster can then review the submission, and approve or reject them based on the conditions in the description. It is the poster's job to verify the work done. 
 
-As soon as the bounty is posted, the required amounts of xDAI and DevCash are locked up in a special smart contract for that bounty called a "bounty chest".
+As soon as the bounty is posted, the required amounts of xDAI and DevCash are locked up in a special smart contract for that bounty called a "bounty chest". Anyone can increase the bounty reward by sending funds directly to the bounty chest's contract address!
 The bounty reward must stay in the chest until the bounty task is completed, or the bounty deadline expires. 
 The reward inside the bounty chest is publically visible and verifiable on chain, so that bounty hunter can feel secure that the money exists, and is reserved for the completion of the task. 
+
 
 Once a submission is approved, the reward gets sent from the bounty chest contract to the bounty hunter's address. 
 
