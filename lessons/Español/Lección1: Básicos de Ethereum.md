@@ -51,4 +51,4 @@ Nunca revele sus claves privadas o su frase semilla. Si alguna vez alguien le pi
 Para esta fase piloto de Learn and Earn, un miembro de BDU probará sus conocimientos en una llamada 1 on 1, utilizando [BrightID](https://www.brightid.org/) para verificar su identidad. Póngase en contacto con nosotros a través de ésta vía o en el grupo de Telegram en nuestro sitio web.
 
 ### Compartir dirección
-Una vez que Metamask esté instalado, copie su address y envíela a uno de los propietarios de ésta publicación.
+Una vez que Metamask esté instalado, copie su address y envíela a uno de los propietarios de éste repositorio.
