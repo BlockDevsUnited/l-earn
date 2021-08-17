@@ -8,7 +8,7 @@ Further learning
 
 # Intro to BDU L-EARN
 
-Welcome to BDU L-EARN! We are a Learn and Earn community created by (Block Devs United)[https://bdu.dev], where you can learn about crypto, and earn crypto at the same time!
+Welcome to BDU L-EARN! We are a Learn and Earn community started by [Block Devs United](https://bdu.dev), where you can learn about crypto, and earn crypto at the same time!
 
 In BDU L-EARN, education is peer to peer, where students learn from and teach each other directly.
 
