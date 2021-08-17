@@ -41,7 +41,7 @@ Never give out your private keys or seed phrase. If anyone ever asks for them, r
 
 ## 2. Practice
 
-### Using Metamask 
+### Using Metamask
 - Go to [MetaMask](https://metamask.io)
 
 - Follow the instructions and install the Metamask browser extension.
@@ -50,7 +50,7 @@ Never give out your private keys or seed phrase. If anyone ever asks for them, r
 
 ## 3. Testing
 
-For this pilot phase of Learn and Earn, you'll have someone from BDU test your knowledge on a 1-to-1 call, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website. 
+For this pilot phase of Learn and Earn, you'll have someone from BDU test your knowledge on a 1-to-1 call, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website.
 
 ### Share your Ethereum address
 Once Metamask is installed, copy your address and send it to one of the owners of this repo.

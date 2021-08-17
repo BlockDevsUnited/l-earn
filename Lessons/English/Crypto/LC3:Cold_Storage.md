@@ -14,7 +14,7 @@
 
 ### 1. Theory
 - Understand the meaning of public/private key pairs
-- Understand what seed phrases are 
+- Understand what seed phrases are
 - Understand the importance of self custody
 
 ### 2. Practice
@@ -22,4 +22,4 @@
 - Create offline cold storage wallet
 
 ### 3. Testing
-For this pilot phase of Learn and Earn, you'll have someone from BDU test your knowledge on a 1-to-1 call, using [BrightID](https://www.brightid.org/) to verify your identity. Get intouch with them via this repo or on the Telegram group on our website. 
+For this pilot phase of Learn and Earn, you'll have someone from BDU test your knowledge on a 1-to-1 call, using [BrightID](https://www.brightid.org/) to verify your identity. Get intouch with them via this repo or on the Telegram group on our website.
