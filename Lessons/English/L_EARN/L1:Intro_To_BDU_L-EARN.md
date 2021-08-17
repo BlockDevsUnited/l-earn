@@ -1,17 +1,14 @@
 #Intro to BDU L-EARN
 
-Welcome to BDU L-EARN!
-
-BDU L-EARN is a Learn and Earn program, where you can learn about crypto and earn crypto at the same time.
-
+Welcome to BDU L-EARN! BDU L-EARN is a Learn and Earn program, where you can learn about, and earn cryptocurrency at the same time.
 
 
 ## Learning
 ### Topics
 
-Crypto
+The primary topic in this program is cryptocurrency. We cover the major cryptocurrencies Bitcoin and Ethereum,
 
-### Lesson structure
+### Lesson Structure
 Our educational material is organized in a tree like structure. The tree has learning categories, or "branches", and lessons, or "leafs". We call this the learning tree.
 
 #### Lesson codes
@@ -32,15 +29,18 @@ LC3: Cold_Storage
 ```
 and so on.
 
-Every lesson has a place on the learning tree and is known by a lesson code. For example LCEXD1 - dApps on xDaiChain
+Every lesson has a place on the learning tree and is known by a lesson code. For example
+```
+LCEXD1 - dApps on xDaiChain
+```
 
+### Learning Paths
 
 
 ### Peer to Peer
-
+We encourage peer to peer learning
 ## Earning
 ### Rewards
 ### Tests
-###
 
-##
+## Sponsors
