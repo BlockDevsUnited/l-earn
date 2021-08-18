@@ -20,6 +20,10 @@ Read more below.
 
 Learning is our primary focus (learn first, earn second)! In this section you will learn how , how lessons are structured, and about learning paths in BDU L-EARN.
 
+### Topics
+
+We focus on crypto, small core of beginner tutorials, and the developer tutorials.
+
 ### Learning Tree
 
 Our educational material is organized in a tree like structure. The tree has learning categories, or "branches", and lessons, or "leafs". We call this the learning tree.
@@ -49,14 +53,18 @@ Every lesson has a place on the learning tree and is known by a lesson code. For
 LCEXD1 - dApps on xDaiChain
 ```
 
-### Learning Paths
+## Learning Paths
 
 A learning path is a list of lessons taken from the learning tree, that is geared towards  learning outcome. . Learning paths are basically courses w.
 
 Anyone can create their own learning path from the learning tree, and share it with others.
 
-### Peer to Peer Learning
+### Open Source
+All lessons are open source on github.
+
+### Peer to Peer
 We encourage peer to peer learning and teaching
+
 ##Earn
 ### Rewards
 ### Tests
