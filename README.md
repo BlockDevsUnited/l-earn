@@ -8,9 +8,9 @@ Further learning
 
 # Intro to BDU L-EARN
 
-Welcome to BDU L-EARN! We are a Learn and Earn community started by [Block Devs United](https://bdu.dev), where you can **learn and earn crypto** at the same time!
+Welcome to BDU L-EARN! We are a Learn and Earn program started by [Block Devs United](https://bdu.dev), where you can **learn and earn crypto** at the same time!
 
-In BDU L-EARN, education is peer to peer, where students learn from and teach each other directly.
+In BDU L-EARN, education is peer to peer, where students learn from and teach each other directly. Join the community here.
 
 This lesson introduces you to BDU L-EARN, and teaches you how to get started.
 
@@ -22,7 +22,9 @@ Learning is our primary focus (learn first, earn second)! In this section you wi
 
 ### Topics
 
-We focus on crypto, small core of beginner tutorials, and the developer tutorials.
+We focus on crypto lessons. We offer small core of general crypto lessons for beginners, and an expanded set of lessons for blockchain developers. That's because BDU's core focus is to train blockchain developers
+
+There is also a small group of lessons involving the L-EARN program itself. This lesson is part of that group!
 
 ### Learning Tree
 
@@ -65,8 +67,24 @@ All lessons are open source on github.
 ### Peer to Peer
 We encourage peer to peer learning and teaching
 
-##Earn
-### Rewards
-### Tests
+## Earn
+True to the name, after learning a lesson, you can earn crypto. This works by passing a test or trial. After you pass you can get rewarded
 
-## Sponsors
+### Rewards
+Every lesson has a reward attached. This lesson included! The reward for learning this lesson and passing the test at the end is 5 xDai.
+
+Rewards are always in cryptocurrency! The type of crypto depends on which sponsors fund our learn
+
+### Sponsors
+Sponsors come in and fund this program, so that people can learn about their platform and earn their cryptocurrency.
+
+This is where most of the money comes from to pay earners.
+
+What's in it for sponsors?
+If you are interested Sponsoring reach out here
+
+## Tests
+
+Every lesson includes a test or trial at the end. Learners must pass this test to earn crypto.
+
+A test is available for this lesson. Go here.
