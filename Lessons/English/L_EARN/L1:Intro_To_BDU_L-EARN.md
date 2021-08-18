@@ -8,6 +8,8 @@ The goal is train people with cryptocurrency skills, provide accessible means to
 
 This lesson introduces you to BDU L-EARN, and teaches you how to get started.
 
+Reward: 2.5 xDai
+
 ## Learn
 
 Learning about cryptocurrency is our primary focus (learn first, earn second)! In this section you will learn what topics we focus on, how lessons are structured, and about learning trees and learning paths in BDU L-EARN.
@@ -79,6 +81,6 @@ If you are interested Sponsoring reach out here
 
 Every lesson includes a test or trial at the end. Learners must pass this test to earn crypto. First you must study a lesson, and when you are ready you can take a test.
 
-Testing at the moment is done manually in our discord group. A tester will have a conversation with you, ask you questions, and ask you to complete exercises to prove you have learned the material.
+Testing at the moment is done manually in our discord or telegram group. A tester will have a conversation with you, ask you questions, and ask you to complete exercises to prove you have learned the material.
 
-A test is available for this lesson. Go here to take the test when you are ready!
+A test is available for this lesson. [Go here to take the test when you are ready!](t.me/learn_and_earn_crypto) 
