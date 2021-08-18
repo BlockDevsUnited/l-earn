@@ -53,7 +53,7 @@ Every lesson has a place on the learning tree and is known by a lesson code. For
 LCEXD1 - dApps on xDaiChain
 ```
 
-## Learning Paths
+#### Learning Paths
 
 A learning path is a list of lessons taken from the learning tree, that is geared towards  learning outcome. . Learning paths are basically courses w.
 
