@@ -8,7 +8,7 @@ Further learning
 
 # Intro to BDU L-EARN
 
-Welcome to BDU L-EARN! We are a Learn and Earn program started by [Block Devs United](https://bdu.dev), where you can **learn and earn crypto** at the same time!
+Welcome to BDU L-EARN! We are a Learn and Earn community started by [Block Devs United](https://bdu.dev), where you can **learn and earn crypto** at the same time!
 
 In BDU L-EARN, education is peer to peer, where students learn from and teach each other directly. Join the community here.
 
@@ -18,19 +18,19 @@ This lesson introduces you to BDU L-EARN, and teaches you how to get started.
 
 ## Learn
 
-Learning about cryptocurrency is our primary focus (learn first, earn second)! In this section you will learn what topics we focus on, how lessons are structured, and about learning paths in BDU L-EARN.
+Learning about cryptocurrency is our primary focus (learn first, earn second)! In this section you will learn what topics we focus on, how lessons are structured, and about learning trees and learning paths in BDU L-EARN.
 
 ### Topics
 
-Allmost all our lessons are focused on crypto. We offer small core of general crypto lessons for beginners, and an expanded set of lessons for blockchain developers. That's because BDU's core focus is to train blockchain developers
+The primary topics are all cryptocurrency related. We cover the major cryptos Bitcoin and Ethereum, and constantly add more as we go.
+
+We offer small core of general crypto lessons for beginners, and an expanded set of lessons for blockchain developers. That's because BDU's core focus is to train blockchain developers
 
 There is also a small group of lessons involving the BDU L-EARN program itself. This includes lessons on our community, on contributions, on the need for identity, and this very lesson itself!
 
 ### Learning Tree
 
 Our educational material is organized in a tree like structure. The tree has learning categories, or "branches", and lessons, or "leafs". We call this the learning tree.
-
-The primary topics are all about cryptocurrency. We cover the major cryptos Bitcoin and Ethereum, and are adding more as we go.
 
 #### Lesson codes
 Lessons are named by letter codes. The letter codes represent a branch on the learning tree
@@ -57,15 +57,15 @@ LCEXD1 - dApps on xDaiChain
 
 #### Learning Paths
 
-A learning path is a list of lessons taken from the learning tree, that is geared towards  learning outcome. . Learning paths are basically courses w.
+A learning path is a list of lessons taken from the learning tree, that is geared towards a particular learning outcome. Learning paths are basically equivalent to short courses.
 
-Anyone can create their own learning path from the learning tree, and share it with others.
+Anyone can create learning paths and share with others. Students are also free to follow their own personal learning paths, and skip over lessons they know if desired.
 
 ### Open Source
-All lessons are open source on github.
+All lessons are open source on github and free to use for anyone.
 
 ### Peer to Peer
-We encourage peer to peer learning and teaching
+We encourage peer to peer learning and teaching, and even testing.
 
 ## Earn
 True to the name, after learning a lesson, you can earn crypto. This works by passing a test or trial. After you pass you can get rewarded
@@ -85,6 +85,8 @@ If you are interested Sponsoring reach out here
 
 ## Tests
 
-Every lesson includes a test or trial at the end. Learners must pass this test to earn crypto.
+Every lesson includes a test or trial at the end. Learners must pass this test to earn crypto. First you must study a lesson, and when you are ready you can take a test.
 
-A test is available for this lesson. Go here.
+Testing at the moment is done manually in our discord group. A tester will have a conversation with you, ask you questions, and ask you to complete exercises to prove you have learned the material.
+
+A test is available for this lesson. Go here to take the test when you are ready!
