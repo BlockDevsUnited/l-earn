@@ -12,19 +12,19 @@ Welcome to BDU L-EARN! We are a Learn and Earn program started by [Block Devs Un
 
 In BDU L-EARN, education is peer to peer, where students learn from and teach each other directly. Join the community here.
 
-This lesson introduces you to BDU L-EARN, and teaches you how to get started.
+The goal is train people with cryptocurrency skills, provide accessible means to earn crypto, and drive cryptocurrency adoption all at the same time
 
-Read more below.
+This lesson introduces you to BDU L-EARN, and teaches you how to get started.
 
 ## Learn
 
-Learning is our primary focus (learn first, earn second)! In this section you will learn how , how lessons are structured, and about learning paths in BDU L-EARN.
+Learning about cryptocurrency is our primary focus (learn first, earn second)! In this section you will learn what topics we focus on, how lessons are structured, and about learning paths in BDU L-EARN.
 
 ### Topics
 
-We focus on crypto lessons. We offer small core of general crypto lessons for beginners, and an expanded set of lessons for blockchain developers. That's because BDU's core focus is to train blockchain developers
+Allmost all our lessons are focused on crypto. We offer small core of general crypto lessons for beginners, and an expanded set of lessons for blockchain developers. That's because BDU's core focus is to train blockchain developers
 
-There is also a small group of lessons involving the L-EARN program itself. This lesson is part of that group!
+There is also a small group of lessons involving the BDU L-EARN program itself. This includes lessons on our community, on contributions, on the need for identity, and this very lesson itself!
 
 ### Learning Tree
 
