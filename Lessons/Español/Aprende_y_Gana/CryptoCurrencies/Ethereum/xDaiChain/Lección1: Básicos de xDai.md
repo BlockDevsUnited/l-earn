@@ -1,4 +1,4 @@
-# Lesson 2 - xDai
+# Lección 1 - xDai
 
 ## Resultados de aprendizaje
 - [1. Teoría](#1.-Teoría)
