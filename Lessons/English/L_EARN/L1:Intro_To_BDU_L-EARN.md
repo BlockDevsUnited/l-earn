@@ -56,7 +56,7 @@ A learning path is a list of lessons taken from the learning tree, that is geare
 Anyone can create learning paths and share with others. Students are also free to follow their own personal learning paths, and skip over lessons they know if desired.
 
 ### Open Source
-All lessons are open source on github and free to use for anyone.
+All lessons are open source on Github and free to use for anyone.
 
 ### Peer to Peer
 We encourage peer to peer learning and teaching, and even testing.
