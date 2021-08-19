@@ -4,7 +4,7 @@
 
 En BDU L-EARN, la educación es peer to peer (de igual a igual), dónde los estudiantes aprenden y se enseñan unos a otros de manera directa. Pueden unirse a nuestra comunidad [aquí](https://t.me/learn_and_earn_crypto).
 
-El objetivo es capacitar a las personas con habilidades en crypto, proporcionar medios accesibles para ganar criptomonedas e impulsar la adopción de las mismas, todo al mismo tiempo.
+El objetivo es capacitar a personas para que adquieran habilidades en crypto, proporcionar medios accesibles para ganar criptomonedas e impulsar la adopción de las mismas de forma simultánea.
 
 Ésta lección les presenta a BDU Aprende y gana y les enseña cómo comenzar. 
 
@@ -20,7 +20,7 @@ Los temas principales están relacionados con las criptomonedas. Cubrimos las pr
 
 Ofrecemos un pequeño núcleo de lecciones generales de crypto para principiantes y un conjunto ampliado de lecciones para desarrolladores de blockchain. Ésto se debe a que el enfoque principal de BDU es capacitar a personas que deseen unirse a dicho gremio.
 
-También contamos con un pequeño grupo de lecciones relacionadas con el programa BDU Aprende y gana en sí. Esto incluye lecciones sobre nuestra comunidad, nuestras contribuciones, la necesidad de identidad y ¡esta misma lección!
+También contamos con un pequeño grupo de lecciones relacionadas con el programa BDU Aprende y gana en sí mismo. Esto incluye lecciones sobre nuestra comunidad, nuestras contribuciones, la necesidad de identidad y ¡esta misma lección!
 
 ### Árbol de aprendizaje
 
@@ -53,7 +53,7 @@ ACEXD1 - dApps en xDaiChain.
 
 #### Rutas de aprendizaje
 
-Una ruta de aprendizaje es una lista de lecciones extraídas del árbol de aprendizaje, la cual está orientada hacia un resultado de aprendizaje particular. Las rutas de aprendizaje son básicamente el equivalente a cursos cortos.
+Una ruta de aprendizaje es una lista de lecciones extraídas del árbol de aprendizaje, la cual está orientada hacia un resultado de aprendizaje particular. Las rutas de aprendizaje son, básicamente, el equivalente a cursos cortos.
 
 Cualquiera puede crear rutas de aprendizaje y compartirlas con otros. Nuestros estudiantes también son libres de seguir sus propios caminos de aprendizaje personales y omitir las lecciones que conocen, si así lo desean.
 
