@@ -44,7 +44,7 @@ LC3: Cold_Storage
 ```
 and so on.
 
-Every lesson has a place on the learning tree and is known by a lesson code. For example
+Every lesson has a place on the learning tree and is known by a lesson code. For example:
 ```
 LCEXD1 - dApps on xDaiChain
 ```
