@@ -8,7 +8,7 @@ The goal is to train people with cryptocurrency skills, provide accessible means
 
 This lesson introduces you to BDU L-EARN, and teaches you how to get started.
 
-Reward: 2.5 xDai
+Reward: 2.5 xDai.
 
 ## Learn
 
@@ -75,7 +75,7 @@ Sponsors come in and fund this program, so that people can learn about their pla
 This is where most of the money comes from to pay earners.
 
 What's in it for sponsors?
-If you are interested in Sponsoring us, you can reach out to us here
+If you are interested in Sponsoring us, you can reach out to our team here
 
 ## Tests
 
