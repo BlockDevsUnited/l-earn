@@ -3,7 +3,7 @@
 Welcome to BDU L-EARN! We are a Learn and Earn community started by [Block Devs United](https://bdu.dev), where you can **learn and earn crypto** at the same time!
 
 ## Join the community
-Join our community by clicking on these links
+Here are the links to our community channels
 * [Discord](https://discord.gg/k2psXymRk3) 
 * [Spanish Telegram Channel ](t.me/learn_and_earn_crypto) 
 * [English Telegram Channel ](t.me/bdu_learn)
