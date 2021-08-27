@@ -19,5 +19,3 @@ Start with [Intro to BDU L-EARN](https://github.com/BlockDevsUnited/learn-and-ea
 
 More coming soon!
 
-## Contribute
-Read our lessons on how to contribute
