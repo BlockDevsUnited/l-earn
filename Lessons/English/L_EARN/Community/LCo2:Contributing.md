@@ -25,10 +25,14 @@ Readings:
 * [Read this Article](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 * [Watch this video](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
+Developers use Github from the command line. However for this lesson, it is enough to use Github through the website interface.
 
 ### Markdown Files
 
-* Follow this guide
+Markdown is a way to style text on the web. Markdown files end with .md.
+
+Basically all text on github is written using Markdown.
+
 
 ### Contributor Rewards
 
@@ -54,6 +58,7 @@ Your potential as a contributor may be judged by the quality of your lesson, so 
 
 ### Make Pull Request
 The easiest way to make a pull request is by editing our repository, and once your are done, click "Submit Pull Request" at the bottom.
+
 
 ## Testing
 Let us know in the discord when you are ready for a test.
