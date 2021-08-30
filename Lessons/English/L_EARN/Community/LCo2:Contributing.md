@@ -1,7 +1,7 @@
 # Contributing to BDU L-EARN
 This lesson provides the information you need to know, to contribute to BDU L-EARN.
 
-All our lessons are organized on Github in markdown (.md) format. These tools must be mastered in order to become a contributor.
+All our lessons are organized on Github in markdown (.md) format. These tools must be learnt first before contributing.
 
 Reward: 10 xDai
 
@@ -10,11 +10,11 @@ Reward: 10 xDai
 ## Theory
 
 ### Becoming a Contributor
-Anyone can be a contributor. You just need valuable knowledge, and a passion for education.
+Anyone can be a contributor. You just need valuable knowledge, a passion for education, and some basic Github skills.
 
-If you want a lesson on a topic, and you see it missing from BDU L-EARN, consider creating it yourself! Even if your goal is learning this topic, consider creating a lesson on it. There's almost no better way to learn than by teaching.
+If you're looking for a lesson on a certain topic, and see it missing from BDU L-EARN, consider making it yourself! It's well known that teaching is one of the most effective ways to learn.
 
-If you're already familiar with Github an markdown, you can start writing lessons and make pull requests, and also bring it up for discussion in the community channels.  
+If you're familiar with Github and markdown, you can already start writing lessons and create pull requests, and also bring them up for discussion in the community channels.  
 
 ### Github
 
@@ -25,7 +25,7 @@ Readings:
 * [Read this Article](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 * [Watch this video](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-Developers use Github from the command line. However for this lesson, it is enough to use Github through the website interface.
+Developers use Github from the command line. For this lesson, it is enough to use Github through the website interface.
 
 ### Markdown Files
 
@@ -33,25 +33,26 @@ Markdown is a way to style text on the web. Markdown files end with .md.
 
 Basically all text on github is written using Markdown.
 
+[Review this guide](https://guides.github.com/features/mastering-markdown/)
 
 ### Contributor Rewards
 
-Some rewards are available for contributing high quality lessons. Rewards will increase as we grow.  
+We have some rewards available for contributing high quality lessons. Rewards will increase as we grow.  Ask in the community channels.
 
 ## Practice
 ### Create Github Account
 Create a Github account if you don't have one.
-https://github.com/join
+* https://github.com/join
 
 ### Fork this Repository
-Fork this repository. There's a fork button on the top right of this page.
+Fork this repository. The fork button is at the top right of this page.
 
 ### Create A Markdown File
 Create a markdown file in your forked repository. Create a new file with the .md extension.
 
-[Review this guide](https://guides.github.com/features/mastering-markdown/)
+* [Refer this guide](https://guides.github.com/features/mastering-markdown/)
 
-Use the above guide to create a sample lesson on a cryptocurrency related topic.
+Use the above guide to create a sample lesson on a cryptocurrency related topic. Use headings
 
 Your potential as a contributor may be judged by the quality of your lesson, so don't hold back!
 
