@@ -12,9 +12,10 @@ Reward: 10 xDai
 ### Becoming a Contributor
 Anyone can be a contributor. You just need valuable knowledge, a passion for education, and some basic Github skills.
 
-If you're looking for a lesson on a certain topic, and see it missing from BDU L-EARN, consider making it yourself! It's well known that teaching is one of the most effective ways to learn.
+If you're looking for a lesson on a certain topic, but don't see it in BDU L-EARN, consider making it yourself! Teaching is one of the most effective ways to learn.
 
-If you're familiar with Github and markdown, you can already start writing lessons and create pull requests, and also bring them up for discussion in the community channels.  
+If you're familiar with Github and markdown, you can already start
+writing lessons and create pull requests, and also bring them up for discussion in the community channels.  
 
 ### Github
 
@@ -33,7 +34,7 @@ Markdown is a way to style text on the web. Markdown files end with .md.
 
 Basically all text on github is written using Markdown.
 
-[Review this guide](https://guides.github.com/features/mastering-markdown/)
+* [Review this guide](https://guides.github.com/features/mastering-markdown/)
 
 ### Contributor Rewards
 
@@ -52,13 +53,15 @@ Create a markdown file in your forked repository. Create a new file with the .md
 
 * [Refer this guide](https://guides.github.com/features/mastering-markdown/)
 
-Use the above guide to create a sample lesson on a cryptocurrency related topic. Use headings
+Use the above guide to create a sample lesson on a cryptocurrency related topic.
+* Use headings
+* Use bullet points
 
 Your potential as a contributor may be judged by the quality of your lesson, so don't hold back!
 
 
 ### Make Pull Request
-The easiest way to make a pull request is by editing our repository, and once your are done, click "Submit Pull Request" at the bottom.
+The easiest way to make a pull request is by editing our repository, and once your are done, click "Submit Pull Request".
 
 
 ## Testing
