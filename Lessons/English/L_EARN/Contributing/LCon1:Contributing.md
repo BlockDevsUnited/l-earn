@@ -3,7 +3,7 @@ This lesson provides the information you need to know, to contribute to BDU L-EA
 
 All our lessons are organized on Github in markdown (.md) format. These tools must be learnt first before contributing.
 
-Reward: 10 xDai
+Reward: 7.5 xDai
 
 
 
