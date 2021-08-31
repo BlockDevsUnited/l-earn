@@ -21,11 +21,11 @@ Empezar con [Introducción a BDU Aprende y gana](https://github.com/BlockDevsUni
 * [Intro To Ethereum](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/LCE1:Intro_To_Ethereum.md) - Reward - 5 xDai
 * [Intro to xDaiChain](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/xDaiChain/LCEX1:Intro_To_xDaiChain.md) - Reward - 5 xDai
 * [How to use the Devcash Bounty Platform](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/xDaiChain/dApps/LCEXD3:Devcash_Bounty_Platform.md) - Reward - 5 xDai
-* [Contributing to BDU L-EARN](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/Contributing/LCon1:Contributing.md)
+* [Contributing to BDU L-EARN](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/Contributing/LCon1:Contributing.md) - Reward - 7.5 xDai
 
 #### Espanol
-* [Básicos de Ethereum](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/Lecci%C3%B3n1:%20B%C3%A1sicos%20de%20Ethereum.md)
-* [Básicos de xDai](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/xDaiChain/Lecci%C3%B3n1:%20B%C3%A1sicos%20de%20xDai.md)
-* [Devcash Bounty Platform](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/xDaiChain/dApps/Lecci%C3%B3n3:%20Devcash%20Bounty%20Platform.md)
+* [Básicos de Ethereum](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/Lecci%C3%B3n1:%20B%C3%A1sicos%20de%20Ethereum.md) - Recompensa - 5 xDai
+* [Básicos de xDai](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/xDaiChain/Lecci%C3%B3n1:%20B%C3%A1sicos%20de%20xDai.md) - Recompensa - 5 xDai
+* [Devcash Bounty Platform](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/xDaiChain/dApps/Lecci%C3%B3n3:%20Devcash%20Bounty%20Platform.md) - Recompensa - 5 xDai
 
 More coming soon!
