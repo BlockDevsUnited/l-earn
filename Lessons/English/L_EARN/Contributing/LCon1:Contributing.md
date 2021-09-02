@@ -1,76 +1,68 @@
-# Contribuyendo con BDU Aprende y gana.
+# Contributing to BDU L-EARN
+This lesson provides the information you need to know, to contribute to BDU L-EARN.
 
-Esta lección proporciona la información que necesitan saber para contribuir a BDU L-EARN.
+All our lessons are organized on Github in markdown (.md) format. These tools must be learnt first before contributing.
 
-Todas nuestras lecciones están organizadas en GitHub haciendo uso del formato markdown (.md). Estas herramientas deben aprenderse antes de comenzar contribuir.
-
-Recompensa: 7.5 xDai
-
+Reward: 7.5 xDai
 
 
-## Teoría
+
+## Theory
 
 ### Becoming a Contributor
-Conviértete en un colaborador.
+Anyone can be a contributor. You just need valuable knowledge, a passion for education, and some basic Github skills.
 
-Cualquiera puede contribuir. Sólo necesitas poseer conocimientos valiosos, pasión por la educación y algunas habilidades básicas de GitHub.
+If you're looking for a lesson on a certain topic, but don't see it in BDU L-EARN, consider making it yourself! Teaching is one of the most effective ways to learn.
 
-Si estás buscando una lección acerca de un tema determinado, pero no la encuentras publicada en BDU L-EARN, ¡considera hacerla tú mismo! La enseñanza es una de las formas más efectivas de aprender.
-
-Si estás familiarizado con GitHub y markdown, puedes comenzar a escribir lecciones, crear solicitudes de extracción, y también presentarlas como un tema de debate en los canales de la comunidad.
-
+If you're familiar with Github and markdown, you can already start
+writing lessons and create pull requests, and also bring them up for discussion in the community channels.  
 
 ### Github
 
-GitHub es una plataforma de alojamiento de código para la colaboración y el control de versiones. GitHub te permite a ti (y a otros) trabajar juntos en la realización de diversos proyectos.
+GitHub is a code hosting platform for collaboration and version control. GitHub lets you (and others) work together on projects.
 
-Lecturas:
+Readings:
 * [Read this Tutorial](https://www.w3schools.com/whatis/whatis_github.asp)
 * [Read this Article](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 * [Watch this video](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
-Los desarrolladores usan GitHub desde la línea de comandos. Para esta lección, bastará con usar GitHub a través de su interfaz de sitio web.
+Developers use Github from the command line. For this lesson, it is enough to use Github through the website interface.
 
-### Archivos de markdown.
+### Markdown Files
 
-Markdown es una forma de estilizar texto en la web. Los archivos de markdown terminan en .md.
+Markdown is a way to style text on the web. Markdown files end with .md.
 
-Básicamente, todo el texto en GitHub está escrito usando markdown.
+Basically all text on github is written using Markdown.
 
-* [Revisa esta guía](https://guides.github.com/features/mastering-markdown/)
+* [Review this guide](https://guides.github.com/features/mastering-markdown/)
 
-### Recompensas de colaboradores
+### Contributor Rewards
 
-Tenemos algunas recompensas disponibles por contribuir lecciones de alta calidad. Las recompensas aumentarán a medida que el programa crezca. Puedes preguntar más detalles al respecto en los canales de la comunidad.
+We have some rewards available for contributing high quality lessons. Rewards will increase as we grow.  Ask in the community channels.
 
-## Práctica
+## Practice
 ### Create Github Account
-Crear una cuenta de GitHub
+Create a Github account if you don't have one.
+* https://github.com/join
 
-* Crea una cuenta de GitHub si no tienes una.
+### Fork this Repository
+Fork this repository. The fork button is at the top right of this page.
 
- https://github.com/join
+### Create A Markdown File
+Create a markdown file in your forked repository. Create a new file with the .md extension.
 
+* [Refer this guide](https://guides.github.com/features/mastering-markdown/)
 
-### Bifurcar (fork) un repositorio
+Use the above guide to create a sample lesson on a cryptocurrency related topic.
+* Use headings
+* Use bullet points
 
-Bifurca este repositorio. El botón de bifurcación está en la parte superior derecha de esta página.
-
-### Crear un archivo de markdown.
-
-Utiliza la guía anterior para crear una lección de muestra sobre un tema relacionado con las criptomonedas.
-
-* [Implementa esta guía](https://guides.github.com/features/mastering-markdown/)
-
-* Usa encabezados
-* Usa puntos de enumeración (bullet points)
-
-Tu potencial como colaborador podría ser juzgado por la calidad de tu lección, ¡así que no te reprimas!
-
-### Hacer solicitud de extracción
-
-La forma más fácil de realizar una solicitud de extracción es editando nuestro repositorio y, una vez que hayas terminado, hagas clic en "Aplicar solicitud de extracción" ("Submit pull request"
+Your potential as a contributor may be judged by the quality of your lesson, so don't hold back!
 
 
-## Pruebas
-Haznos saber en Discord cuando estés listo para realizar una prueba.
+### Make Pull Request
+The easiest way to make a pull request is by editing our repository, and once your are done, click "Submit Pull Request".
+
+
+## Testing
+Let us know in the discord when you are ready for a test.
