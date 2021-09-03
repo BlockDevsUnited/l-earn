@@ -25,9 +25,10 @@ Si estás familiarizado con GitHub y markdown, puedes comenzar a escribir leccio
 GitHub es una plataforma de alojamiento de código para la colaboración y el control de versiones. GitHub te permite a ti (y a otros) trabajar juntos en la realización de diversos proyectos.
 
 Lecturas:
-* [Read this Tutorial](https://www.w3schools.com/whatis/whatis_github.asp)
-* [Read this Article](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
-* [Watch this video](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+* [Lee este tutorial](https://www.hostinger.es/tutoriales/que-es-github)
+* [Lee este artículo](https://www.crehana.com/blog/marketing-digital/para-que-sirve-github/)
+* [Mira este vídeo](https://youtu.be/YqsPBnCpUOY)
+
 
 Los desarrolladores usan GitHub desde la línea de comandos. Para esta lección, bastará con usar GitHub a través de su interfaz de sitio web.
 
@@ -37,7 +38,7 @@ Markdown es una forma de estilizar texto en la web. Los archivos de markdown ter
 
 Básicamente, todo el texto en GitHub está escrito usando markdown.
 
-* [Revisa esta guía](https://guides.github.com/features/mastering-markdown/)
+* [Revisa esta guía](https://lab.github.com/DeustoPWEB/comunicar-usando-markdown)
 
 ### Recompensas de colaboradores
 
