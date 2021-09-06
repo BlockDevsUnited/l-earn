@@ -49,9 +49,11 @@ Create a Github account if you don't have one.
 Fork this repository. The fork button is at the top right of this page.
 
 ### Create A Markdown File
-Create a markdown file in your forked repository. Create a new file with the .md extension.
+Create a markdown file in your forked repository, inside the "Student_Assignments" folder in the "Contributing" directory. Make sure the file has a .md extension.
 
 * [Refer this guide](https://guides.github.com/features/mastering-markdown/)
+
+
 
 Use the above guide to create a sample lesson on a cryptocurrency related topic.
 * Use headings
@@ -62,6 +64,8 @@ Your potential as a contributor may be judged by the quality of your lesson, so 
 
 ### Make Pull Request
 The easiest way to make a pull request is by editing our repository, and once your are done, click "Submit Pull Request".
+
+
 
 
 ## Testing
