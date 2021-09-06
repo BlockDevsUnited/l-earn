@@ -53,8 +53,6 @@ Create a markdown file in your forked repository, inside the "Student_Assignment
 
 * [Refer this guide](https://guides.github.com/features/mastering-markdown/)
 
-
-
 Use the above guide to create a sample lesson on a cryptocurrency related topic.
 * Use headings
 * Use bullet points

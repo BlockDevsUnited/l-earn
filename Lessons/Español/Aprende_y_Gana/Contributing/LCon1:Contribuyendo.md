@@ -59,6 +59,9 @@ Bifurca este repositorio. El botón de bifurcación está en la parte superior d
 
 ### Crear un archivo de markdown.
 
+Crea un archivo de markdown en tu repositorio bifurcado, dentro de la carpeta "Student_Assignments" en el directorio "Contribuyendo". Asegúrate de que el archivo tenga la extensión .md.
+
+
 Utiliza la guía anterior para crear una lección de muestra sobre un tema relacionado con las criptomonedas.
 
 * [Implementa esta guía](https://guides.github.com/features/mastering-markdown/)
