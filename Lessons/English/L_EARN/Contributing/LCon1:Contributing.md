@@ -17,6 +17,8 @@ If you're looking for a lesson on a certain topic, but don't see it in BDU L-EAR
 If you're familiar with Github and markdown, you can already start
 writing lessons and create pull requests, and also bring them up for discussion in the community channels.  
 
+#### Writing lessons
+
 ### Github
 
 GitHub is a code hosting platform for collaboration and version control. GitHub lets you (and others) work together on projects.
