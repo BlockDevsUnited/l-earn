@@ -28,5 +28,6 @@ Empezar con [Introducción a BDU Aprende y gana](https://github.com/BlockDevsUni
 * [Básicos de xDai](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/xDaiChain/Lecci%C3%B3n1:%20B%C3%A1sicos%20de%20xDai.md) - Recompensa - 5 xDai
 * [Devcash Bounty Platform](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/xDaiChain/dApps/Lecci%C3%B3n3:%20Devcash%20Bounty%20Platform.md) - Recompensa - 5 xDai
 * [Contribuyendo con BDU Aprende y gana](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Español/Aprende_y_Gana/Contributing/LCon1:Contribuyendo.md) - 7.5 xDai
+* [BrightID](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/Identity/LI2:BrightID.md)
 
 More coming soon!
