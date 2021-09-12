@@ -57,5 +57,5 @@ Discordia https://discord.gg/3wE9CMA
 
 # Recompensa
 
-para programar una prueba, comuníquese con nuestros grupos comunitarios
-La recompensa es 5 xDai
+para programar una prueba, comuníquese con nuestros grupos comunitarios.
+La recompensa es 5 xDai.
