@@ -1,47 +1,91 @@
-# **Introducing Honeyswap**
-
-![image](https://user-images.githubusercontent.com/58176712/132248297-d124b30c-7aba-4fa5-b6ac-e28e02d3f586.png)
+# HoneySwap: The Decentralized Exchange In xDai Chain
 
 
- Honeyswap is a permissionless decentralized exchange (DEX) based on Ethereum, built on xDai Layer 2 scalability infrastructure. By utilizing xDai chain for transactions, Honeyswap allow users to trade any ERC20 token and experience fast and secure transactions with incredibly low fees.
+HoneySwap is a decentralized exchange and Automatic Market Maker (AMM) for xDai Chain whose development, support and maintenance is carried out by the 1Hive community.
+At HoneySwap you can trade any ERC20 token on the xDai blockchain with incredibly low commission spending.
 
-### Sitio DEX de Honeyswap
+## How HoneySwap works
 
-https://honeyswap.org/#/swap
+The Dex HoneySwap is a fork of Uniswap v2 implemented in xDai Chain and every time someone makes an exchange, as in any web3 platform, you have to connect your wallet to access the exchange functions and build liquidity pools.
 
- Honeyswap is empowering traders whilst, removing the costly obstacles to entry DEXs for the general crypto user, while incorporating a community-focused governance structure and a honest token distribution model. Yield farming and liquidity mining opportunities will stimulate the growth of a strong liquidity-providing ecosystem.
+* First of all, you simply have to go to https://honeyswap.org/ connect 
+a wallet that supports xDAI Chain, such as Metamask, alpha wallet, among others.
+
+![image](https://user-images.githubusercontent.com/58176712/133015715-aa6aac80-b6ce-419e-ba1c-361728ca507a.png)
 
 
-### What is Honey(HNY)?
+## Liquidity pools
 
- Honey is a digital currency issued and distributed by 1Hive DAO. 
+From HoneySwap you can also provide liquidity to the various swap pairs.
+Liquidity providers (LP) within the decentralized finance ecosystem are those people who contribute funds to a pool of cryptocurrencies to create a market.
+In exchange for providing their funds, users get commissions for the operations carried out in their pool.
+Liquidity providers earn a 0.25% Swap Fee on all trades in proportion to their share of the pool.
+These fees are added to the pool, increasing your participation automatically, and you can claim them when you withdraw your liquidity.
 
-* More details about 1Hive DAO and Honey here:
-    https://1hive.org/#/home 
+![image](https://user-images.githubusercontent.com/58176712/133016637-39b14536-f69a-49af-89df-1951be31deca.png)
 
-* Introducing 1Hive and Honey
-    https://medium.com/1hive/introducing-1hive-and-honey-5b44adb815c9
+To add liquidity, you must select the pair to which you want to add and it is important to know that it must be the same amount added in each token of said pair.
 
- Additional tokens are already trading on Honeyswap, for more details you can check out our analytics page here:
+## Yield Farming
 
-https://info.honeyswap.org/tokens.
+To provide liquidity to HoneySwap pools, 1Hive has created farming farms with very attractive returns that encourage the creation of liquidity pairs by users. In yield farming, users basically obtain profits by betting their generated tokens in the liquidity pool (LP)
 
-# Configure custom RPC in Metamask wallet
+![image](https://user-images.githubusercontent.com/58176712/133018038-60184773-9fc5-46ec-9eef-256cc8898fe3.png)
 
- Before you can interact with the xDai chain, you need to set up your Metamask wallet. If you do not already have Metamask installed on your browser, you can download it here:
+In yield farming, users basically obtain profits by betting their generated tokens in the liquidity pool (LP)
 
-* https://metamask.io/
 
-### Setup your custom RPC to connect to Metamask:
+# How to configure xDai network in my metamask
 
-1. Open Metamask, and select “Custom RPC” from the Network Dropdown.
+   1. Open metamask
 
-![image](https://user-images.githubusercontent.com/58176712/132247976-31d66f15-9381-4e56-bb91-73d88d761435.png)
+   2. Click on "Ethereum Main Network" 
 
-2. “Custom RPC” Settings, add in the xDai network details and click Save:
+      2.1 and then Custom RPC.
 
-  * Network Name: xDai
-  * New RPC URL: https://rpc.xdaichain.com/
-  * Chain ID: 0x64 (100)
-  * Symbol: xDai
-  * Block Explorer URL: https://blockscout.com/poa/xdai
+  ![image](https://user-images.githubusercontent.com/58176712/133018971-1c3fe5a4-ee0c-4703-b020-ab7859e66fa4.png)
+
+ 3. Enter the xDai network information in this order:
+
+
+                                          Network name: xDai
+                                          New RPC URL: https://rpc.xdaichain.com/
+                                          String ID: 0x64 (100)
+                                          Symbol: xDai
+                                          Block Explorer URL: https://blockscout.com/poa/xdai
+
+
+4. Finally, save and connect by changing from Ethereum network to xDai
+
+## AlphaWallet
+
+### [smartphone wallet (Android and iOS) built natively in xDai, so you won't need to program anything.](https://alphawallet.com/)
+
+
+# Required Readings
+
+* [tutorial on how to do Liquidity Pool](https://honeyswap.org/liquidity-pool)
+* [tutorial on how to do yield farming](https://honeyswap.org/yield-farming)
+
+# Links of interest of this lesson
+
+[Honeyswap](https://honeyswap.org/)
+
+[metamask](https://metamask.io/)
+
+# Practical Evaluation
+
+* Configure the xDai Network in your metamask, if you use a mobile device download alpha wallet
+
+* Make an xdai trade for hny
+
+* add liquidity to the xDai/hny pair
+
+# Reward
+
+* 7 xdai
+
+
+
+
+
