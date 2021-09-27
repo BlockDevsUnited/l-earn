@@ -1,4 +1,5 @@
-# POLKADOT
+# POLKADOT NETWORK
+
 ![image](https://user-images.githubusercontent.com/58176712/133651482-17e1b88e-a71f-4274-adbe-1a788f439741.png)
 
 Polkadot is a blockchain protocol and network that incorporates multiple blockchains, **parachains**, connected into one major blockchain, the **relay chain**. Parchains are specialized for particular purposes, and each handle their own parallel stream of transactions, while exchanging data with each other and the relay chain. The relay chain provides a layer of security for itself and all the parachains. 
