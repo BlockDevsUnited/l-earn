@@ -96,4 +96,4 @@ A secure transaction validation mechanism is sought, at the same time that it do
 ## Resources
 
 * [Polkadot Whitepaper](https://polkadot.network/PolkaDotPaper.pdf)
-* [Official Polkadot introcution](https://polkadot.network/blog/what-is-polkadot-a-brief-introduction)
+* [What is Polkadot](https://polkadot.network/blog/what-is-polkadot-a-brief-introduction)
