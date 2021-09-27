@@ -92,3 +92,8 @@ Until the advent of Ethereum, blockchains did not support any customization of t
 4. Low energy impact validation mechanism.
 
 A secure transaction validation mechanism is sought, at the same time that it does not require expensive hardware and high energy consumption
+
+## Resources
+
+* [Polkadot Whitepaper](https://polkadot.network/PolkaDotPaper.pdf)
+* [Official Polkadot introcution](https://polkadot.network/blog/what-is-polkadot-a-brief-introduction)
