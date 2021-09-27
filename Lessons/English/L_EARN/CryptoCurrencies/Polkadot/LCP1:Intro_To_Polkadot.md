@@ -18,9 +18,6 @@ Please read futher here: https://polkadot.network/blog/what-is-polkadot-a-brief-
 
 ### Polkadot leverages four main components to achieve its goals:
 
-![image](https://user-images.githubusercontent.com/58176712/133652249-cd4c4747-5202-42c5-b521-00d3d6a18917.png)
-
-
 * Relay chain
 
 * Parachains
@@ -28,6 +25,10 @@ Please read futher here: https://polkadot.network/blog/what-is-polkadot-a-brief-
 * Parathreads
 
 * Bridges
+
+![image](https://user-images.githubusercontent.com/58176712/133652249-cd4c4747-5202-42c5-b521-00d3d6a18917.png)
+
+
 
 ### The relay chain
 
