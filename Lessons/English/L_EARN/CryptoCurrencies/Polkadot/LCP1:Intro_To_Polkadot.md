@@ -11,12 +11,7 @@ Polkadot lets developers build parachains using the **substrate framework**.
 
 Please read futher here: https://polkadot.network/blog/what-is-polkadot-a-brief-introduction/
 
-## To better understand these terms, it is necessary to talk about how polkadot works:
-
-![image](https://user-images.githubusercontent.com/58176712/133651946-19035ba9-78ae-4900-b904-265200c6b112.png)
-
-
-### Polkadot leverages four main components to achieve its goals:
+## Polkadot leverages four main components:
 
 * Relay chain
 
@@ -45,7 +40,7 @@ As the main component of the polkadot ecosystem this is the list of functions of
 
 ### Parachain
 
-is a complete blockchain application that lives on top of the Relay Chain. It is described by Polkadot in his whitepaper as "an application-specific data structure that is globally consistent and validatable."
+A parachain is a complete blockchain that feeds to and from the Relay Chain. It is described by Polkadot in his whitepaper as "an application-specific data structure that is globally consistent and validatable."
 Parachain is similar to other blockchain networks like Bitcoin or Ethereum Blockchain. Polkadot is unique in that it can contain multiple blockchains within itself. Hypothetically, you can house both the Bitcoin and Ethereum blockchains within itself and place each as a Parachain.
 
 ### Parathreads
