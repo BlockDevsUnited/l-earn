@@ -113,5 +113,5 @@ After studying this lesson, let us know when you are ready to take the test.  Th
 * [Polkadot Whitepaper](https://polkadot.network/PolkaDotPaper.pdf)
 * [What is Polkadot](https://polkadot.network/blog/what-is-polkadot-a-brief-introduction)
 * [Polkadot Wiki](https://wiki.polkadot.network/)
-* [Summary of Polkadot And Substrate] (https://medium.com/polkadot-network/a-brief-summary-of-everything-substrate-and-polkadot-f1f21071499d)
+* [Summary of Polkadot And Substrate](https://medium.com/polkadot-network/a-brief-summary-of-everything-substrate-and-polkadot-f1f21071499d)
 
