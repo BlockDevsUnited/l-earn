@@ -2,16 +2,16 @@
 
 ![https://www.brightid.org](https://uploads-ssl.webflow.com/5e54622b3f6e65be8baf0653/5fdc4719cf8bf208a98162f2_brightid%20final%20logo-01.png)
 
-BrightID es una aplicación que se utiliza para identificar de manera única a las personas. No utiliza una autoridad centralizada, pero determina la singularidad de un usuario mediante un gráfico social. Los usuarios de BrightID escanean los códigos QR de otros usuarios de BrightID y, una vez que se han conectado con suficientes usuarios, la aplicación los verificará como únicos. Los usuarios también pueden marcar a otros usuarios por tener cuentas duplicadas.  permite que las aplicaciones se aseguren de que sus usuarios no tengan varias cuentas para que todos tengan una participación justa y una mejor experiencia.
+BrightID es una red de identidad social utilizada para verificar la singularidad presencial de sus usuarios dentro de las plataformas que hagan uso de la misma. No emplea una autoridad centralizada, pero determina la particularidad de un usuario mediante un gráfico social. Los usuarios de BrightID escanean el códigos QR de un número significativo de participantes  y, una vez que se han conectado con suficientes usuarios, la aplicación los verificará como únicos. Los usuarios también pueden marcar a otros usuarios por tener cuentas duplicadas.  permite que las aplicaciones se aseguren de que sus usuarios no tengan varias cuentas para que todos tengan una participación justa y una mejor experiencia.
 Cada persona tiene una cuenta en BrightID y establece conexiones con personas que conoce. Se forma un gráfico con las cuentas y sus conexiones y las cuentas falsas se detectan analizando el gráfico.
 
-# Como ser verificado con BrightID. 
+# Cómo verificar su cuenta de BrightID. 
 
 1. ***Descargue la aplicación BrightID***:
 
-Esto te permite conectarte a la aplicación y a otras para ayudarte a verificar que eres un ser humano de confianza real.
+Esto le permite conectarse a la misma, así como a cualquier otra de su preferencia, para ayudarle a verificar que es un ser humano real y de confianza.
 
-* https://www.brightid.org
+*https://www.brightid.org
 
 [si esta en android puede descargarlo aqui](https://play.google.com/store/apps/details?id=org.brightid)
 
