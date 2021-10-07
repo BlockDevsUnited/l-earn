@@ -37,9 +37,9 @@ Please read futher here: https://polkadot.network/blog/what-is-polkadot-a-brief-
 
 
 
-#### The relay chain
+#### The Relay Chain
 
-The relay chain is the heart of Polkadot Network, and is responsible for shared security, consensus and interoperability between all Polkadot chains! Polkadot uses the Relay Chain primarily to: 
+The Relay Chain is the heart of Polkadot Network, and is responsible for shared security, consensus and interoperability between all Polkadot chains! Polkadot uses the Relay Chain primarily to: 
 
 * Validate transactions
 * Nominate Validatators to validate transactions
@@ -111,7 +111,7 @@ Until the advent of Ethereum, blockchains did not support any customization of t
 
 #### Low energy impact validation mechanism.
 
-A secure transaction validation mechanism is sought, one that at the same time does not require expensive hardware and high energy consumption.
+Polkadot aims to have a secure transaction validation mechanism, that at the same time does not require expensive hardware and excessive energy consumption.  
 
 ## Practice
 
