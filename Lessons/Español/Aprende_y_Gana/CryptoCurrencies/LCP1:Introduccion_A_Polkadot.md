@@ -86,7 +86,7 @@ Por ejemplo, hace mucho tiempo, costaba entre unos pocos centavos y unos pocos d
 #### Comunicación e intercambio de datos nulo o limitado.
 
 
-Docenas de blockchains fueron creadas de forma aislada y no es posible que se comuniquen o intercambien valor entre sí. Por ejemplo, no es posible enviar BTC en la red de ETH.
+Docenas de blockchains fueron creadas de forma aislada y no es posible que se comuniquen o intercambien valor entre sí. Por ejemplo, no se puede enviar BTC en la red de ETH.
 
 #### Falta de customización.
 
