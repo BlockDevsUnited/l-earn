@@ -1,4 +1,4 @@
-# POLKADOT NETWORK
+# Intro to POLKADOT NETWORK
 
 Polkadot is a blockchain protocol and network that connects multiple blockchains, called **parachains**, into one primary blockchain, called the **relay chain**. Polkadot's native cryptocurrency is called DOT.
 
@@ -6,7 +6,14 @@ Parchains are specialized for specific purposes, and each handle their own paral
 
 Check out the Polkadot [Knowledge Tree](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Knowledge_Tree.jpg) and [Skill Tree](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Skill_Tree.jpg) To get a sense of upcoming lessons!
 
+## Become a Polkadot Developer
+
+Our future lessons will focus on teaching Polkadot development and training you into a Polkadot developer. If you are interested in being a Polkadot Developer, join our community channels and stay tuned for upcoming lessons!
+
 ![image](https://user-images.githubusercontent.com/58176712/133651482-17e1b88e-a71f-4274-adbe-1a788f439741.png)
+
+
+
 
 ## Theory
 
