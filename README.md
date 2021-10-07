@@ -11,7 +11,7 @@ Here are the links to our community channels
 ## Start Learning and Earning Now
 Start with [Intro to BDU L-EARN](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/L1:Intro_To_BDU_L-EARN.md) - Reward - 5 xDai
 
-Empezar con [Introducción a BDU Aprende y gana](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md) - Recompensa - 5 xDai
+Empiece con [Introducción a BDU Aprende y gana](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md) - Recompensa - 5 xDai
 
 
 ### Available Lessons
