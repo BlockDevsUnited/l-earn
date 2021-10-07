@@ -31,6 +31,7 @@ Empiece con [Introducción a BDU Aprende y gana](https://github.com/BlockDevsUni
 * [Cómo usar Devcash Bounty Platform](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/xDaiChain/dApps/Lecci%C3%B3n3:%20Devcash%20Bounty%20Platform.md) - 5 xDai
 * [Contribuyendo con BDU Aprende y gana](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Español/Aprende_y_Gana/Contributing/LCon1:Contribuyendo.md) - 7.5 xDai
 * [Introducción a HoneySwap](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/xDaiChain/dApps/LCEXD2:IntroduccionAHoneySwap.md) - 7 xDai
+* [Introducción a Polkadot](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/LCP1:Introduccion_A_Polkadot.md) - 0.3 DOT
 * [BrightID](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/Identity/LI2:BrightID.md) - 5 xDai
 
 
