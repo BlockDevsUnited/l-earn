@@ -91,7 +91,7 @@ Docenas de blockchains fueron creadas de forma aislada y no es posible que se co
 #### Falta de customización.
 
 
-Hasta la llegada de Ethereum, las cadenas de bloques no admitían ninguna personalización de la transferencia de valor de un propietario a otro. Bitcoin, por ejemplo, solo permitía transacciones peer-to-peer. Los contratos inteligentes permitieron customizar y programar lo que se puede lograr en una cadena de bloques, hasta cierto punto.
+Hasta el adviento de Ethereum, las cadenas de bloques no admitían ninguna personalización de la transferencia de valor de un propietario a otro. Bitcoin, por ejemplo, solo permitía transacciones peer-to-peer. Los contratos inteligentes permitieron customizar y programar lo que se puede lograr en una cadena de bloques, hasta cierto punto.
 
 
 #### Mecanismo de validación de impacto de baja energía.
