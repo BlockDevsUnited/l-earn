@@ -51,7 +51,7 @@ Para proporcionar liquidez a las piscinas de Honeyswap, 1HIVE ha creado fincas d
                                           Block Explorer URL: https://blockscout.com/poa/xdai
 
 
-4. Finalmente, guarde y conecte cambiando de la red Ethereum a xDai
+4. Finalmente, guarde y conecte, cambiando de la red Ethereum a xDai
 
 ## AlphaWallet
 
@@ -65,7 +65,7 @@ Para proporcionar liquidez a las piscinas de Honeyswap, 1HIVE ha creado fincas d
 
 # Enlaces de interés de esta lección
 
-[Honeyswap](https://honeyswap.org/)
+[HoneySwap](https://honeyswap.org/)
 
 [Metamask](https://metamask.io/)
 
