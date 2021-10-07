@@ -73,4 +73,44 @@ Tiene una función vinculante. Esta función es necesaria para la incorporación
 
 El sistema de consenso de Polkadot es llamado Nominated Proof Of Stake (NPoS). NPoS es similar al mecanismo de Proof Of Stake (PoS), con ligeras variaciones.
 
-Con NPoS, los validadores deben ofrecer una infraestructura para el mantenimiento de la red. Tienen la tarea de producir
+Con NPoS, los validadores deben ofrecer una infraestructura para el mantenimiento de la red. Tienen la tarea de producir los nuevos bloques, el proceso de validación de los bloques paracadenas y la seguridad de la red. Deben estar disponibles en todo momento y tener la capacidad de ejecutar la infraestructura de manera segura y confiable.
+
+### Problemas que Polkadot quiere resolver:
+
+#### Escalabilidad.
+
+
+La mayoría de las cadenas de bloques populares no son escalables debido a su estructura.
+Por ejemplo, hace mucho tiempo, costaba entre unos pocos centavos y unos pocos dólares equivalentes a ETH realizar transacciones en Ethereum, la cadena de bloques más popular del mundo. Hoy en día, las tarifas de Ethereum han llegado a costar hasta más de $250
+
+#### Comunicación e intercambio de datos nulo o limitado.
+
+
+Docenas de blockchains fueron creadas de forma aislada y no es posible que se comuniquen o intercambien valor entre sí. Por ejemplo, no puede enviar BTC en la red de ETH.
+
+#### Falta de customización.
+
+
+Hasta la llegada de Ethereum, las cadenas de bloques no admitían ninguna personalización de la transferencia de valor de un propietario a otro. Bitcoin, por ejemplo, solo permitía transacciones peer-to-peer. Los contratos inteligentes permitieron customizar y programar lo que se puede lograr en una cadena de bloques, hasta cierto punto.
+
+
+#### Mecanismo de validación de impacto de baja energía.
+
+Se busca un mecanismo de validación de transacciones seguro, que al mismo tiempo no requiera un hardware costoso y alto consumo energético
+
+## Práctica
+
+### Configure una billetera de Polkadot
+
+Para esta lección, todo lo que necesita hacer es configurar una billetera de Polkadot. Existen muchas carteras disponibles, entre las cuales se encuentran Atomic Wallet, IMToken, Enjin Wallet y Trust Wallet.
+
+## Prueba
+
+Después de estudiar esta lección, avísenos cuando esté listo para realizar el examen. La recompensa por aprobar es de 0.2 DOT.
+
+## Recursos
+
+* [Documento técnico de Polkadot](https://polkadot.network/PolkaDotPaper.pdf)
+* [¿Qué es Polkadot?](https://polkadot.network/blog/what-is-polkadot-a-brief-introduction)
+* [Wiki de Polkadot](https://wiki.polkadot.network/)
+* [Resumen de Polkadot y sustrato](https://medium.com/polkadot-network/a-brief-summary-of-everything-substrate-and-polkadot-f1f21071499d)
