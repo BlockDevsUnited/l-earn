@@ -55,7 +55,7 @@ Para proporcionar liquidez a las piscinas de Honeyswap, 1HIVE ha creado fincas d
 
 ## AlphaWallet
 
-### [Cartera para teléfono inteligente (Android e iOS) construida de forma nativa en xDai, por lo que no tendrá que programar nada.](https://alphawallet.com/)
+### [Cartera para teléfono inteligente (Android e iOS) construida de forma nativa en xDai, por lo que no tendrá que programar nada adicional.](https://alphawallet.com/)
 
 
 # Lecturas requeridas
