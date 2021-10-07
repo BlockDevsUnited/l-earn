@@ -9,7 +9,7 @@ El Dex Honeyswap es una bifurcación de UNISWAP V2 implementado en la Cadena xDa
 
 * En primer lugar, simplemente debe ir a https://honeyswap.org/connect, una billetera que admite a la Cadena xDai, así como tambien a Metamask, AlphaWallet, entre otras.
 
-![Imagen](https://user-images.githubusercontent.com/58176712/133015715-aa6aac80-b6ce-419e-a1c-361728ca507a.png)
+![Image](https://user-images.githubusercontent.com/58176712/133015715-aa6aac80-b6ce-419e-ba1c-361728ca507a.png)
 
 
 ## Piscinas de liquidez
@@ -20,7 +20,7 @@ A cambio de proporcionar sus fondos, los usuarios obtienen comisiones para las o
 Los proveedores de liquidez ganan una tarifa de intercambio de 0.25% en todas las operaciones en proporción a su parte de la piscina.
 Estas tarifas se agregan a la piscina, aumentando su participación automáticamente, y puede reclamarlas cuando retire su liquidez.
 
-![Imagen](https://user-images.githubusercontent.com/58176712/133016637-39b14536-f69a-49af-89df-1951bE31DECA.PNG)
+![Image](https://user-images.githubusercontent.com/58176712/133016637-39b14536-f69a-49af-89df-1951be31deca.png)
 
 Para agregar liquidez debe seleccionar el par de su preferencia y, es importante saber, que debe ser la misma cantidad agregada en cada token de dicho par.
 
@@ -28,7 +28,7 @@ Para agregar liquidez debe seleccionar el par de su preferencia y, es importante
 
 Para proporcionar liquidez a las piscinas de Honeyswap, 1HIVE ha creado fincas de farming con devoluciones muy atractivas que fomentan la creación de pares de liquidez por parte de los usuarios. En el yield farming, los usuarios básicamente obtienen ganancias al apostar sus tokens generados en la piscina de liquidez (LP)
 
-![Imagen](https://user-images.githubusercontent.com/58176712/133018038-60184773-9fc5-46ec-9eef-256cc8898fe3.png)
+![Image](https://user-images.githubusercontent.com/58176712/133018038-60184773-9fc5-46ec-9eef-256cc8898fe3.png)
 
 
 # ¿Cómo configurar la red xDai en su Metamask?
@@ -39,7 +39,7 @@ Para proporcionar liquidez a las piscinas de Honeyswap, 1HIVE ha creado fincas d
 
       2.1 y luego Custom RPC.
 
-  ![Imagen](https://user-images.githubusercontent.com/58176712/133018971-1c3fe5a4-ee0c-4703-b020-ab7859e66fa4.png)
+  ![Image](https://user-images.githubusercontent.com/58176712/133018971-1c3fe5a4-ee0c-4703-b020-ab7859e66fa4.png)
 
  3. Ingrese la información de la red xDai en el siguiente orden:
 
