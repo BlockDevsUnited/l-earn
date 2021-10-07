@@ -4,11 +4,11 @@ Polkadot is a blockchain protocol and network that connects multiple blockchains
 
 Parchains are specialized for specific purposes, and each handle their own parallel stream of transactions, while at the same time exchanging data with each other and the relay chain. The relay chain provides a layer of security for itself and all its parachains. 
 
-Check out the Polkadot [Knowledge Tree](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Knowledge_Tree.jpg) and [Skill Tree](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Skill_Tree.jpg) To get a sense of upcoming lessons!
-
 ## Become a Polkadot Developer
 
 Upcoming lessons will focus on teaching Polkadot Development to you and other aspiring Polkadot Developers. Not only will you learn highly in-demand skills, but you will earn DOT for doing so! Join our community channels for notifications on new lessons.
+
+Check out the Polkadot [Knowledge Tree](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Knowledge_Tree.jpg) and [Skill Tree](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Skill_Tree.jpg) To get a sense of upcoming lessons!
 
 ![image](https://user-images.githubusercontent.com/58176712/133651482-17e1b88e-a71f-4274-adbe-1a788f439741.png)
 
