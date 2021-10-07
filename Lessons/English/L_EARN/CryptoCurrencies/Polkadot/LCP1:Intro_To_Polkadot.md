@@ -8,7 +8,7 @@ Check out the Polkadot [Knowledge Tree](https://github.com/BlockDevsUnited/learn
 
 ## Become a Polkadot Developer
 
-Upcoming lessons will focus on teaching Polkadot Development to you and other aspiring Polkadot Developers. Learn highly in-demand skills, and earn DOT for doing so! Join our community channels for notifications on new lessons.
+Upcoming lessons will focus on teaching Polkadot Development to you and other aspiring Polkadot Developers. Not only will you learn highly in-demand skills, but you will earn DOT for doing so! Join our community channels for notifications on new lessons.
 
 ![image](https://user-images.githubusercontent.com/58176712/133651482-17e1b88e-a71f-4274-adbe-1a788f439741.png)
 
