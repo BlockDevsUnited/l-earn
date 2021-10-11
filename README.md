@@ -1,6 +1,6 @@
 # Intro to Polkadot L-EARN
 
-Welcome to Polkadot L-EARN! We are a Polkadot community project where you can learn about Polkadot and Earn DOT at the same time!
+Welcome to Polkadot L-EARN! We are a Polkadot community project where you can learn about Polkadot and earn DOT at the same time!
 
 ## Join the community
 Here are the links to our community channels:
