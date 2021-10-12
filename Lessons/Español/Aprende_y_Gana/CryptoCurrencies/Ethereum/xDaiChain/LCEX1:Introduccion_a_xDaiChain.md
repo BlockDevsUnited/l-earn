@@ -1,4 +1,4 @@
-# Lección 1 - xDai
+# Introducción a xDaiChain
 
 ## Resultados de aprendizaje
 - [1. Teoría](#1.-Teoría)
