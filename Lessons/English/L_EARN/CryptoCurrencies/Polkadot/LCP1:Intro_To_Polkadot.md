@@ -6,13 +6,11 @@ Parchains are specialized for specific purposes, and each handle their own paral
 
 ## Become a Polkadot Developer
 
-Upcoming lessons will focus on teaching Polkadot Development to you and other aspiring Polkadot Developers. Not only will you learn highly in-demand skills, but you will earn DOT for doing so! Join our community channels for notifications on new lessons.
+Upcoming lessons will focus on teaching Polkadot Development to you and other aspiring Polkadot Developers. Not only will you learn highly in-demand skills, but you will also earn DOT for doing so! Join our community channels for notifications on new lessons.
 
-Check out the Polkadot [Knowledge Tree](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Knowledge_Tree.jpg) and [Skill Tree](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Skill_Tree.jpg) To get a sense of upcoming lessons!
+Check out the Polkadot [Knowledge Tree](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Knowledge_Tree.jpg) and [Skill Tree](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Skill_Tree.jpg) to get a sense of our upcoming lessons!
 
 ![image](https://user-images.githubusercontent.com/58176712/133651482-17e1b88e-a71f-4274-adbe-1a788f439741.png)
-
-
 
 
 ## Theory
@@ -36,10 +34,9 @@ Please read futher here: https://polkadot.network/blog/what-is-polkadot-a-brief-
 ![image](https://user-images.githubusercontent.com/58176712/133652249-cd4c4747-5202-42c5-b521-00d3d6a18917.png)
 
 
-
 #### The Relay Chain
 
-The Relay Chain is the heart of Polkadot Network, and is responsible for shared security, consensus and interoperability between all Polkadot chains! Polkadot uses the Relay Chain primarily to: 
+The Relay Chain is the heart of Polkadot Network, and is responsible for shared security, consensus and interoperability between all Polkadot chains! Polkadot uses the relay chain primarily to: 
 
 * Validate transactions
 * Nominate Validatators to validate transactions
@@ -50,16 +47,15 @@ Users who stake DOT can validate transactions if they are nominated by the relay
 
 #### Parachains
 
-Most parachains take the form of blockchains but need not necessarily be one. A parachain is described by Polkadot in the whitepaper as "an application-specific data structure that is globally consistent and validatable." This means it must be validatable by the validators of the relay chain. Parachains can host their own applications and economies.
+Most parachains take the form of blockchains but don't necessarily need to be one. A parachain is described by Polkadot in the whitepaper as "an application-specific data structure that is globally consistent and validatable." This means it must be validatable by the validators of the relay chain. Parachains can host their own applications and economies.
 
-Polkadot only supports a limited number of parachains. Parachain builders must successfully acquire a parachain slot for their parachain to be accepted in the Polkadot network. Slots are granted via Polkadot governance, and auctions.  Currently there are about 100 slots available.  
+Polkadot only supports a limited number of parachains. Parachain builders must successfully acquire a parachain slot for their parachain to be accepted in the Polkadot network. Slots are granted via Polkadot governance and auctions. Currently there are about 100 slots available.  
 
 Parachains are said to be on the same level as other blockchain networks like Bitcoin or Ethereum. Polkadot contains multiple parachains within itself. Hypothetically, you could include both the Bitcoin and Ethereum as parachains in the Polkadot network. 
 
 [Read More](https://wiki.polkadot.network/docs/learn-parachains)
 
 #### Parathreads
-
 
 Parathreads are similar to Parachains in almost all ways, except that they are only granted temporary access to participate in the Polkadot network. Multiple parathreads can share the same parachain slot, and access the relay chain and share in it's security, whenever it economically makes sense.  
 
@@ -75,11 +71,11 @@ Bridges should allow Parachains, which are essentially blockchains embedded with
 
 ### DOT, The polkadot currency
 
-DOT is the native cryptocurrency of the Polkadot Network. DOT is used for payments, paying transaction fees, governance. DOT is also used to compensate the Relay Chain validators, and as a general currency.
+DOT is the native cryptocurrency of the Polkadot Network. DOT is used for payments, paying transaction fees, governance. DOT is also used to compensate the relay chain validators, and as a general currency.
 
 #### DOT Characteristics
 
-DOT Holders have governance rights in the Polkadot Network. Holders can help determine network rates, vote on proposed network updates and allow parachains to be deployed or deleted. 
+DOT holders have governance rights in the Polkadot network. Holders can help determine network rates, vote on proposed network updates and allow parachains to be deployed or deleted. 
 
 DOT can be used to bid on parachain slots, and secure a place for your parachain. 
 
@@ -99,7 +95,7 @@ With NPoS, the validators must offer infrastructure for the maintenance of the n
 
 Most of the popular blockchains are not scalable due to their structure.
 
-For example, long ago, it cost between a few cents and a few dollars (equivalent in ETH) to transact on Ethereum. Now the world's most popular blockchain. Ethereum transactions can cost hundreds, or even thousands of dollars. 
+For example, long ago, it cost between a few cents and a few dollars (equivalent in ETH) to transact on Ethereum, the world's current most popular blockchain. In the present time, Ethereum transactions can cost hundreds, or even thousands of dollars. 
 
 #### No or limited data communication and exchange.
 
@@ -121,7 +117,7 @@ For this lesson, all you need to do is set up a Polkadot Wallet. There are many 
 
 ## Testing
 
-After studying this lesson, let us know when you are ready to take the test.  The reward for passing is 0.2 DOT. 
+After studying this lesson, let us know when you are ready to take the test. The reward for passing is 0.2 DOT. 
 
 ## Resources
 
