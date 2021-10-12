@@ -73,7 +73,7 @@ Tu potencial como colaborador podría ser juzgado por la calidad de tu lección,
 
 ### Hacer solicitud de extracción
 
-La forma más fácil de realizar una solicitud de extracción es editando nuestro repositorio y, una vez que hayas terminado, hagas clic en "Aplicar solicitud de extracción" ("Submit pull request"
+La forma más fácil de realizar una solicitud de extracción es editando nuestro repositorio y, una vez que hayas terminado, hagas clic en "Aplicar solicitud de extracción" ("Submit pull request")
 
 
 ## Pruebas
