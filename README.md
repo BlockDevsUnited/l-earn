@@ -18,11 +18,11 @@ Empiece con [Introducción a Polkadot - Aprende y gana](https://github.com/Block
 
 #### English
 
-* [Intro to Polkadot](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/LCP1:Intro_To_Polkadot.md) - 0.3 DOT
+* [Intro to Polkadot](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/LCP1:Intro_To_Polkadot.md) - 0.2 DOT
 
 #### Español
 
-* [Introducción a Polkadot](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/LCP1:Introduccion_A_Polkadot.md) - 0.3 DOT
+* [Introducción a Polkadot](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/LCP1:Introduccion_A_Polkadot.md) - 0.2 DOT
 
 
 More coming soon!
