@@ -1,8 +1,12 @@
-# POLKADOT NETWORK
+# Introducción a la RED DE POLKADOT
 
 Polkadot es un protocolo de cadena de bloques y una red que conecta múltiples blockchains, llamadas **paracadenas** (parachains), con una cadena de bloques primaria, llamada **cadena de retransmisión** (relay chain). La criptomoneda nativa de Polkadot se llama DOT.
 
 Las parchains están especializadas para propósitos específicos y cada una maneja su propio flujo paralelo de transacciones, mientras que al mismo tiempo intercambia datos entre sí y con la cadena de retransmisión. La cadena de retransmisión proporciona una capa de seguridad para sí misma y para todas las paracadenas.
+
+# Conviértase en un desarrollador de Polkadot
+
+Las próximas lecciones se centrarán en enseñarle sobre el desarrollo de Polkadot a usted y a otros aspirantes a desarrolladores de Polkadot. ¡No solo aprenderá habilidades altamente demandadas, sino que también obtendrá DOT por hacerlo! Únase a nuestros canales comunitarios para recibir notificaciones sobre nuevas lecciones disponibles.
 
 ¡Consulte el [Árbol de conocimientos](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Knowledge_Tree.jpg) de Polkadot y el [Árbol de habilidades](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Skill_Tree.jpg) para tener una idea de lo que ofrecerán las próximas lecciones!
 
@@ -10,9 +14,9 @@ Las parchains están especializadas para propósitos específicos y cada una man
 
 ## Teoría
 
-Polkadot se conoce como una "red multichain fragmentada", donde las paracadenas son los fragmentos. El poder de procesamiento paralelo generado por las paracadenas conduce a una mayor escalabilidad que otras cadenas de bloques de una sola cadena, como en el caso de Bitcoin. Diferentes paracadenas otorgan diferentes compensaciones y pueden optimizarse para diferentes casos de uso, como lo serián la identidad, la cadena de suministro o el almacenamiento de archivos. La optimización alrededor de ciertos casos de uso significa que puede omitir el código innecesario para la eficiencia y seguridad.
+Polkadot se conoce como una "red multicadena fragmentada", donde las paracadenas son los fragmentos. El poder de procesamiento paralelo generado por las paracadenas conduce a una mayor escalabilidad que otras cadenas de bloques de una sola cadena, como en el caso de Bitcoin. Diferentes paracadenas otorgan diferentes compensaciones y pueden optimizarse para diferentes casos de uso, como lo serián la identidad, la cadena de suministro o el almacenamiento de archivos. La optimización alrededor de ciertos casos de uso significa que puede omitir el código innecesario para la eficiencia y seguridad.
 
-Polkadot permite a los desarrolladores construir paracadenas utilizando el **marco de sustrato** (substrate framework). El sustrato es un marco para construir blockchains
+Polkadot permite a los desarrolladores construir paracadenas utilizando el **marco de sustrato** (substrate framework). El sustrato es un marco para construir cadenas de bloque
 
 Lea más al respecto aquí: https://polkadot.network/blog/what-is-polkadot-a-brief-introduction/
 
@@ -32,7 +36,7 @@ Lea más al respecto aquí: https://polkadot.network/blog/what-is-polkadot-a-bri
 
 #### La cadena de retransmisión
 
-La cadena de retransmisión es el corazón de Polkadot, responsable de la seguridad compartida, el consenso y la interoperabilidad entre las cadenas de la red. Polkadot usa la cadena de retransmisión principalmente para:
+La cadena de retransmisión es el corazón de Polkadot; siendo responsable de la seguridad compartida, el consenso y la interoperabilidad entre las cadenas de la red. Polkadot usa la cadena de retransmisión principalmente para:
 
 * Validar transacciones
 * Nominar validadores para validar dichas transacciones
@@ -43,37 +47,53 @@ Los usuarios que hagan stake de DOT pueden validar las transacciones si son nomi
 
 #### Paracadenas
 
-Una paracadena es un blockchain completo que se alimenta desde y hacia la cadena de retransmisión. Polkadot lo describe en el documento técnico (whitepaper) como "una aplicación con una estructura de datos específicamente enfocada que es globalmente coherente y validable".
-Se dice que las paracadenas están al mismo nivel que otras redes de cadenas de bloques como Bitcoin o Ethereum. Polkadot contiene múltiples blockchains dentro de sí misma. Hipotéticamente, podría incluir tanto a Bitcoin como Ethereum como paracadenas en la red Polkadot.
+La mayoría de las paracadenas toman la forma de cadenas de bloques, pero no es necesario que lo sean. Polkadot describe a una paracadena en su documento técnico como "una estructura de datos específica de la aplicación que es globalmente coherente y validable". Esto significa que debe ser validable por los validadores de la cadena de retransmisión. Las paracadenas pueden albergar sus propias aplicaciones y economías.
+
+Polkadot solo admite un número limitado de paracadenas. Los constructores de paracadenas deben adquirir con éxito una ranura de paracadenas para que su paracadena sea aceptada por la red de Polkadot. Estos espacios se otorgan a través de la gobernanza de Polkadot y sus subastas. Actualmente hay alrededor de 100 ranuras disponibles.
+
+Se dice que las paracadenas están al mismo nivel que otras redes de cadenas de bloques como Bitcoin o Ethereum. Polkadot contiene múltiples paracadenas dentro de sí misma. Hipotéticamente, podría incluir tanto a Bitcoin como Ethereum como paracadenas en la red Polkadot.
+
+[Lea más](https://wiki.polkadot.network/docs/learn-parachains)
 
 #### Parahilos
 
-Los **parahilos** (parathreads) son espacios temporales en la red Polkadot, utilizados principalmente para la prueba de ideas.
-Los parahilos son similares a las paracadenas en que permiten la construcción de una cadena de bloques o una aplicación de uso especial.
+Los parahilos (parathreads) son similares a los parachains en casi todos los aspectos, excepto que solo se les concede acceso temporal para participar en la red Polkadot. Múltiples parahilos pueden compartir la misma ranura de paracadena, así como acceder a la cadena de retransmisión y compartir su seguridad, siempre que tenga sentido económicamente.
+
+[Lea más](https://wiki.polkadot.network/docs/learn-parathreads)
+
+Los parahilos son similares a las paracadenas en casi todos los aspectos, excepto que solo se les concede acceso temporal para participar en la red Polkadot. Múltiples parathreads pueden compartir la misma ranura de parachain y acceder a la cadena de relés y compartir su seguridad, siempre que tenga sentido económicamente.
+
+[Lea más](https://wiki.polkadot.network/docs/learn-parathreads)
 
 #### Puentes
 
-Los **puentes** (bridges), o la capacidad de una cadena de bloques individual para comunicarse y transferir valor a otra, ha estado ausente en la tecnología de blockchain tradicional.
-Digamos que desea comprar un NFT con un precio valorado en ETH, pero solo tiene BTC. Tradicionalmente, tendría que convertir dicho BTC a fiat y luego volver a convertirlo a ETH, o comprar ETH por BTC en un exchange. Simplemente no puede transferir valor o datos de un blockchain a otro sin una capa intermedia, sea que se trate de un exchange o fiat.
-Los puentes cambian esa restricción y permiten que las paracadenas, que son esencialmente cadenas de bloques integradas en el ecosistema de Polkadot, se comuniquen y compartan datos. La soberanía económica y la diversidad de las respectivas cadenas de bloques no se ven afectadas al comunicarse o realizar transacciones a través de los puentes.
+Los puentes se utilizan para comunicarse entre dos cadenas de bloques soberanas. Son un aspecto relativamente nuevo y en crecimiento de la tecnología blockchain. Por esa razón, los puentes dentro y alrededor de la Red Polkadot son todavía un trabajo en progreso.
 
-### La moneda Polkadot (DOT)
 
-En la Red Polkadot, DOT es utilizada para realizar pagos, procesamiento de transacciones y gobernanza. El DOT también se utiliza para la validación de la cadena de retransmisión de PoS (Proof Of Stake). Asímismo el DOT se implementa para compnesar a sus validadores, como token de gobernanza y como moneda generalizada.
+Los puentes deberían permitir que las paracadenas, que son esencialmente cadenas de bloques integradas en el ecosistema de Polkadot, se comuniquen y compartan datos. La soberanía económica y la diversidad de las paracaídas no se ven afectadas al comunicarse o realizar transacciones a través de puentes.
+
+[Más sobre puentes](https://wiki.polkadot.network/docs/learn-bridges)
+
+
+### DOT, la moneda de Polkadot
+
+DOT es la criptomoneda nativa de la Red Polkadot. El DOT se utiliza para pagos, pagos de tarifas de transacción y gobernanza. El DOT también se utiliza para compensar a los validadores de la cadena de retransmisión y como moneda general.
 
 #### Características de DOT
 
 Los holders de DOT tienen derechos de gobernanza en la red Polkadot. Estos holders pueden ayudar a determinar las tarifas de la red, votar sobre las actualizaciones de red propuestas y permitir que se desplieguen o eliminen las paracadenas.
 
-DOT se utiliza para facilitar el consenso en la red a través del staking. Hacer staking con DOT ayuda a mantener la seguridad de la red, fortaleciendo el consenso de Polkadot.
+El DOT se puede usar para ofertar en las ranuras de paracadenas y asegurar un lugar para su paracadena.
 
-Tiene una función vinculante. Esta función es necesaria para la incorporación de nuevas paracadenas dentro de la red Polkadot. Cuando se genera un período de vinculación, los tokens de DOT que se han adjuntado se bloquean hasta que finaliza el proceso
+El DOT facilita el consenso sobre la red a través del staking. El staking de DOT ayuda a mantener la seguridad de la red, reforzando el consenso de Polkadot.
+
+El DOT también tiene una función de vinculación. Vincular DOT es necesario para agregar nuevas paracadenas a la Red Polkadot. Cuando se genera un período de vinculación, los tokens de DOT que se han adjuntado se bloquean hasta que finalice el proceso.
 
 ### Consenso de Polkadot
 
 El sistema de consenso de Polkadot es llamado Nominated Proof Of Stake (NPoS). NPoS es similar al mecanismo de Proof Of Stake (PoS), con ligeras variaciones.
 
-Con NPoS, los validadores deben ofrecer una infraestructura para el mantenimiento de la red. Tienen la tarea de producir los nuevos bloques, el proceso de validación de los bloques paracadenas y la seguridad de la red. Deben estar disponibles en todo momento y tener la capacidad de ejecutar la infraestructura de manera segura y confiable.
+Con NPoS, los validadores deben ofrecer una infraestructura para el mantenimiento de la red. Tienen la tarea de ejecutar nodos, producir los nuevos bloques, validar bloques de paracadenas e incrementar la seguridad de la red. Los validadores de NPoS Deben estar disponibles en todo momento y tener la capacidad de ejecutar la infraestructura de manera segura y confiable.
 
 ### Problemas que Polkadot quiere resolver:
 
@@ -81,7 +101,7 @@ Con NPoS, los validadores deben ofrecer una infraestructura para el mantenimient
 
 
 La mayoría de las cadenas de bloques populares no son escalables debido a su estructura.
-Por ejemplo, hace mucho tiempo, costaba entre unos pocos centavos y unos pocos dólares equivalentes a ETH realizar transacciones en Ethereum, la cadena de bloques más popular del mundo. Hoy en día, las tarifas de Ethereum han llegado a costar hasta más de $250
+Por ejemplo, hace mucho tiempo, costaba entre unos pocos centavos y unos cuántos dólares (equivalentes a ETH) realizar transacciones en Ethereum, la cadena de bloques más popular del mundo. Hoy en día, las tarifas de Ethereum han llegado a costar hasta más de $250
 
 #### Comunicación e intercambio de datos nulo o limitado.
 
@@ -91,12 +111,12 @@ Docenas de blockchains fueron creadas de forma aislada y no es posible que se co
 #### Falta de customización.
 
 
-Hasta el adviento de Ethereum, las cadenas de bloques no admitían ninguna personalización de la transferencia de valor de un propietario a otro. Bitcoin, por ejemplo, solo permitía transacciones peer-to-peer. Los contratos inteligentes permitieron customizar y programar lo que se puede lograr en una cadena de bloques, hasta cierto punto.
+Hasta el adviento de Ethereum, las cadenas de bloques no admitían ninguna customización de la transferencia de valor de un propietario a otro. Bitcoin, por ejemplo, solo permitía transacciones peer-to-peer. Los contratos inteligentes permitieron customizar y programar lo que se puede lograr en una cadena de bloques, hasta cierto punto.
 
 
 #### Mecanismo de validación de impacto de baja energía.
 
-Se busca un mecanismo de validación de transacciones seguro, que al mismo tiempo no requiera un hardware costoso y alto consumo energético
+Polkadot apunta a obtener un mecanismo de validación de transacciones seguro, que al mismo tiempo no requiera un hardware costoso y alto consumo energético
 
 ## Práctica
 
