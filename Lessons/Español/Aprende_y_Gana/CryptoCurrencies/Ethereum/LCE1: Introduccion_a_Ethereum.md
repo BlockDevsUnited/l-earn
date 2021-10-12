@@ -1,4 +1,4 @@
-# Lección 1 - Ethereum
+# Introducción a Ethereum
 
 ## Resultados de aprendizaje
 - [1. Teoría](#1.-Teoría)
