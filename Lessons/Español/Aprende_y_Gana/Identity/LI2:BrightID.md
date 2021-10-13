@@ -20,13 +20,13 @@ https://www.brightid.org
 
 2. ***Únase a una reunión de verificación de BrightID.***
 
-Todo lo que debe hacer es presentarse a una fiesta de verificación y realizar algunas conexiones dentro de la misma. Existe gran variedad reuniones disponibles a lo largo del día a través Zoom o Discord de acuerdo a su  idioma y zona horaria, acompañadas de un proceso fácil y rápido que sólo tomará unos minutos de su tiempo. 
+Todo lo que debe hacer es presentarse a una fiesta de verificación y realizar algunas conexiones dentro de la misma. Existe gran variedad de reuniones disponibles a lo largo del día a través Zoom o Discord de acuerdo a su idioma y zona horaria, acompañadas de un proceso fácil y rápido que sólo tomará unos minutos de su tiempo. 
 
 [Puede consutar el horario de las próximas reuniones aquí](https://rare.fyi/brightID)
 
 3. ***Enlace a personas y aplicaciones.***
 
-Una vez obtenida la verificación, podrá conectarse a la distintas aplicaciones afiliadas a BrightID para validar su identidad. Si desea obtener una recompensa de cualquiera de las pruebas presentadas por usted dentro de nuestro programa [BDU L-EARN](https://github.com/jose1406/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md), deberá contar con una cuenta de BrightID verificada y aprobada por uno de nuestros colaboradores.
+Una vez obtenida la verificación, podrá conectarse a la distintas aplicaciones afiliadas a BrightID para validar su identidad. Si desea obtener una recompensa de cualquiera de las pruebas presentadas por usted dentro de nuestro programa [BDU L-EARN](https://github.com/jose1406/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md), deberá tener una cuenta de BrightID verificada y aprobada por uno de nuestros colaboradores.
 
 ## Tutorial 
 https://brightid.gitbook.io/brightid/ 
@@ -53,7 +53,7 @@ Discord https://discord.gg/3wE9CMA
 # Práctica
 
 * Descargue y únase a BrightID
-* Asista a una fiesta de verificación y obtenga dicha verificación
+* Asista a una fiesta de verificación
 * Conéctese con miembros del equpipo de BDU L-EARN
 
 # Recompensa
