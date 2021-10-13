@@ -6,7 +6,7 @@ Las parchains están especializadas para propósitos específicos y cada una man
 
 # Conviértase en un desarrollador de Polkadot
 
-Las próximas lecciones se centrarán en enseñarle sobre el desarrollo de Polkadot a usted y a otros aspirantes a desarrolladores de Polkadot. ¡No solo aprenderá habilidades altamente demandadas, sino que también obtendrá DOT por hacerlo! Únase a nuestros canales comunitarios para recibir notificaciones sobre nuevas lecciones disponibles.
+Las próximas lecciones se centrarán en enseñarle acerca del desarrollo de Polkadot a usted y a otros aspirantes a desarrolladores de Polkadot. ¡No solo aprenderá habilidades altamente demandadas, sino que también obtendrá DOT por hacerlo! Únase a nuestros canales comunitarios para recibir notificaciones sobre nuevas lecciones disponibles.
 
 ¡Consulte el [Árbol de conocimientos](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Knowledge_Tree.jpg) de Polkadot y el [Árbol de habilidades](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/Polkadot_Skill_Tree.jpg) para tener una idea de lo que ofrecerán las próximas lecciones!
 
@@ -39,7 +39,7 @@ Lea más al respecto aquí: https://polkadot.network/blog/what-is-polkadot-a-bri
 La cadena de retransmisión es el corazón de Polkadot; siendo responsable de la seguridad compartida, el consenso y la interoperabilidad entre las cadenas de la red. Polkadot usa la cadena de retransmisión principalmente para:
 
 * Validar transacciones
-* Nominar validadores para validar dichas transacciones
+* Nominar validadores para aprobar dichas transacciones
 * Conservar datos históricos
 * Monitorear la salud de todo el ecosistema de Polkadot.
 
@@ -49,7 +49,7 @@ Los usuarios que hagan stake de DOT pueden validar las transacciones si son nomi
 
 La mayoría de las paracadenas toman la forma de cadenas de bloques, pero no es necesario que lo sean. Polkadot describe a una paracadena en su documento técnico como "una estructura de datos específica de la aplicación que es globalmente coherente y validable". Esto significa que debe ser validable por los validadores de la cadena de retransmisión. Las paracadenas pueden albergar sus propias aplicaciones y economías.
 
-Polkadot solo admite un número limitado de paracadenas. Los constructores de paracadenas deben adquirir con éxito una ranura de paracadenas para que su paracadena sea aceptada por la red de Polkadot. Estos espacios se otorgan a través de la gobernanza de Polkadot y sus subastas. Actualmente hay alrededor de 100 ranuras disponibles.
+Polkadot solo admite un número limitado de paracadenas. Los constructores de paracadenas deben adquirir con éxito una vacante de paracadenas para que la suya sea aceptada por la red de Polkadot. Estas vacantes se otorgan a través de la gobernanza de Polkadot y sus subastas. Actualmente hay alrededor de 100 vacantes disponibles.
 
 Se dice que las paracadenas están al mismo nivel que otras redes de cadenas de bloques como Bitcoin o Ethereum. Polkadot contiene múltiples paracadenas dentro de sí misma. Hipotéticamente, podría incluir tanto a Bitcoin como Ethereum como paracadenas en la red Polkadot.
 
@@ -57,18 +57,15 @@ Se dice que las paracadenas están al mismo nivel que otras redes de cadenas de 
 
 #### Parahilos
 
-Los parahilos (parathreads) son similares a los parachains en casi todos los aspectos, excepto que solo se les concede acceso temporal para participar en la red Polkadot. Múltiples parahilos pueden compartir la misma ranura de paracadena, así como acceder a la cadena de retransmisión y compartir su seguridad, siempre que tenga sentido económicamente.
-
-Los parahilos son similares a las paracadenas en casi todos los aspectos, excepto que solo se les concede acceso temporal para participar en la red Polkadot. Múltiples parathreads pueden compartir la misma ranura de parachain y acceder a la cadena de relés y compartir su seguridad, siempre que tenga sentido económicamente.
+Los parahilos (parathreads) son similares a las paracadenas en casi todos los aspectos, excepto que solo se les concede acceso temporal para participar en la red Polkadot. Múltiples parahilos pueden compartir la misma vacante de paracadena, así como acceder a la cadena de retransmisión y compartir su seguridad, siempre que tenga sentido económicamente.
 
 [Lea más aquí](https://wiki.polkadot.network/docs/learn-parathreads)
 
 #### Puentes
 
-Los puentes se utilizan para comunicarse entre dos cadenas de bloques soberanas. Son un aspecto relativamente nuevo y en crecimiento de la tecnología blockchain. Por esa razón, los puentes dentro y alrededor de la Red Polkadot son todavía un trabajo en progreso.
+Los puentes se utilizan para comunicarse entre dos cadenas de bloques soberanas. Son un aspecto relativamente nuevo y en crecimiento de la tecnología blockchain. Por esa razón, los puentes dentro y alrededor de la red Polkadot son todavía un trabajo en progreso.
 
-
-Los puentes deberían permitir que las paracadenas, que son esencialmente cadenas de bloques integradas en el ecosistema de Polkadot, se comuniquen y compartan datos. La soberanía económica y la diversidad de las paracaídas no se ven afectadas al comunicarse o realizar transacciones a través de puentes.
+Los puentes deberían permitir que las paracadenas, que son esencialmente cadenas de bloques integradas en el ecosistema de Polkadot, se comuniquen y compartan datos. La soberanía económica y la diversidad de las paracadenas no se ven afectadas al comunicarse o realizar transacciones a través de puentes.
 
 [Lea más aquí](https://wiki.polkadot.network/docs/learn-bridges)
 
