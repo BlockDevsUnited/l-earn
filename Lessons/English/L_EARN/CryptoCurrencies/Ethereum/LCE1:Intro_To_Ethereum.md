@@ -1,4 +1,4 @@
-# Lesson 1 - Ethereum
+# Introduction to Ethereum
 
 ## Learning Outcomes
 - [1. Theory](#1.-Theory)
@@ -25,7 +25,7 @@ Ethereum has a native currency called "Ether", or "Eth".
 Smart contracts are small computer programs that are replicated and processed on all the computers on the Ethereum network without a central coordinator. Smart Contracts allow you to program contracts that can be automatically enforced by computer code.  
 
 #### What are ERC20 Tokens
-In addition to Ether, people can also create and use their own currencies on Ethereum. The most common form of currency is ERC20 tokens. ERC20 Tokens are smart contracts that fit the ERC20 standard. The ERC20 standard was created so that everyone could follow it and create tokens that behave the same way.
+In addition to Ether, people can also create and use their own currencies on Ethereum. The most common form of currency is ERC20 tokens. ERC20 Tokens are smart contracts that fit the ERC20 standard. The ERC20 standard was created so that everyone could follow it and create tokens that behave in the same way.
 
 #### Your keys, your crypto
 Never give out your private keys or seed phrase. If anyone ever asks for them, refuse!
@@ -50,7 +50,7 @@ Never give out your private keys or seed phrase. If anyone ever asks for them, r
 
 ## 3. Testing
 
-For this pilot phase of Learn and Earn, you'll have someone from BDU test your knowledge on a 1-to-1 call, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website.
+For this pilot phase of BDU L-EARN, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website.
 
 ### Share your Ethereum address
 Once Metamask is installed, copy your address and send it to one of the owners of this repo.
