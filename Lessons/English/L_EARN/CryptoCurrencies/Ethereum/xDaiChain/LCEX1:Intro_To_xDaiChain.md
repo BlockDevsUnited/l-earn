@@ -51,4 +51,4 @@ To set up xDai on Metamask, go to: https://www.xdaichain.com/for-users/wallets/m
 5. Now you can View your token balance and send tokens
 
 ## 3. Testing
-For this pilot phase of BDU L-EARN, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get intouch with them via this repo or on the Telegram group on our website.
+For this pilot phase of BDU L-EARN, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get intouch with them via this repo or on the Telegram group on our website. Reward: 5 xDai.
