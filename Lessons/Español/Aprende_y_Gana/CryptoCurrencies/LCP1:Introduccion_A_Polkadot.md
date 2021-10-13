@@ -59,8 +59,6 @@ Se dice que las paracadenas están al mismo nivel que otras redes de cadenas de 
 
 Los parahilos (parathreads) son similares a los parachains en casi todos los aspectos, excepto que solo se les concede acceso temporal para participar en la red Polkadot. Múltiples parahilos pueden compartir la misma ranura de paracadena, así como acceder a la cadena de retransmisión y compartir su seguridad, siempre que tenga sentido económicamente.
 
-[Lea más](https://wiki.polkadot.network/docs/learn-parathreads)
-
 Los parahilos son similares a las paracadenas en casi todos los aspectos, excepto que solo se les concede acceso temporal para participar en la red Polkadot. Múltiples parathreads pueden compartir la misma ranura de parachain y acceder a la cadena de relés y compartir su seguridad, siempre que tenga sentido económicamente.
 
 [Lea más](https://wiki.polkadot.network/docs/learn-parathreads)
