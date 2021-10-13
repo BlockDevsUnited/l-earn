@@ -20,7 +20,7 @@ https://www.brightid.org
 
 2. ***Join a BrightID verification meeting.***
 
-All you will need to do is attend a verification party and make some connections within the meeting. There will be a wide variety of meetings available throughout the day via Zoom or Discord according to your language and time zone, accompanied by a quick and easy process that will only take a few minutes of your time.
+All you will need to do is attend a verification party and make some connections during the meeting. There will be a wide variety of meetings available throughout the day via Zoom or Discord according to your language and time zone, accompanied by a quick and easy process that will only take a few minutes of your time.
 
 [You can check the schedule of the next meetings here](https://rare.fyi/brightID)
 
