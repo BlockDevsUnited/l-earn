@@ -2,9 +2,9 @@
 
 ![https://www.brightid.org](https://uploads-ssl.webflow.com/5e54622b3f6e65be8baf0653/5fdc4719cf8bf208a98162f2_brightid%20final%20logo-01.png)
 
-BrightID is a social identity network developed to verify the particularity of its users within the applications that make use of it. It does not employ a centralized authority, but determines the uniqueness of an individual by applying a social chart. Those who download the BrightID app will be required to attend a "verification party" of their choice, these are hosted daily by the project's collaborators via Zoom. The groupal QR code will be scanned along with a specific number of other participants and, once they have connected with enough of the people in attendance, they will be approved as verified accounts. Likewise, these verified users will in turn have the authority to report others if they were to be active through multiple accounts.
+BrightID is a social identity network developed to verify the particularity of its users within the applications that make use of it. It does not employ a centralized authority, but determines the uniqueness of an individual by applying a social chart. Those who download the BrightID app will be required to attend a "verification party" of their choice, these are hosted daily by the project's collaborators through Zoom. The groupal QR code will be scanned along with a specific number of other participants and, once they have connected with enough of the people in attendance, their username will be approved as a verified account. Likewise, these verified users will in turn have the authority to report others, if they were to be active through multiple accounts.
 
-BrightID makes it possible for third-party applications to ensure that their consumers take on the use of a single account, ensuring that their communities will be able to enjoy a fair and equal participation and, consequently a better experience. Every user with a BrightID account establishes connections with people they trust and by doing so, the platform will create a graph of them and, all of those considered potential falsifications, will be analyzed by its system.
+BrightID makes it possible for third-party applications to ensure that their consumers take on the use of a single account, guaranteeing that their communities will be able to enjoy a fair and equal participation and, consequently a better experience. Every user with a BrightID account establishes connections with people they trust and by doing so, the platform will create a graph of them. All of those considered potential falsifications will be analyzed by its system.
 
 # How to verify your BrightID account
 
@@ -20,7 +20,7 @@ https://www.brightid.org
 
 2. ***Join a BrightID verification meeting.***
 
-All you will need to do is to attend a verification party and make some connections within the meeting. There will be a wide variety of meetings available throughout the day on Zoom or Discord according to your language and time zone, accompanied by a quick and easy process that will only take a few minutes of your time.
+All you will need to do is attend a verification party and make some connections within the meeting. There will be a wide variety of meetings available throughout the day via Zoom or Discord according to your language and time zone, accompanied by a quick and easy process that will only take a few minutes of your time.
 
 [You can check the schedule of the next meetings here](https://rare.fyi/brightID)
 
@@ -32,7 +32,18 @@ Once verified, you will be able to connect to various BrightID affiliated applic
 https://brightid.gitbook.io/brightid/
 
 
-## BrightID's links of interest
+# Practice
+
+* Download and join BrightID
+* Attend a verification party
+* Connect with members of the BDU L-EARN team
+
+# Reward
+
+To schedule a test, please contact our community group via Telegram.
+Reward: 5 xDai.
+
+## Resources 
 
 Website https://brightid.org/
 
@@ -50,13 +61,3 @@ Applications: https://apps.brightid.org/
 
 Discord https://discord.gg/3wE9CMA
 
-# Practice
-
-* Download and join BrightID
-* Attend a verification party
-* Connect with members of the BDU L-EARN team
-
-# Reward
-
-To schedule a test, please contact our community group via Telegram.
-Reward: 5 xDai.
