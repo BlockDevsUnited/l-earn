@@ -51,13 +51,13 @@ To provide liquidity to the HoneySwap pools, 1Hive has created farming platforms
 
 ## AlphaWallet
 
-### [Through this link you will find a digital wallet created for Android and iOS, built natively in xDai](https://alphawallet.com/)
+### [Through this link you will find a digital wallet created for Android and iOS, built natively in xDai.](https://alphawallet.com/)
 
 
 # Required Readings
 
-* [For a tutorial on how to implement the Liquidity Pool, click here](https://honeyswap.org/liquidity-pool)
-* [For a tutorial on Yield Farming](https://honeyswap.org/yield-farming)
+* [For a tutorial on how to implement the Liquidity Pool, click here.](https://honeyswap.org/liquidity-pool)
+* [For a tutorial on Yield Farming, click here.](https://honeyswap.org/yield-farming)
 
 # Practical Evaluation
 
