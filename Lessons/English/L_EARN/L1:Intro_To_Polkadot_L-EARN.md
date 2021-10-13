@@ -89,7 +89,7 @@ Introduce yourself in the telegram channels
 ### Study This Lesson
 
 ### Get Verified
-Here are instructions to get
+You can get verified on brightID. https://brightid.gitbook.io/brightid/getting-verified
 
 ### Schedule a Test
 To schedule a test simply ask in our telegram group.
