@@ -6,7 +6,7 @@ BrightID es una red de identidad social utilizada para verificar la particularid
 
 BrightID hace posible que las aplicaciones de terceros se aseguren de que sus consumidores empleen el uso de una sola cuenta, lo que garantiza que sus comunidades puedan disfrutar de una participación justa e igualitaria y, a consecuencia, una mejor experiencia. Cada usuario que posea una cuenta de BrightID establece conexiones con personas de su confianza y al hacerlo, la plataforma creará un gráfico de ellas y se analizarán todas aquellas consideradas falsificaciones potenciales.
 
-# ¿Cómo verificar su cuenta de BrightID?. 
+# ¿Cómo verificar su cuenta de BrightID? 
 
 1. ***Descargue la aplicación de BrightID***:
 
