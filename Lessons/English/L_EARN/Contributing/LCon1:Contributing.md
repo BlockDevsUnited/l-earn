@@ -1,11 +1,7 @@
 # Contributing to BDU L-EARN
-This lesson provides the information you need to know, to contribute to BDU L-EARN.
+This lesson provides all of the information you need to know in order to contribute to BDU L-EARN.
 
-All our lessons are organized on Github in markdown (.md) format. These tools must be learnt first before contributing.
-
-Reward: 7.5 xDai
-
-
+All of our lessons are organized on Github using a markdown (.md) format. These tools must be learnt first before contributing.
 
 ## Theory
 
@@ -14,8 +10,7 @@ Anyone can be a contributor. You just need valuable knowledge, a passion for edu
 
 If you're looking for a lesson on a certain topic, but don't see it in BDU L-EARN, consider making it yourself! Teaching is one of the most effective ways to learn.
 
-If you're familiar with Github and markdown, you can already start
-writing lessons and create pull requests, and also bring them up for discussion in the community channels.  
+If you're familiar with Github and markdown, you can already start writing lessons, creating pull requests and bringing them up for discussion in the community channels.  
 
 #### Writing lessons
 
@@ -40,7 +35,7 @@ Basically all text on github is written using Markdown.
 
 ### Contributor Rewards
 
-We have some rewards available for contributing high quality lessons. Rewards will increase as we grow.  Ask in the community channels.
+We have some rewards available for contributing high quality lessons. Rewards will increase as we grow. If you would like to know more, you will be able to find us in the community channels.
 
 ## Practice
 ### Create Github Account
@@ -61,12 +56,8 @@ Use the above guide to create a sample lesson on a cryptocurrency related topic.
 
 Your potential as a contributor may be judged by the quality of your lesson, so don't hold back!
 
-
 ### Make Pull Request
 The easiest way to make a pull request is by editing our repository, and once your are done, click "Submit Pull Request".
 
-
-
-
 ## Testing
-Let us know in the discord when you are ready for a test.
+For this lesson, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using BrightID to verify your identity. Get in touch with them via this repo or on the Telegram group on our website. Let us know  when you are ready to take the test! Reward: 7.5 xDai
