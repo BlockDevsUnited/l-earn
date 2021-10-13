@@ -53,7 +53,7 @@ Polkadot solo admite un número limitado de paracadenas. Los constructores de pa
 
 Se dice que las paracadenas están al mismo nivel que otras redes de cadenas de bloques como Bitcoin o Ethereum. Polkadot contiene múltiples paracadenas dentro de sí misma. Hipotéticamente, podría incluir tanto a Bitcoin como Ethereum como paracadenas en la red Polkadot.
 
-[Lea más](https://wiki.polkadot.network/docs/learn-parachains)
+[Lea más aquí](https://wiki.polkadot.network/docs/learn-parachains)
 
 #### Parahilos
 
@@ -61,7 +61,7 @@ Los parahilos (parathreads) son similares a los parachains en casi todos los asp
 
 Los parahilos son similares a las paracadenas en casi todos los aspectos, excepto que solo se les concede acceso temporal para participar en la red Polkadot. Múltiples parathreads pueden compartir la misma ranura de parachain y acceder a la cadena de relés y compartir su seguridad, siempre que tenga sentido económicamente.
 
-[Lea más](https://wiki.polkadot.network/docs/learn-parathreads)
+[Lea más aquí](https://wiki.polkadot.network/docs/learn-parathreads)
 
 #### Puentes
 
@@ -70,7 +70,7 @@ Los puentes se utilizan para comunicarse entre dos cadenas de bloques soberanas.
 
 Los puentes deberían permitir que las paracadenas, que son esencialmente cadenas de bloques integradas en el ecosistema de Polkadot, se comuniquen y compartan datos. La soberanía económica y la diversidad de las paracaídas no se ven afectadas al comunicarse o realizar transacciones a través de puentes.
 
-[Más sobre puentes](https://wiki.polkadot.network/docs/learn-bridges)
+[Lea más aquí](https://wiki.polkadot.network/docs/learn-bridges)
 
 
 ### DOT, la moneda de Polkadot
