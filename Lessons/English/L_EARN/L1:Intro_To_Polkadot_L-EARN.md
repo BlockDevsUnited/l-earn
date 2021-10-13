@@ -1,40 +1,8 @@
 # Intro to Polkadot L-EARN
 
-
-- what is polkadot l-EARN
-  - Learn to earn Polkadot
-  - Mission and purpose
-
-  Theory
-- how it works
-  - Learning
-  - Open source
-  - P2p Learning
-  - lesson structure
-    - orgnized into trees
-    - each lesson has theory and practice
-
-  Earning
-  - Pass tests to earn. You can take as many tests as you want to accumulate rewards
-  - Verification
-    - Verification is required to withdraw rewards.
-      - verification can be completed on Bright id, or in some select cases by verifying directly with a trusted community member.
-    -
-
-Practice
- - join community groups
- - get verified
- - Introduce yourself to the community
- - Schedule a test
-
-
-
-
 Welcome to Polkadot L-EARN! This lesson introduces you to Polkadot L-EARN, and shows you how to get started.
 
-We are a Polkadot community project where you can learn about Polkadot and Earn DOT at the same time! Learning is peer to peer, and open source.
-
-Our goal is to train people with Polkadot skills, provide you with DOT income, and increase Polkadot adoption!
+We are a Polkadot community project where you can learn about Polkadot and Earn DOT at the same time. Learning is peer to peer, and open source. Our goal is to train people with Polkadot skills, provide you with DOT income, and increase Polkadot adoption!
 
 Study this lesson, take notes, and take a test at the end. Instructions for test taking are explained within the lesson.
 Reward: 0.2 DOT
