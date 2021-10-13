@@ -1,4 +1,4 @@
-# Lesson 1 - xDai
+# Introduction to xDaiChain
 
 ## Learning Outcomes
 - [1. Theory](#1.-Theory)
@@ -17,7 +17,7 @@
 xDai is a sidechain of Ethereum. The native currency is called xDai.
 
 ### Why is xDai used
-Here are 3 of xDai's most useful characteristics:
+Here are three of xDai's most useful characteristics:
 - xDai is pegged one to one with DAI
 - xDai has a bridge to DAI
 - xDAI has a bridge for any ERC20 token
@@ -51,4 +51,4 @@ To set up xDai on Metamask, go to: https://www.xdaichain.com/for-users/wallets/m
 5. Now you can View your token balance and send tokens
 
 ## 3. Testing
-For this pilot phase of Learn and Earn, you'll have someone from BDU test your knowledge on a 1-to-1 call, using [BrightID](https://www.brightid.org/) to verify your identity. Get intouch with them via this repo or on the Telegram group on our website.
+For this pilot phase of BDU L-EARN, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get intouch with them via this repo or on the Telegram group on our website.
