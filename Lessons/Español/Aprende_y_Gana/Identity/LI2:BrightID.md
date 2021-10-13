@@ -4,13 +4,13 @@
 
 BrightID es una red de identidad social utilizada para verificar la particularidad de sus usuarios dentro de las aplicaciones que hagan uso de la misma. No emplea una autoridad centralizada, pero determina la unicidad de un individuo mediante un gráfico social. Aquellos que descarguen la aplicación de BrightID deberán asistir a una "fiesta de verificación" de su preferencia, las cuales son organizadas diariamente por colaboradores del proyecto a través de Zoom; se procederá a escanear el código QR grupal junto a un número específico de participantes y una vez se hayan conectado con suficientes de las personas presentes, se les aprobará como cuentas verificadas. Así mismo, éstos también tendrán la autoridad de reportar a otros usuarios al estar activos a través cuentas duplicadas, de ser necesario. 
 
-BrightID hace posible que las aplicaciones de terceros se aseguren de que sus consumidores empleen el uso de una sola cuenta, lo que garantiza que sus comunidades puedan disfrutar de una participación justa e igualitaria y, a consecuencia, una mejor experiencia. Cada usuario que posea una cuenta de BrightID establece conexiones con personas de su confianza y al hacerlo, la plataforma creará un gráfico de sus conexiones y se analizarán todas aquellas consideradas como falsificaciones potenciales.
+BrightID hace posible que las aplicaciones de terceros se aseguren de que sus consumidores empleen el uso de una sola cuenta, lo que garantiza que sus comunidades puedan disfrutar de una participación justa e igualitaria y, a consecuencia, una mejor experiencia. Cada usuario que posea una cuenta de BrightID establece conexiones con personas de su confianza y al hacerlo, la plataforma creará un gráfico de ellas y se analizarán todas aquellas consideradas falsificaciones potenciales.
 
 # ¿Cómo verificar su cuenta de BrightID?. 
 
 1. ***Descargue la aplicación de BrightID***:
 
-Esto le permite conectarse a la misma, así como a cualquier otra de su preferencia, para ayudarle a verificar que es un ser humano real y de confianza.
+Ésto le permitirá conectarse a la misma, así como a cualquier otra de su elección, para ayudarle a verificar que es un ser humano real y de confianza.
 
 https://www.brightid.org
 
@@ -20,7 +20,7 @@ https://www.brightid.org
 
 2. ***Únase a una reunión de verificación de BrightID.***
 
-Todo lo que debe hacer es presentarse a una fiesta de verificación y realizar algunas conexiones dentro de la misma. Existe gran variedad reuniones disponibles a lo largo del día a través Zoom o Discord de acuerdo a idioma y su zona horaria, acompañadas de un proceso fácil y rápido que sólo le tomará unos minutos de su tiempo. 
+Todo lo que debe hacer es presentarse a una fiesta de verificación y realizar algunas conexiones dentro de la misma. Existe gran variedad reuniones disponibles a lo largo del día a través Zoom o Discord de acuerdo a su  idioma y zona horaria, acompañadas de un proceso fácil y rápido que sólo tomará unos minutos de su tiempo. 
 
 [Puede consutar el horario de las próximas reuniones aquí](https://rare.fyi/brightID)
 
