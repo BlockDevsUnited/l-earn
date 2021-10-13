@@ -1,8 +1,8 @@
 # Introducción a la RED DE POLKADOT
 
-Polkadot es un protocolo de cadena de bloques y una red que conecta múltiples blockchains, llamadas **paracadenas** (parachains), con una cadena de bloques primaria, llamada **cadena de retransmisión** (relay chain). La criptomoneda nativa de Polkadot se llama DOT.
+Polkadot es un protocolo de cadena de bloques y una red que conecta múltiples blockchains, llamados **paracadenas** (parachains), con una cadena de bloques primaria, llamada **cadena de retransmisión** (relay chain). La criptomoneda nativa de Polkadot se llama DOT.
 
-Las parchains están especializadas para propósitos específicos y cada una maneja su propio flujo paralelo de transacciones, mientras que al mismo tiempo intercambia datos entre sí y con la cadena de retransmisión. La cadena de retransmisión proporciona una capa de seguridad para sí misma y para todas las paracadenas.
+Las paracadenas están especializadas para propósitos específicos y cada una maneja su propio flujo paralelo de transacciones, mientras que al mismo tiempo intercambia datos entre sí y con la cadena de retransmisión. La cadena de retransmisión proporciona una capa de seguridad para sí misma y para todas las paracadenas.
 
 # Conviértase en un desarrollador de Polkadot
 
@@ -31,7 +31,6 @@ Lea más al respecto aquí: https://polkadot.network/blog/what-is-polkadot-a-bri
 * Puentes
 
 ![image](https://user-images.githubusercontent.com/58176712/133652249-cd4c4747-5202-42c5-b521-00d3d6a18917.png)
-
 
 
 #### La cadena de retransmisión
@@ -72,13 +71,13 @@ Los puentes deberían permitir que las paracadenas, que son esencialmente cadena
 
 ### DOT, la moneda de Polkadot
 
-DOT es la criptomoneda nativa de la Red Polkadot. El DOT se utiliza para pagos, pagos de tarifas de transacción y gobernanza. El DOT también se utiliza para compensar a los validadores de la cadena de retransmisión y como moneda general.
+DOT es la criptomoneda nativa de la Red Polkadot. El DOT se utiliza para pagos, pagos de tarifas de transacción y gobernanza. El DOT también se utiliza para compensar a los validadores de la cadena de retransmisión y como moneda generalizada.
 
 #### Características de DOT
 
 Los holders de DOT tienen derechos de gobernanza en la red Polkadot. Estos holders pueden ayudar a determinar las tarifas de la red, votar sobre las actualizaciones de red propuestas y permitir que se desplieguen o eliminen las paracadenas.
 
-El DOT se puede usar para ofertar en las ranuras de paracadenas y asegurar un lugar para su paracadena.
+El DOT se puede usar para ofertar en las vacantes de paracadenas y asegurar un lugar para la que poseen.
 
 El DOT facilita el consenso sobre la red a través del staking. El staking de DOT ayuda a mantener la seguridad de la red, reforzando el consenso de Polkadot.
 
@@ -100,13 +99,12 @@ Por ejemplo, hace mucho tiempo, costaba entre unos pocos centavos y unos cuánto
 
 #### Comunicación e intercambio de datos nulo o limitado.
 
-
 Docenas de blockchains fueron creadas de forma aislada y no es posible que se comuniquen o intercambien valor entre sí. Por ejemplo, no se puede enviar BTC en la red de ETH.
 
 #### Falta de customización.
 
 
-Hasta el adviento de Ethereum, las cadenas de bloques no admitían ninguna customización de la transferencia de valor de un propietario a otro. Bitcoin, por ejemplo, solo permitía transacciones peer-to-peer. Los contratos inteligentes permitieron customizar y programar lo que se puede lograr en una cadena de bloques, hasta cierto punto.
+Hasta el adviento de Ethereum, las cadenas de bloques no admitían ninguna customización de la transferencia de valor de un propietario a otro. Bitcoin, por ejemplo, solo permitía transacciones persona-a-persona. Los contratos inteligentes permitieron customizar y programar lo que se puede lograr en una cadena de bloques, hasta cierto punto.
 
 
 #### Mecanismo de validación de impacto de baja energía.
