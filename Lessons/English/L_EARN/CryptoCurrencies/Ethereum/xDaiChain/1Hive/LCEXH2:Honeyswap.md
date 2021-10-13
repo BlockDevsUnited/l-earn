@@ -71,7 +71,7 @@ To provide liquidity to the HoneySwap pools, 1Hive has created farming platforms
 
 [Honeyswap](https://honeyswap.org/)
 
-[metamask](https://metamask.io/)
+[Metamask](https://metamask.io/)
 
 ## Testing
 
