@@ -24,6 +24,7 @@ Empiece con [Introducción a BDU Aprende a ganar](https://github.com/BlockDevsUn
 * [Contributing to BDU L-EARN](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/Contributing/LCon1:Contributing.md) - 7.5 xDai
 * [Intro to Honeyswap](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/xDaiChain/1Hive/LCEXH2:Honeyswap.md) - 7 xDai
 * [Intro to Polkadot](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Polkadot/LCP1:Intro_To_Polkadot.md) - 0.2 DOT
+* [BrightID](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/Identity/LI2:BrightID.md) - 5 xDai
 
 #### Español
 * [Introducción a Ethereum](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/LCE1:Introduccion_a_Ethereum.md) - 5 xDai
