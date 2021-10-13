@@ -53,4 +53,4 @@ Never give out your private keys or seed phrase. If anyone ever asks for them, r
 For this pilot phase of BDU L-EARN, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website.
 
 ### Share your Ethereum address
-Once Metamask is installed, copy your address and send it to one of the owners of this repo.
+Once Metamask is installed, copy your address and send it to one of the owners of this repo. Reward: 5 xDai.
