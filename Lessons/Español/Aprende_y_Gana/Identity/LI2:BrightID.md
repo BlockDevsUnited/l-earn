@@ -2,60 +2,61 @@
 
 ![https://www.brightid.org](https://uploads-ssl.webflow.com/5e54622b3f6e65be8baf0653/5fdc4719cf8bf208a98162f2_brightid%20final%20logo-01.png)
 
-BrightID es una red de identidad social utilizada para verificar la singularidad presencial de sus usuarios dentro de las plataformas que hagan uso de la misma. No emplea una autoridad centralizada, pero determina la particularidad de un usuario mediante un gráfico social. Los usuarios de BrightID escanean el códigos QR de un número significativo de participantes  y, una vez que se han conectado con suficientes usuarios, la aplicación los verificará como únicos. Los usuarios también pueden marcar a otros usuarios por tener cuentas duplicadas.  permite que las aplicaciones se aseguren de que sus usuarios no tengan varias cuentas para que todos tengan una participación justa y una mejor experiencia.
-Cada persona tiene una cuenta en BrightID y establece conexiones con personas que conoce. Se forma un gráfico con las cuentas y sus conexiones y las cuentas falsas se detectan analizando el gráfico.
+BrightID es una red de identidad social utilizada para verificar la particularidad de sus usuarios dentro de las aplicaciones que hagan uso de la misma. No emplea una autoridad centralizada, pero determina la unicidad de un individuo mediante un gráfico social. Aquellos que desgarguen la aplicación de BrightID deberán asistir a una "fiesta de verificación" de su preferencia, las cuales son organizadas diariamente por colaboradores del proyecto a través de Zoom; se procederá a escanear el código QR grupal junto a un número específico de participantes y una vez se hayan conectado con suficientes de las personas presentes, se les aprobará como cuentas verificadas. Así mismo, éstos también tendrán la autoridad de reportar a otros usuarios al estar activos a través cuentas duplicadas, de ser necesario. 
 
-# Cómo verificar su cuenta de BrightID. 
+BrightID hace posible que las aplicaciones de terceros se aseguren de que sus consumidores empleen el uso de una sola cuenta, lo que garantiza que sus comunidades puedan disfrutar de una participación justa e igualitaria y, a consecuencia, una mejor experiencia. Cada usuario que posea una cuenta de BrightID establece conexiones con personas de su confianza y al hacerlo, la plataforma creará un gráfico de sus conexiones y se analizarán todas aquellas consideradas como falsificaciones potenciales.
 
-1. ***Descargue la aplicación BrightID***:
+# ¿Cómo verificar su cuenta de BrightID?. 
+
+1. ***Descargue la aplicación de BrightID***:
 
 Esto le permite conectarse a la misma, así como a cualquier otra de su preferencia, para ayudarle a verificar que es un ser humano real y de confianza.
 
-*https://www.brightid.org
+https://www.brightid.org
 
-[si esta en android puede descargarlo aqui](https://play.google.com/store/apps/details?id=org.brightid)
+[Si desea realizar la descarga desde un dispositivo Android, haga click aquí](https://play.google.com/store/apps/details?id=org.brightid)
 
-[si esta desde Iphone pinche aqui](https://apps.apple.com/us/app/brightid/id1428946820)
+[Si desea realizar la descarga desde un dispositivo iOS, haga click aquí](https://apps.apple.com/us/app/brightid/id1428946820)
 
 2. ***Únase a una reunión de verificación de BrightID.***
 
-Todo lo que tienes que hacer es presentarte a una reunión y hacer algunas conexiones en la aplicación, esto es con la finalidad de asegurarse de que eres humano, unirse a una reunión de conexión es fácil. Hay muchas reuniones a lo largo del día en Zoom o Discord en su zona horaria e idioma para verificar su cuenta humana única.
+Todo lo que debe hacer es presentarse a una fiesta de verificación y realizar algunas conexiones dentro de la misma. Existe gran variedad reuniones disponibles a lo largo del día a través Zoom o Discord de acuerdo a idioma y su zona horaria, acompañadas de un proceso fácil y rápido que sólo le tomará unos minutos de su tiempo. 
 
-[Puede consutar la proxima reunion aqui](https://rare.fyi/brightID)
+[Puede consutar el horario de las próximas reuniones aquí](https://rare.fyi/brightID)
 
 3. ***Enlace a personas y aplicaciones.***
 
-Una vez obtenida la verificación ya puede conectarse a la distintas aplicaciones con brightID para demostrar que es un humano Real, Actualmente para participar en el Programa de Recompensas [BDU L-EARN](https://github.com/jose1406/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md), debes poseer cuenta en brightID verificada para que nuestros desarrolladores puedan comprobar que eres humano.
+Una vez obtenida la verificación, podrá conectarse a la distintas aplicaciones afiliadas a BrightID para validar su identidad. Si desea obtener una recompensa de cualquiera de las pruebas presentadas por usted dentro de nuestro programa [BDU L-EARN](https://github.com/jose1406/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md), deberá contar con una cuenta de BrightID verificada y aprobada por uno de nuestros colaboradores.
 
-* **Es de suma importancia aclarar que el usuario adquiere la verificación de identidad en las reuniones del equipo de BrightID, una vez obtenida, en la parte derecha de su nombre en la aplicación le saldrá el símbolo de verificado, de no ser así el usuario no podrá presentar ninguna lección del programa.**
+## Tutorial 
+https://brightid.gitbook.io/brightid/ 
 
-## Enlaces importantes de Bright ID 
+
+## Enlaces de interés de BrightID 
 
 Sitio web https://brightid.org/
 
-Reuniones de Verificación https://brightid.org/meet 
+Reuniones de verificación https://brightid.org/meet 
 
 Explorador de gráficos https://explorer.brightid.org/ 
 
-Medio https://medium.com/brightid
+Medium https://medium.com/brightid
 
 Twitter https://twitter.com/BrightIDProject
 
 IDChain https://explorer.idchain.one/
 
-Tutorial https://brightid.gitbook.io/brightid/ 
-
 Aplicaciones: https://apps.brightid.org/
 
-Discordia https://discord.gg/3wE9CMA
+Discord https://discord.gg/3wE9CMA
 
-# Practica
+# Práctica
 
 * Descargue y únase a BrightID
-* Únase a una reunión de verificación y obtenga la misma
-* conectese con miembros de la comunidad BDU L-EARN
+* Asista a una fiesta de verificación y obtenga dicha verificación
+* Conéctese con miembros del equpipo de BDU L-EARN
 
 # Recompensa
 
-para programar una prueba, comuníquese con nuestros grupos comunitarios.
-La recompensa es 5 xDai.
+Para programar una prueba, comuníquese con nuestro grupo comunitario a través de Telegram.
+Recompensa: 5 xDai.
