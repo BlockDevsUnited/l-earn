@@ -13,12 +13,6 @@ Not sure how to start? Instructions are here:
 ¿No estás seguro de cómo empezar? Las instrucciones están aquí:
 - [Introducción a Polkadot - Aprende y gana](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/LCP1:Introduccion_A_Polkadot.md) - 0.2 DOT Reward
 
-## Join the community
-Here are the links to our community channels:
-* [Spanish Telegram Channel ](https://t.me/PolkadotAprendeAGanar)
-* [English Telegram Channel ](https://t.me/PolkadotLearn)
-
-
 ## Available Lessons
 
 #### English
@@ -29,5 +23,9 @@ Here are the links to our community channels:
 
 * [Introducción a Polkadot](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/LCP1:Introduccion_A_Polkadot.md) - 0.2 DOT
 
-
 More coming soon!
+
+## Join the community
+Here are the links to our community channels:
+* [Spanish Telegram Channel ](https://t.me/PolkadotAprendeAGanar)
+* [English Telegram Channel ](https://t.me/PolkadotLearn)
