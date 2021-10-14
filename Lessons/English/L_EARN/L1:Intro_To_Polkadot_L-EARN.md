@@ -16,34 +16,7 @@ Learning about Polkadot is our primary focus. In this section you will learn wha
 
 We offer a small core of general lessons for beginners, and an expanded set of lessons for developers.
 
-There is also a small group of lessons involving the Polkadot L-EARN program itself. This includes lessons on our community, on contributing, on identity, and this very lesson!
-
-#### Learning Tree
-
-Our educational material is organized in a tree like structure. The tree has learning categories, or "branches", and lessons, or "leafs". We call this the learning tree.
-
-##### Lesson codes
-Lessons are named by letter codes. The letter codes represent a branch on the learning tree
-
-For example:
-```
-L: Learn and Earn
-LP: Learn and Earn - Polkadot
-LPS: Learn and Earn - Polkadot - Smart Contracts
-```
-Each branch has its lessons, or leafs.  For example, the branch LC: Learn and Earn - Cryptocurrency, has:
-```
-LP1: Intro_To_Polkadot
-LP2: Decentralized_Applications
-LP3: Cold_Storage
-```
-and so on. Every lesson has a place on the learning tree and is known by a lesson code.
-
-#### Learning Paths
-
-A learning path is a list of lessons taken from the learning tree, that is geared towards a particular learning outcome. Learning paths are basically equivalent to short courses.
-
-Anyone can create learning paths and share with others. Students are also free to follow their own personal learning paths, and skip over lessons they know if desired.
+There is also a small group of lessons involving the Polkadot L-EARN program itself, including this lesson.
 
 #### Open Source
 All lessons are open source on Github and free to use for anyone.
@@ -64,13 +37,15 @@ Rewards are always in DOT!
 
 #### Verification
 
-Verification is required to prevent Sybil attacks, that is individuals claiming multiple identities and therefore multiple rewards.  We try to make it as easy as possible to get verified, while remaining resistant to sybil attacks.
+Verification is required to prevent Sybil attacks, that is individuals claiming multiple identities and multiple rewards.  
 
 There are 2 ways to get verified on Polkadot L-EARN.
- - get verified on BrightID
- - In limited cases get verified directly with a trusted community member.
+ - [get verified on BrightID](https://brightid.gitbook.io/brightid/getting-verified)
+ - In limited cases you get verified directly with a trusted community member.
 
-Though you can accumulate earnings before verifying, verification is required to withdraw rewards.
+You can accumulate earnings before verifying, but verification is required to withdraw rewards.
+
+We try to make it as easy as possible to get verified, while remaining resistant to sybil attacks.
 
 ## Practice
 Follow these steps to complete the lesson.
@@ -78,10 +53,8 @@ Follow these steps to complete the lesson.
 ### Join Community
 First things first, please join our community channels! We have English and Spanish Telegram Channels
 
-* [English](https://t.me/bdu_learn).
-* [Spanish]
-
-
+* [English](https://t.me/polkadotlearn).
+* [Spanish](https://t.me/PolkadotAprendeAGanar)
 
 ### Introduce yourself
 Introduce yourself in the telegram channels
@@ -89,17 +62,14 @@ Introduce yourself in the telegram channels
 ### Study This Lesson
 
 ### Get Verified
-You can get verified on brightID. https://brightid.gitbook.io/brightid/getting-verified
+Get verified on brightID. https://brightid.gitbook.io/brightid/getting-verified
 
 ### Schedule a Test
 To schedule a test simply ask in our telegram group.
 
 Testing at the moment is done manually in our Telegram groups. A tester will have a conversation with you, ask you questions, and ask you to complete exercises to prove you have learned the material.
 
-## Tests
+## Take the test
+Pass the test and earn DOT!
 
-Every lesson includes a test or trial at the end. Learners must pass this test to earn DOT. First you must study a lesson, and when you are ready you can take a test.
-
-
-
-A test is available for this lesson.
+If you have any questions or doubts, refer to the instructions above or ask for help in the community channels.
