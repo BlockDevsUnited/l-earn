@@ -11,7 +11,7 @@ Not sure how to start? Instructions are here:
 
 
 ¿No estás seguro de cómo empezar? Las instrucciones están aquí:
-- [Introducción a Polkadot - Aprende y gana](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/LCP1:Introduccion_A_Polkadot.md) - 0.2 DOT Reward
+- [Introducción a Polkadot - Aprende y gana](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_Polkadot_Aprende_Y_Gana.md) - 0.2 DOT Reward
 
 ## Available Lessons
 
