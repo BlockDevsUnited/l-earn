@@ -36,7 +36,6 @@ You can take as many tests as you want to accumulate rewards.
 Rewards are always in DOT!
 
 #### Verification
-
 Verification is required to prevent Sybil attacks, that is individuals claiming multiple identities and multiple rewards.  
 
 There are 2 ways to get verified on Polkadot L-EARN.
@@ -46,6 +45,11 @@ There are 2 ways to get verified on Polkadot L-EARN.
 You may accumulate earnings before verifying, but verification is required to withdraw rewards.
 
 We try to make it as easy as possible to get verified, while remaining resistant to sybil attacks.
+
+#### Minimum DOT Earnings
+The Polkadot network does not allow balances less than 1 DOT. This is intended to reduce blockchain size and prevent spam.
+
+In order to withdraw your DOT earnings, you must have at least 1 DOT in your wallet. If you cannot get 1 DOT, then you must accumulate 1 DOT in earnings before withdrawing. 
 
 ## Practice
 Follow these steps to complete the lesson.
