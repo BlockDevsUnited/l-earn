@@ -2,7 +2,7 @@
 
 Welcome to Polkadot L-EARN! We are a Polkadot community project where you can learn about Polkadot and earn DOT at the same time!
 
-¡Bienvenido a Polkadot L-EARN! ¡Somos un proyecto comunitario de Polkadot donde puedes aprender sobre Polkadot y ganar DOT al mismo tiempo!
+¡Bienvenido a Polkadot L-EARN! ¡Somos un proyecto comunitario de Polkadot donde puede aprender sobre Polkadot y ganar DOT al mismo tiempo!
 
 
 ## Start Learning and Earning Now
@@ -10,7 +10,7 @@ Not sure how to start? Instructions are here:
 - [Intro to Polkadot L-EARN](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/English/L_EARN/L1:Intro_To_Polkadot_L-EARN.md) - 0.2 DOT
 
 
-¿No estás seguro de cómo empezar? Las instrucciones están aquí:
+¿No está seguro de cómo empezar? Las instrucciones están aquí:
 - [Introducción a Polkadot - Aprende a ganar](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_Polkadot_Aprende_A_Ganar.md) - 0.2 DOT
 
 ## Available Lessons
