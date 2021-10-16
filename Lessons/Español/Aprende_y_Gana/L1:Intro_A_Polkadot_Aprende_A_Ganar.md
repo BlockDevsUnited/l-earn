@@ -1,6 +1,6 @@
 # Introducción a Polkadot - Aprende a ganar
 
-¡Bienvenidos! Esta lección proporciona instrucciones sobre cómo aprender y ganar dinero con Polkadot - Aprende y gana.
+¡Bienvenidos! Esta lección proporciona instrucciones sobre cómo aprender y ganar dinero con Polkadot - Aprende a ganar.
 
 Somos un proyecto comunitario de Polkadot donde podrá aprender sobre su ecosistema y ganar DOT al mismo tiempo. El método de aprendizaje es de igual a igual, así como también de código abierto. ¡Nuestro objetivo es capacitar a personas con habilidades de Polkadot, brindarles ingresos en DOT y aumentar la adopción de Polkadot!
 
