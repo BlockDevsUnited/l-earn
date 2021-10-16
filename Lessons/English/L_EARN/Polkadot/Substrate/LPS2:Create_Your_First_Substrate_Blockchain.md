@@ -12,8 +12,7 @@ Follow [this](https://docs.substrate.io/tutorials/v3/create-your-first-substrate
 
 ## Testing
 
-When ready, reach out to [schedule a test]()
-[Instructions to schedule a test]()
+When ready, reach out to [schedule a test](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/English/L_EARN/L1:Intro_To_Polkadot_L-EARN.md#schedule-a-test)
 
 To pass the test you must
 - complete the practice tutorial
