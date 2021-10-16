@@ -32,7 +32,9 @@ Never give out your private keys or seed phrase. If anyone ever asks for them, r
 
 ### Required Readings
   - https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/
-- Recommended Readings
+  
+- Recommended Readings:
+- 
   - https://ethereum.org/en/whitepaper/
   - https://cointelegraph.com/explained/erc-20-tokens-explained
   - https://www.youtube.com/watch?v=ZE2HxTmxfrI
