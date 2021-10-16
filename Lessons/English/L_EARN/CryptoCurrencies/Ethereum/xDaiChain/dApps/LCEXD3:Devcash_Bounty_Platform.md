@@ -85,5 +85,5 @@ More bounties are available. We will also be posting bounties to help build the 
 
 ## Testing
 
-For this lesson, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website.
+For this lesson, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website. Reward: 5 xDai.
 
