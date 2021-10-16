@@ -8,7 +8,7 @@ As we understood in the previous lesson, Substrate is a development framework th
 
 ## Practice
 
-Follow [this](https://docs.substrate.io/tutorials/v3/create-your-first-substrate-chain/) tutorial.
+Follow [this tutorial.](https://docs.substrate.io/tutorials/v3/create-your-first-substrate-chain/) 
 
 ## Testing
 
