@@ -27,7 +27,6 @@ We use peer to peer learning and teaching, and even testing.
 ### Earning
 Earning DOT is the second aspect of Polkadot L-EARN. In this section you will learn how to Earn DOT.
 
-
 #### Passing Tests
 Every lesson comes with a test, including this lesson. You must pass that test to earn the reward.
 
