@@ -1,30 +1,26 @@
-# Contribuyendo con BDU Aprende y gana.
+# Contribuyendo con BDU - Aprende a ganar.
 
-Esta lección proporciona la información que necesitan saber para contribuir a BDU L-EARN.
+Esta lección proporciona toda la información que necesitan saber para contribuir a BDU - Aprende a ganar.
 
 Todas nuestras lecciones están organizadas en GitHub haciendo uso del formato markdown (.md). Estas herramientas deben aprenderse antes de comenzar contribuir.
 
-Recompensa: 7.5 xDai
-
-
-
 ## Teoría
 
-### Becoming a Contributor
-Conviértete en un colaborador.
+### Conviértete en un colaborador.
 
 Cualquiera puede contribuir. Sólo necesitas poseer conocimientos valiosos, pasión por la educación y algunas habilidades básicas de GitHub.
 
-Si estás buscando una lección acerca de un tema determinado, pero no la encuentras publicada en BDU L-EARN, ¡considera hacerla tú mismo! La enseñanza es una de las formas más efectivas de aprender.
+Si estás buscando una lección acerca de un tema determinado, pero no la encuentras publicada en BDU - Aprende a ganar, ¡considera hacerla tú mismo! La enseñanza es una de las formas más efectivas de aprender.
 
 Si estás familiarizado con GitHub y markdown, puedes comenzar a escribir lecciones, crear solicitudes de extracción, y también presentarlas como un tema de debate en los canales de la comunidad.
 
 
-### Github
+### GitHub
 
 GitHub es una plataforma de alojamiento de código para la colaboración y el control de versiones. GitHub te permite a ti (y a otros) trabajar juntos en la realización de diversos proyectos.
 
-Lecturas:
+- Lecturas:
+
 * [Lee este tutorial](https://www.hostinger.es/tutoriales/que-es-github)
 * [Lee este artículo](https://www.crehana.com/blog/marketing-digital/para-que-sirve-github/)
 * [Mira este vídeo](https://youtu.be/YqsPBnCpUOY)
@@ -45,8 +41,7 @@ Básicamente, todo el texto en GitHub está escrito usando markdown.
 Tenemos algunas recompensas disponibles por contribuir lecciones de alta calidad. Las recompensas aumentarán a medida que el programa crezca. Puedes preguntar más detalles al respecto en los canales de la comunidad.
 
 ## Práctica
-### Create Github Account
-Crear una cuenta de GitHub
+### Cree una cuenta de GitHub
 
 * Crea una cuenta de GitHub si no tienes una.
 
@@ -55,7 +50,7 @@ Crear una cuenta de GitHub
 
 ### Bifurcar (fork) un repositorio
 
-Bifurca este repositorio. El botón de bifurcación está en la parte superior derecha de esta página.
+Bifurque este repositorio. El botón de bifurcación está en la parte superior derecha de esta página.
 
 ### Crear un archivo de markdown.
 
@@ -73,8 +68,8 @@ Tu potencial como colaborador podría ser juzgado por la calidad de tu lección,
 
 ### Hacer solicitud de extracción
 
-La forma más fácil de realizar una solicitud de extracción es editando nuestro repositorio y, una vez que hayas terminado, hagas clic en "Aplicar solicitud de extracción" ("Submit pull request")
-
+La forma más fácil de realizar una solicitud de extracción es editando nuestro repositorio y que, una vez que hayas terminado, hagas clic en "Aplicar solicitud de extracción" ("Submit pull request")
 
 ## Pruebas
-Haznos saber en Discord cuando estés listo para realizar una prueba.
+
+Para esta lección, uno de nuestros colaboradores pondrá a prueba sus conocimientos en una conversación uno-a-uno utilizando BrightID para verificar su identidad. Póngase en contacto con nosotros a través de este repositorio o en el grupo de Telegram en nuestro sitio web. ¡Háganos saber cuando esté listo para tomar el examen! Recompensa: 7.5 xDai
