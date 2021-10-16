@@ -1,4 +1,4 @@
-# Introducción a Polkadot - Aprende y gana
+# Introducción a Polkadot - Aprende a ganar
 
 ¡Bienvenidos! Esta lección proporciona instrucciones sobre cómo aprender y ganar dinero con Polkadot - Aprende y gana.
 
@@ -38,7 +38,7 @@ Puede realizar tantas pruebas como desee para acumular recompensas.
 
 La verificación es requerida para prevenir ataques de Sybil, es decir, individuos que reclaman múltiples identidades y múltiples recompensas.
 
-Existen dos formas de obtener la verificación en Polkadot L-EARN:
+Existen dos formas de obtener la verificación en Polkadot - Aprende a ganar:
 
  - [Obtenga la verificación a través de BrightID](https://brightid.gitbook.io/brightid/getting-verified)
  - Obtenga la verificación directamente con un miembro de confianza de nuestra comunidad.
@@ -53,8 +53,8 @@ Siga estos pasos para completar la lección.
 ### Únase a la comunidad
 Lo primero es lo primero, ¡únase a nuestros canales comunitarios! Contamos con canales de Telegram en Ingles y Español:
 
-* [Inglés] (https://t.me/polkadotlearn)
-* [Español] (https://t.me/PolkadotAprendeAGanar)
+* [Inglés](https://t.me/polkadotlearn)
+* [Español](https://t.me/PolkadotAprendeAGanar)
 
 ### Preséntese
 Preséntese en los canales de Telegram
