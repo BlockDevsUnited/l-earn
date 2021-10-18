@@ -7,7 +7,7 @@ Welcome to Polkadot L-EARN! We are a Polkadot community project where you can le
 
 ## Start Learning and Earning Now
 Not sure how to start? Instructions are here:
-- [Getting Started with Polkadot L-EARN L-EARN](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/English/L_EARN/L1:Getting_Started_With_Polkadot_L-EARN.md) - 0.2 DOT
+- [Getting Started with Polkadot L-EARN](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/English/L_EARN/L1:Getting_Started_With_Polkadot_L-EARN.md) - 0.2 DOT
 
 
 ¿No está seguro de cómo empezar? Las instrucciones están aquí:
