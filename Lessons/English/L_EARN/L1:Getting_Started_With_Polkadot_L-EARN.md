@@ -1,10 +1,10 @@
-# Intro to Polkadot L-EARN
+# Getting Started With Polkadot L-EARN
 
 Welcome! This lesson provides instructions on learning and earning with Polkadot L-EARN.
 
 We are a Polkadot community project where you can learn about Polkadot and Earn DOT at the same time. Learning is peer to peer, and open source. Our goal is to train people with Polkadot skills, provide you with DOT income, and increase Polkadot adoption!
 
-Study this lesson, take notes, and take a test at the end. The reward is 0.2 DOT
+Read this lesson, take notes, and talk to a testing official at the end. You can earn 0.2 DOT at the end.
 
 ## Theory
 Study this section to understand what Polkadot L-EARN is all about
@@ -24,15 +24,22 @@ All lessons are open source and available in this Github repository and free for
 #### Peer to Peer
 We use peer to peer learning and teaching, and even testing.
 
+Community members can become testers after going through an approval process
+
 ### Earning
 Earning DOT is the second aspect of Polkadot L-EARN. In this section you will learn how to Earn DOT.
 
 #### Passing Tests
-Every lesson comes with a test, including this lesson. You must pass that test to earn the reward.
+Every lesson comes with a test. For this lesson, the test will just be a few yes/no questions confirming you understood the key points.
 
 You can take as many tests as you want to accumulate rewards.  
 
 Rewards are always in DOT!
+
+#### Withdrawing
+After accumulating DOT earnings, you must withdraw them to get it into your personal wallet.
+
+Read carefully below to understand what conditions must be satisfied before withdrawing.
 
 #### Verification
 Verification is required to prevent Sybil attacks, that is individuals claiming multiple identities and multiple rewards.  
@@ -72,6 +79,8 @@ Get verified on brightID. https://brightid.gitbook.io/brightid/getting-verified
 To schedule a test simply ask in our telegram group.
 
 Testing at the moment is done manually in our Telegram groups. A tester will have a conversation with you, ask you questions, and ask you to complete exercises to prove you have learned the material.
+
+In this case the test will simply be a few yes/no questions
 
 ## Take the test
 Pass the test and earn DOT!
