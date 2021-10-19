@@ -1,4 +1,4 @@
-# ¿Qué es Polkadot?
+# Introducción a la RED POLKADOT
 
 Polkadot es un protocolo de cadena de bloques y una red que conecta múltiples blockchains, llamados **paracadenas** (parachains), con una cadena de bloques primaria, llamada **cadena de retransmisión** (relay chain). La criptomoneda nativa de Polkadot se llama DOT.
 
