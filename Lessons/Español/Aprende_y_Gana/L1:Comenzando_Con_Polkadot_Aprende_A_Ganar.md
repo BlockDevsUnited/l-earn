@@ -64,8 +64,8 @@ Siga estos pasos para completar la lección.
 ### Únase a la comunidad
 Lo primero es lo primero, ¡únase a nuestros canales comunitarios! Contamos con canales de Telegram en Ingles y Español.
 
-* [Inglés] (https://t.me/polkadotlearn).
-* [Español] (https://t.me/PolkadotAprendeAGanar)
+* [Inglés](https://t.me/polkadotlearn).
+* [Español](https://t.me/PolkadotAprendeAGanar)
 
 ### Preséntese
 Preséntese en los canales de Telegram.
