@@ -11,7 +11,7 @@ Not sure how to start? Instructions are here:
 
 
 ¿No está seguro de cómo empezar? Las instrucciones están aquí:
-- [Comenzando con Polkadot - Aprende a ganar](https://github.com/antron3000/Polkadot-L-EARN/edit/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Comenzando_Con_Polkadot_Aprende_A_Ganar.md) - 0.2 DOT
+- [Comenzando con Polkadot - Aprende a ganar](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Comenzando_Con_Polkadot_Aprende_A_Ganar.md) - 0.2 DOT
 
 ## Available Lessons
 
