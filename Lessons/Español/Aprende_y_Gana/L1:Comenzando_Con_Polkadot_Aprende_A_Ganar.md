@@ -46,7 +46,7 @@ Se requiere un proceso de verificación para evitar ataques de Sybil, es decir, 
 
 Hay dos formas de obtener la verificación en Polkadot - Aprender a ganar:
 
- - [Obtenga la verificación a través de BrightID] (https://brightid.gitbook.io/brightid/getting-verified)
+ - [Obtenga la verificación a través de BrightID](https://brightid.gitbook.io/brightid/getting-verified)
  - Obtenga la verificación directamente con un miembro de confianza de la comunidad.
 
 Puede acumular ganancias antes de verificarse, pero se requiere la verificación para poder retirar sus recompensas.
