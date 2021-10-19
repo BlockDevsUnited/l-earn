@@ -11,7 +11,7 @@ Not sure how to start? Instructions are here:
 
 
 ¿No está seguro de cómo empezar? Las instrucciones están aquí:
-- [Introducción a Polkadot - Aprende a ganar](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_Polkadot_Aprende_A_Ganar.md) - 0.2 DOT
+- [Comenzando con Polkadot - Aprende a ganar](https://github.com/antron3000/Polkadot-L-EARN/edit/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Comenzando_Con_Polkadot_Aprende_A_Ganar.md) - 0.2 DOT
 
 ## Available Lessons
 
@@ -21,7 +21,7 @@ Not sure how to start? Instructions are here:
 
 #### Español
 
-* [Introducción a Polkadot](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/LCP1:Introduccion_A_Polkadot.md) - 0.2 DOT
+* [¿Qué es Polkadot?](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/Polkadot/LP1:Que_Es_Polkadot.md) - 0.2 DOT
 
 More coming soon!
 
