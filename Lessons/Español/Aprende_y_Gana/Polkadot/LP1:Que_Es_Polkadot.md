@@ -115,7 +115,7 @@ Polkadot apunta a obtener un mecanismo de validación de transacciones seguro, q
 
 ### Configure una billetera de Polkadot
 
-Para esta lección, todo lo que necesita hacer es configurar una billetera de Polkadot. Existen muchas carteras disponibles, entre las cuales se encuentran Atomic Wallet, IMToken, Enjin Wallet y Trust Wallet.
+Para esta lección, todo lo que necesita hacer es configurar una billetera de Polkadot. Existen muchas billeteras disponibles, entre las cuales se encuentran Atomic Wallet, IMToken, Enjin Wallet y Trust Wallet.
 
 ## Prueba
 
