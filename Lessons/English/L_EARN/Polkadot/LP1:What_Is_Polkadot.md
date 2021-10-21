@@ -46,7 +46,7 @@ The Relay Chain is the heart of Polkadot Network, and is responsible for shared 
 * Preserve historical Data
 * Monitor health of the entire Polkadot ecosystem.
 
-Users who stake DOT can validate transactions if they are nominated by the relay chian.
+Users who stake DOT can validate transactions if they are nominated by the relay chain.
 
 #### Parachains
 
