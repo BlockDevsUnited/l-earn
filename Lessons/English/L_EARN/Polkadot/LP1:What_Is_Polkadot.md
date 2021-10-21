@@ -113,6 +113,12 @@ Until the advent of Ethereum, blockchains did not support any customization of t
 
 Polkadot aims to have a secure transaction validation mechanism, that at the same time does not require expensive hardware and excessive energy consumption.  
 
+## Videos
+
+Now that you have read about polkadot, here is a [video](https://youtu.be/_-k0xkooSlA) combining all the above points in brief for revision.
+
+This is a longer [video](https://youtu.be/kw8eu2VadFA) covering various topics starting from History of the internet, what is blockchain to what is Polkadot and finally what problems is it solving.
+
 ## Practice
 
 ### Set up a Polkadot Wallet
