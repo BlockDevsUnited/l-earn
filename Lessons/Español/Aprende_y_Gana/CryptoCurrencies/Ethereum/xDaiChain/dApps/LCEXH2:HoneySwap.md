@@ -79,4 +79,4 @@ Para proporcionar liquidez a las piscinas de Honeyswap, 1HIVE ha creado fincas d
 
 # Recompensa
 
-* 7 xDai
+* 5 xDai
