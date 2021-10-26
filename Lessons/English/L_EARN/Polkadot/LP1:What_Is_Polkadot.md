@@ -123,7 +123,7 @@ This is a longer [video](https://youtu.be/kw8eu2VadFA) covering various topics s
 
 ### Set up a Polkadot Wallet
 
-For this lesson, all you need to do is set up a Polkadot Wallet. There are many wallets available, included Atomic Wallet, IMToken, Enjin wallet, and Trust Wallet.
+For this lesson, all you need to do is set up a Polkadot Wallet. There are many wallets available, including Atomic Wallet, IMToken, Enjin wallet, and Trust Wallet.
 
 ## Testing
 
