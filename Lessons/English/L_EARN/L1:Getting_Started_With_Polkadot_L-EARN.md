@@ -4,7 +4,7 @@ Welcome! This lesson provides instructions on learning and earning with Polkadot
 
 We are a Polkadot community project where you can learn about Polkadot and Earn DOT at the same time. Learning is peer to peer, and open source. Our goal is to train people with Polkadot skills, provide you with DOT income, and increase Polkadot adoption!
 
-Read this lesson, take notes, and talk to a testing official at the end. You can earn 0.2 DOT at the end.
+Read this lesson, take notes, and talk to a testing official at the end. You can earn 0.1 DOT at the end.
 
 ## Theory
 Study this section to understand what Polkadot L-EARN is all about
