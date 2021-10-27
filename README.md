@@ -4,7 +4,7 @@ Welcome to BDU L-EARN! We are a Learn and Earn community started by [Block Devs 
 
 ## Join the community
 Here are the links to our community channels
-* [Discord](https://discord.gg/k2psXymRk3)
+* [Discord](https://discord.gg/WvqSMfB7Jz)
 * [Spanish Telegram Channel ](https://t.me/learn_and_earn_crypto)
 * [English Telegram Channel ](https://t.me/bdu_learn)
 
