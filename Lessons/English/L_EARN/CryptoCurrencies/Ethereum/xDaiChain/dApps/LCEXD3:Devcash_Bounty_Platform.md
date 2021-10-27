@@ -74,7 +74,7 @@ Once a submission is approved, the reward gets sent from the bounty chest contra
 ## Practice
 
 ### Become a Bounty Hunter
-Follow the steps here to become a DevCash Bounty Hunter: https://xdai.devcash.dev/bountyplatform/bounty/75
+Follow the steps here to become a DevCash Bounty Hunter: https://xdai.devcash.dev/bountyplatform/bounty/80
 
 ### Verify your payment
 Once your submission has been approved, make sure you got paid properly. Check Blockscout to see if the payment was sent to your address. 
