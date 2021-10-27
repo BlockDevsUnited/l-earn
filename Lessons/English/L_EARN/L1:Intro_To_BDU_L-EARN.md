@@ -83,4 +83,4 @@ Every lesson includes a test or trial at the end. Learners must pass this test t
 
 Testing at the moment is done manually in our Discord or Telegram groups. A tester will have a conversation with you, ask you questions, and ask you to complete exercises to prove you have learned the material.
 
-A test is available for this lesson. [Go here to take the test when you are ready!](https://discord.gg/k2psXymRk3)
+A test is available for this lesson. [Go here to take the test when you are ready!](https://discord.gg/WvqSMfB7Jz). Ask to take a test in the l-earn channel.
