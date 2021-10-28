@@ -1,4 +1,4 @@
-# Adding a simple pallet to your substrate runtime
+# Adding a pallet to your substrate runtime
 
 Reward - 0.2 DOT
 
@@ -9,8 +9,8 @@ To complete this lesson, you need to make sure that you have completed the prere
 ## Theory
 
 In the previous lesson [Creating the first substrate blockchain](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/English/L_EARN/Polkadot/Substrate/LPS2:Create_Your_First_Substrate_Blockchain.md), we learned all about Substrate and how to create a Substrate based blockchain.
-In this tutorial, we will learn about how to add our custom modules to the runtime provided by Substrate.
-We will add our custom FRAME pallets to the node template, which we have created in our previous lesson.
+In this tutorial, we will learn about how to add a pallet to the runtime provided by Substrate.
+We will add a pallet built using FRAME pallets to the node template, which we have created in our previous lesson.
 
 ## Practice
 
