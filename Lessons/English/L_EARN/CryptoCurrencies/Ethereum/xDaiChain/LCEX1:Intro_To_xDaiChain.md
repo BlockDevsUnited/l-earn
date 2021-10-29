@@ -35,7 +35,7 @@ Here are three of xDai's most useful characteristics:
 To set up xDai on Metamask, go to: https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup and follow the instructions.
 
 ### Send an xDai transaction
-- Send 0.01 xDai from your wallet to this Ethereum Address: 0x4F074A4aF26A0dCAeD618A2a6262C4D0aD797C1c
+- Send 0.02 xDai from your wallet to this Ethereum Address: 0x91B34BE2a4305e4A679196c9bfC484B01005100a
 
 ### View Token Balances
 1. Copy your address
