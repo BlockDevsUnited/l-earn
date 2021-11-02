@@ -4,14 +4,15 @@ Welcome to BDU L-EARN! We are a Learn and Earn community started by [Block Devs 
 
 ## Join the community
 Here are the links to our community channels
-* [Discord](https://discord.gg/WvqSMfB7Jz)
+* [Block Devs United Discord](https://discord.gg/fyeKJCb3)
+* [BDU L-EARN Discord](https://discord.gg/WvqSMfB7Jz)
 * [Spanish Telegram Channel ](https://t.me/learn_and_earn_crypto)
 * [English Telegram Channel ](https://t.me/bdu_learn)
 
 ## Start Learning and Earning Now
-Start with [Intro to BDU L-EARN](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/L1:Intro_To_BDU_L-EARN.md) - Reward - 5 xDai
+Start with [Getting started with BDU L-EARN](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/L1:Intro_To_BDU_L-EARN.md) - Reward - 2.5 xDai
 
-Empiece con [Introducción a BDU Aprende a ganar](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md) - Recompensa - 5 xDai
+Empiece con [Comenzando con BDU - Aprende a ganar](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md) - Recompensa - 2.5 xDai
 
 
 ### Available Lessons
@@ -30,7 +31,7 @@ Empiece con [Introducción a BDU Aprende a ganar](https://github.com/BlockDevsUn
 * [Introducción a Ethereum](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/LCE1:Introduccion_a_Ethereum.md) - 5 xDai
 * [Introducción a xDai](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/xDaiChain/LCEX1:Introduccion_a_xDaiChain.md) - 5 xDai
 * [Cómo usar Devcash Bounty Platform](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/xDaiChain/dApps/LCEXD3:Plataforma_De_Recompensas_DevCash.md) - 5 xDai
-* [Contribuyendo con BDU Aprende a ganar](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/Contributing/LCon1:Contribuyendo.md) - 7.5 xDai
+* [Contribuyendo con BDU - Aprende a ganar](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/Contributing/LCon1:Contribuyendo.md) - 7.5 xDai
 * [Introducción a HoneySwap](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/Ethereum/xDaiChain/dApps/LCEXH2:HoneySwap.md) - 5 xDai
 * [Introducción a Polkadot](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/LCP1:Introduccion_A_Polkadot.md) - 0.2 DOT
 * [BrightID](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/Identity/LI2:BrightID.md) - 5 xDai
