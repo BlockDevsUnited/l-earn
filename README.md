@@ -1,8 +1,3 @@
-## Warning
-
-This repo is DEPRECATED - the active repo can be found here. https://github.com/Polkadot-L-EARN/Polkadot-L-EARN
-
-
 # Polkadot L-EARN
 
 
