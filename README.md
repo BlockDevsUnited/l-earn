@@ -1,5 +1,7 @@
 # Polkadot L-EARN
 
+This repo is DEPRECATED - the active repo can be found here. https://github.com/Polkadot-L-EARN/Polkadot-L-EARN
+
 Welcome to Polkadot L-EARN! We are a Polkadot community project where you can learn about Polkadot and earn DOT at the same time!
 
 ¡Bienvenido a Polkadot L-EARN! ¡Somos un proyecto comunitario de Polkadot donde puede aprender sobre Polkadot y ganar DOT al mismo tiempo!
