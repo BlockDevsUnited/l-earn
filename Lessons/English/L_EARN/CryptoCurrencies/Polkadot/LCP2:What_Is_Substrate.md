@@ -129,6 +129,10 @@ The reward for passing is 0.2 DOT.
 *Are you contributing here as an author for this L_EARN resource? 
 Make sure to add your name, the commit hash of your contribution and your DOT or ETH tipping address below so that others can spread their love ❤️.*
 
-| Name     | Tip Jar Address |  Commit |
+| Author     | Tip Jar Address |  Commit |
 |----------|:---------------:| -------:|
-|          |                 |         |
+|   Sacha       |   1wBg4LZz2rALV9z2awLnrUQLGmfjhx2Fa6F6nGGd46m2q3K  | [`1238`][contributor-commit-1]|
+
+
+<!--- list of notable commits --->
+[contributor-commit-1]: https://github.com/BlockDevsUnited/learn-and-earn/commit/12388d51a204bfceebc85c676def44604168aafb
