@@ -1,7 +1,9 @@
-# Contributing to BDU L-EARN
-This lesson provides all of the information you need to know in order to contribute to BDU L-EARN.
+# Contributing to Polkadot L-EARN
+This lesson provides the information you need to know, to contribute to BDU L-EARN.
 
-All of our lessons are organized on Github using a markdown (.md) format. These tools must be learnt first before contributing.
+All our lessons are organized on Github in markdown (.md) format. These tools must be learnt first before contributing.
+
+Reward: .2 DOT
 
 ## Theory
 
