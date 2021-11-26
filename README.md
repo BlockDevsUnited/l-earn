@@ -1,7 +1,7 @@
-# Intro to BDU L-EARN
+# Polkadot L-EARN
 
-Welcome to BDU L-EARN! We are a Learn and Earn community started by [Block Devs United](https://bdu.dev), where you can **learn and earn crypto** at the same time!
 
+<<<<<<< HEAD
 ## Join the community
 Here are the links to our community channels
 * [Block Devs United Discord](https://discord.gg/fyeKJCb3)
@@ -13,12 +13,26 @@ Here are the links to our community channels
 Start with [Getting started with BDU L-EARN](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/L1:Intro_To_BDU_L-EARN.md) - Reward - 2.5 xDai
 
 Empiece con [Comenzando con BDU - Aprende a ganar](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md) - Recompensa - 2.5 xDai
+=======
+Welcome to Polkadot L-EARN! We are a Polkadot community project where you can learn about Polkadot and earn DOT at the same time!
+
+¡Bienvenido a Polkadot L-EARN! ¡Somos un proyecto comunitario de Polkadot donde puede aprender sobre Polkadot y ganar DOT al mismo tiempo!
 
 
-### Available Lessons
+## Start Learning and Earning Now
+Not sure how to start? Instructions are here:
+- [Getting Started with Polkadot L-EARN](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/English/L_EARN/L1:Getting_Started_With_Polkadot_L-EARN.md) - 0.1 DOT
+
+>>>>>>> master
+
+¿No está seguro de cómo empezar? Las instrucciones están aquí:
+- [Comenzando con Polkadot - Aprende a ganar](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Comenzando_Con_Polkadot_Aprende_A_Ganar.md) - 0.2 DOT
+
+## Available Lessons
 
 #### English
 
+<<<<<<< HEAD
 * [Intro To Ethereum](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/LCE1:Intro_To_Ethereum.md) - 4 xDai
 * [Intro to xDaiChain](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/xDaiChain/LCEX1:Intro_To_xDaiChain.md) - 4 xDai
 * [How to use the Devcash Bounty Platform](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/xDaiChain/dApps/LCEXD3:Devcash_Bounty_Platform.md) - 4 xDai
@@ -36,6 +50,17 @@ Empiece con [Comenzando con BDU - Aprende a ganar](https://github.com/BlockDevsU
 * [Introducción a Polkadot](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/CryptoCurrencies/LCP1:Introduccion_A_Polkadot.md) - 0.2 DOT
 * [BrightID](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/Identity/LI2:BrightID.md) - 4 xDai
 
+=======
+* [What is Polkadot?](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/English/L_EARN/Polkadot/LP1:What_Is_Polkadot.md) - 0.2 DOT
 
+#### Español
+>>>>>>> master
+
+* [¿Qué es Polkadot?](https://github.com/antron3000/Polkadot-L-EARN/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/Polkadot/LP1:Que_Es_Polkadot.md) - 0.2 DOT
 
 More coming soon!
+
+## Join the community
+Here are the links to our community channels:
+* [Spanish Telegram Channel ](https://t.me/PolkadotAprendeAGanar)
+* [English Telegram Channel ](https://t.me/PolkadotLearn)
