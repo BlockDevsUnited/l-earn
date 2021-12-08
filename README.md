@@ -13,12 +13,6 @@ Start with [Getting started with BDU L-EARN](https://github.com/BlockDevsUnited/
 
 Empiece con [Comenzando con BDU - Aprende a ganar](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md) - Recompensa - 2.5 xDai
 
-### Developer Learning Path
-
-* [Deploy an ERC20 Token](https://github.com/BlockDevsUnited/TokenTutorial)
-* [Create a Basic dApp](https://github.com/BlockDevsUnited/BasicFrontEndTutorial)
-* [Deploy an NFT](https://github.com/BlockDevsUnited/NFT-Tutorial)
-
 ### Beginner Lessons
 
 #### English
