@@ -6,8 +6,8 @@ ENS’s job is to map human-readable names like ‘alice.eth’ to machine-reada
 Top-level domains, like ‘.eth’ and ‘.test’, are owned by smart contracts called registrars, which specify rules governing the allocation of their subdomains. Anyone may, by following the rules imposed by these registrar contracts, obtain ownership of a domain for their own use. ENS also supports importing in DNS names already owned by the user for use on ENS.
 
 ## ENS Architecture
-ENS has two principal components: the registry, and resolvers.
-[image](https://user-images.githubusercontent.com/67475555/146596323-0dd94755-3fc8-485f-862c-822546f1ad80.png)
+ENS has two principal components: the [registry](https://docs.ens.domains/contract-api-reference/ens), and [resolvers].
+![image](https://user-images.githubusercontent.com/67475555/146596323-0dd94755-3fc8-485f-862c-822546f1ad80.png)
 
 ### The ENS registry consists of a single smart contract that maintains a list of all domains and subdomains, and stores three critical pieces of information about each:
 -The owner of the domain
