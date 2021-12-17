@@ -7,7 +7,7 @@ Top-level domains, like ‘.eth’ and ‘.test’, are owned by smart contracts
 
 ## ENS Architecture
 ENS has two principal components: the registry, and resolvers.
-![image](https://user-images.githubusercontent.com/67475555/146596323-0dd94755-3fc8-485f-862c-822546f1ad80.png)
+[image](https://user-images.githubusercontent.com/67475555/146596323-0dd94755-3fc8-485f-862c-822546f1ad80.png)
 
 ### The ENS registry consists of a single smart contract that maintains a list of all domains and subdomains, and stores three critical pieces of information about each:
 -The owner of the domain
