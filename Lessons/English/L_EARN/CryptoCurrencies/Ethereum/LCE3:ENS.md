@@ -6,7 +6,7 @@ ENS’s job is to map human-readable names like ‘alice.eth’ to machine-reada
 Top-level domains, like ‘.eth’ and ‘.test’, are owned by smart contracts called registrars, which specify rules governing the allocation of their subdomains. Anyone may, by following the rules imposed by these registrar contracts, obtain ownership of a domain for their own use. ENS also supports importing in DNS names already owned by the user for use on ENS.
 
 ## ENS Architecture
-ENS has two principal components: the [registry](https://docs.ens.domains/contract-api-reference/ens), and [resolvers].
+ENS has two principal components: the [registry](https://docs.ens.domains/contract-api-reference/ens), and [resolvers](https://docs.ens.domains/contract-api-reference/publicresolver).
 ![image](https://user-images.githubusercontent.com/67475555/146596323-0dd94755-3fc8-485f-862c-822546f1ad80.png)
 
 ### The ENS registry consists of a single smart contract that maintains a list of all domains and subdomains, and stores three critical pieces of information about each:
@@ -34,21 +34,21 @@ Resolving a name in ENS is a two-step process: First, ask the registry what reso
 Namehash is a recursive process that can generate a unique hash for any valid domain name. Starting with the namehash of any domain - for example, 'alice.eth' - it's possible to derive the namehash of any subdomain - for example 'iam.alice.eth' - without having to know or handle the original human-readable name. It is this property that makes it possible for ENS to provide a hierarchal system, without having to deal with human-readable text strings internally.
 Before being hashed with namehash, names are first normalized, using a process called UTS-46 normalization. This ensures that upper- and lower-case names are treated equivalently, and that invalid characters are prohibited. Anything that hashes and resolves a name must first normalize it, to ensure that all users get a consistent view of ENS.
 
-For details on how namehash and normalization works, see the developer documentation on name processing.
+For details on how namehash and normalization works, see the developer documentation on [name processing](https://docs.ens.domains/contract-api-reference/name-processing).
 
 ## Getting Started
 
 ### I'm a dapp developer and want to add ENS support to my dapp
 
-Check out the dapp developer guide, starting with ENS Enabling your Dapp. You'll want to choose one of the many available ENS Libraries to get started working with ENS.
+Check out the dapp developer guide, starting with [ENS Enabling your Dapp](https://docs.ens.domains/dapp-developer-guide/ens-enabling-your-dapp). You'll want to choose one of the many available [ENS Libraries](https://docs.ens.domains/dapp-developer-guide/ens-libraries) to get started working with ENS.
 
 ### I'm a contract developer and want to interact with ENS from my contract code
 
-Check out the Contract Developer Guide, starting with Resolving Names On-chain. You can also write your own resolver (to customise the process of looking up names), or your own registrar (to customise the process of registering new names).
+Check out the Contract Developer Guide, starting with [Resolving Names On-chain](https://docs.ens.domains/contract-developer-guide/resolving-names-on-chain). You can also [write your own resolver](https://docs.ens.domains/contract-developer-guide/writing-a-resolver) (to customise the process of looking up names), or your own [registrar](https://docs.ens.domains/contract-developer-guide/writing-a-registrar) (to customise the process of registering new names).
 
 ### I want reference documentation for the ENS smart contracts
 
-Check out the Contract API Reference. We have reference documentation for ENS's core contract, the registry, for resolvers, and for commonly-used registrars such as the Test registrar, reverse registrar, and the .eth registrar.
+Check out the Contract API Reference. We have reference documentation for ENS's core contract, the [registry](https://docs.ens.domains/contract-api-reference/ens), for [resolvers](https://docs.ens.domains/contract-api-reference/publicresolver), and for commonly-used registrars such as the [Test registrar](https://docs.ens.domains/contract-api-reference/testregistrar), [reverse registrar](https://docs.ens.domains/contract-api-reference/reverseregistrar), and the [.eth registrar](https://docs.ens.domains/contract-api-reference/.eth-permanent-registrar).
 
 
 
