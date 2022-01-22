@@ -1,5 +1,4 @@
-# Intro to CARDANO 
-
+# Intro to Cardano
 Cardano is a third-generation decentralized Proof-of-Stake (PoS) blockchain platform. It is a collection of open-source, patent-free protocols. It's a platform that enables you to store, transform, and manage value, identity, and governance. Cardano follows research not opinions or bias.
 
 Foundation, decentralization, smart contracts, scaling, and governance are the five stages of Cardano development. 
