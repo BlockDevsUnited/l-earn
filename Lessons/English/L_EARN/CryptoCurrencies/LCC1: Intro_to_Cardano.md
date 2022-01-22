@@ -33,6 +33,19 @@ The idea of splitting the blockchain into two layers is to help the Cardano netw
 
 Unlike Ethereum-based tokens, Cardano native tokens aren’t created via smart contract. Instead, they run on the same architecture as the ADA cryptocurrency itself.
 
+### What does Cardano do?What does Cardano do?
+
+Cardano enables several different features on its platform:
+
+* **Currency**: With a cryptocurrency wallet, you can send and receive Cardano or transfer it in exchange for goods and services.
+
+* **Smart contracts**: Cardano enables smart contracts, which are contracts that automatically self-execute when the contract’s conditions are fulfilled.
+
+* **Decentralized finance**: Cardano enables people to skip the middleman, such as banks and other financial institutions, to transact directly and on a permission-less basis with other individuals or entities.
+
+* **Digital apps**: As part of decentralized finance, Cardano can enable lending, trading, asset management, insurance and other typical financial services.
+
+
 ## Practice
 
 ### Set up a Cardano(ADA) Wallet
@@ -42,8 +55,7 @@ There are many wallets available, included Atomic Wallet, IMToken, Enjin wallet,
 
 ## Testing
 
-After studying this lesson, let us know when you are ready to take the test. 
-The reward for passing is 0.2 DOT. 
+For this pilot phase of BDU L-EARN, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using BrightID to verify your identity. Get intouch with them via this repo or on the Telegram group on our website. Reward: 4 xDai.
 
 ## Resources
 
