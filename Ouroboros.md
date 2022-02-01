@@ -5,17 +5,17 @@
 * [Cardano](#Cardano)
 * [Ouroboros](#Ouroboros)
 * [cómo funciona ouroboros](#Cómo-funciona-Ouroboros)
-* [Sistema de Ouroboros](#Sistema-de-Ouroboros)
-* [slots y epoch de Ouroboros](slots-y-epoch-de-Ouroboros)
-* [Incentivos](Incentivos)
-* [Beneficios de Ouroboros](Beneficios-de-Ouroboros)
-* [Implementaciones de Ouroboros](Implementaciones-de-Ouroboros)
-* [Ouroboros Clasico](Ouroboros-Clasico)
-* [Ouroboro Byzantine fault tolerance](Ouroboro-Byzantine-fault-tolerance)
-* [Ouroboros Praos](Ouroboros-Pras)
-* [Genesis de Oroboros](Genesis-de-Ouroboros)
-* [Hidra de Ouroboros](Hidra-de-Ouroboros)
-* [Pow vs Pos](Pow-vs-Pos)
+* [Sistema de Ouroboros](#SISTEMA-DE-OUROBOS)
+* [slots y epoch de Ouroboros](#SLOTS-Y-EPOCH-DE-OUROBOROS)
+* [Incentivos](#INCENTIVOS)
+* [Beneficios de Ouroboros](#BENEFICIOS-DE-OUROBOROS)
+* [Implementaciones de Ouroboros](#IMPLEMENTACIONES-DE-OUROBOROS)
+* [Ouroboros Clasico](#Ouroboros-clasico)
+* [Ouroboro Byzantine fault tolerance](#Ouroboros-Byzantine-Fault-Tolerance-(BFT))
+* [Ouroboros Praos](#Ouroboros-Praos)
+* [Genesis de Oroboros](#Génesis-de-Ouroboros)
+* [Hidra de Ouroboros](#Hidra-de-Ouroboros)
+* [Pow vs Pos](#POW-VS-POS)
 
 
 ### CARDANO
@@ -60,7 +60,9 @@ Este algoritmo, Ouroboros, ha demostrado poseer una mayor eficiencia energética
 
 ### IMPLEMENTACIONES DE OUROBOROS
 
-#### [Ouroboros clasico](https://eprint.iacr.org/2016/889.pdf) Fue La primera implementación de Ouroboro, logró tres hitos importantes:
+#### [Ouroboros clasico](https://eprint.iacr.org/2016/889.pdf) 
+
+##### Fue La primera implementación de Ouroboro, logró tres hitos importantes:
 
 > * La base para un protocolo de eficiencia energética para competir con la prueba de trabajo
 > * La introducción del marco matemático para analizar la prueba de participación
