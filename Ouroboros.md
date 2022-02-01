@@ -19,7 +19,7 @@
 * [FUENTES](#FUENTES-UTILIZADAS-Y-LINKS-PARA-PROFUNDIZAR-EL-APENDIZAJE)
 
 
-### [CARDANO](cardano.org)
+### [CARDANO](https://cardano.org/)
 
 
 <a href="https://ibb.co/3zQKKJS"><img src="https://i.ibb.co/vYR99tL/Que-es-Cardano.jpg" alt="Que-es-Cardano" border="0"></a>
@@ -94,7 +94,7 @@ Cabe destacar que el algoritmo de prueba de participación utilizado en Cardano 
 
 ### FUENTES UTILIZADAS Y LINKS PARA PROFUNDIZAR EL APENDIZAJE
 
-* [Pagina oficial de Cardano](cardano.org)
+* [Pagina oficial de Cardano](https://cardano.org/)
 * [Documentos Cardano](https://docs.cardano.org/core-concepts/ouroboros-overview)
 * [Articulo sobre Cardano](https://economia3.com/cardano-revolucion-criptomonedas/#:~:text=Cardano%20utiliza%20un%20nuevo%20algoritmo,ataques%20y%20aumenta%20su%20estabilidad.)
 
