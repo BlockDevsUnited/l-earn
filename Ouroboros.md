@@ -11,7 +11,7 @@
 * [Beneficios de Ouroboros](#BENEFICIOS-DE-OUROBOROS)
 * [Implementaciones de Ouroboros](#IMPLEMENTACIONES-DE-OUROBOROS)
 * [Ouroboros Clasico](#Ouroboros-clasico)
-* [Ouroboro Byzantine fault tolerance](#Ouroboros-Byzantine-Fault-Tolerance-(BFT))
+* [Ouroboro Byzantine fault tolerance](#Ouroboros-Byzantine-Fault-Tolerance)
 * [Ouroboros Praos](#Ouroboros-Praos)
 * [Genesis de Oroboros](#Génesis-de-Ouroboros)
 * [Hidra de Ouroboros](#Hidra-de-Ouroboros)
@@ -68,7 +68,7 @@ Este algoritmo, Ouroboros, ha demostrado poseer una mayor eficiencia energética
 > * La introducción del marco matemático para analizar la prueba de participación
 > * La implementación de un nuevo mecanismo de incentivos para recompensar a los participantes en un entorno de prueba de participación
 
-#### [Ouroboros Byzantine Fault Tolerance (BFT)](https://eprint.iacr.org/2018/1049.pdf) 
+#### [Ouroboros Byzantine Fault Tolerance](https://eprint.iacr.org/2018/1049.pdf) 
 
 > fue la segunda implementación del protocolo, utilizada durante la actualización de Byron (transición del antiguo código base de Cardano al nuevo). La segunda instancia del protocolo preparó a Cardano para la descentralización que vino con el lanzamiento de Shelley.
 
