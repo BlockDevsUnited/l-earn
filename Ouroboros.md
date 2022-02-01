@@ -70,7 +70,7 @@ Este algoritmo, Ouroboros, ha demostrado poseer una mayor eficiencia energética
 
 #### [Ouroboros Byzantine Fault Tolerance](https://eprint.iacr.org/2018/1049.pdf) 
 
-> fue la segunda implementación del protocolo, utilizada durante la actualización de Byron (transición del antiguo código base de Cardano al nuevo). La segunda instancia del protocolo preparó a Cardano para la descentralización que vino con el lanzamiento de Shelley.
+> Fue la segunda implementación del protocolo, utilizada durante la actualización de Byron (transición del antiguo código base de Cardano al nuevo). La segunda instancia del protocolo preparó a Cardano para la descentralización que vino con el lanzamiento de Shelley.
 
 #### [Ouroboros Praos](https://eprint.iacr.org/2017/573.pdf)
 
@@ -87,7 +87,8 @@ Este algoritmo, Ouroboros, ha demostrado poseer una mayor eficiencia energética
 Ouroboros Hydra permite a Cardano escalar horizontalmente, aumentando el rendimiento mediante la incorporación de nodos adicionales, en lugar de verticalmente, mediante la adición de hardware más potente. Las primeras simulaciones muestran que cada cabeza puede realizar hasta 1000 TPS. Con 1,000 cabezas, esto podría ser tan alto como 1,000,000 TPS.
 
 ### POW VS POS
-prueba de participación (PoS) este algoritmo se utiliza para que la red funcione, además protege a la red de ataques aumentando así su estabilidad, proporciona un ahorro en costo de energía y permite un procesamiento de transacciones mas rápidas; mientras que (PoW) es un sistema en el que se necesita tener infraestructura es decir ordenadores para poder participar en el proceso de consenso de la red.
+
+Prueba de participación (PoS) este algoritmo se utiliza para que la red funcione, además protege a la red de ataques aumentando así su estabilidad, proporciona un ahorro en costo de energía y permite un procesamiento de transacciones mas rápidas; mientras que (PoW) es un sistema en el que se necesita tener infraestructura es decir ordenadores para poder participar en el proceso de consenso de la red.
 Cabe destacar que el algoritmo de prueba de participación utilizado en Cardano (PoS) resulta más avanzado que el de prueba de trabajo ya que garantiza crear y agregar diversos tokens en su cuenta, en menor tiempo y con mayor eficiencia
 
 
