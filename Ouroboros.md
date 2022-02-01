@@ -16,9 +16,10 @@
 * [Genesis de Oroboros](#Génesis-de-Ouroboros)
 * [Hidra de Ouroboros](#Hidra-de-Ouroboros)
 * [Pow vs Pos](#POW-VS-POS)
+* [FUENTES](#FUENTES-UTILIZADAS-Y-LINKS-PARA-PROFUNDIZAR-EL-APENDIZAJE)
 
 
-### CARDANO
+### [CARDANO](cardano.org)
 
 
 <a href="https://ibb.co/3zQKKJS"><img src="https://i.ibb.co/vYR99tL/Que-es-Cardano.jpg" alt="Que-es-Cardano" border="0"></a>
@@ -58,7 +59,7 @@ En Ouroboros, los incentivos no dependen de los bloques, sino que las recompensa
 Con la PoS en lugar de usar electricidad para resolver los problemas matemáticos, se selecciona un nodo para formar un nuevo bloque con una probabilidad proporcional a la cantidad de tokens mantenidos en el nodo.
 Este algoritmo, Ouroboros, ha demostrado poseer una mayor eficiencia energética y permite transacciones más rápidas. Dotando a los poseedores de ADA de nuevos esquemas para la gobernanza.
 
-### IMPLEMENTACIONES DE OUROBOROS
+### [IMPLEMENTACIONES DE OUROBOROS](https://docs.cardano.org/core-concepts/ouroboros-overview)
 
 #### [Ouroboros clasico](https://eprint.iacr.org/2016/889.pdf) 
 
@@ -90,6 +91,14 @@ Ouroboros Hydra permite a Cardano escalar horizontalmente, aumentando el rendimi
 
 Prueba de participación (PoS) este algoritmo se utiliza para que la red funcione, además protege a la red de ataques aumentando así su estabilidad, proporciona un ahorro en costo de energía y permite un procesamiento de transacciones mas rápidas; mientras que (PoW) es un sistema en el que se necesita tener infraestructura es decir ordenadores para poder participar en el proceso de consenso de la red.
 Cabe destacar que el algoritmo de prueba de participación utilizado en Cardano (PoS) resulta más avanzado que el de prueba de trabajo ya que garantiza crear y agregar diversos tokens en su cuenta, en menor tiempo y con mayor eficiencia
+
+### FUENTES UTILIZADAS Y LINKS PARA PROFUNDIZAR EL APENDIZAJE
+
+* [Pagina oficial de Cardano](cardano.org)
+* [Documentos Cardano](https://docs.cardano.org/core-concepts/ouroboros-overview)
+* [Articulo sobre Cardano](https://economia3.com/cardano-revolucion-criptomonedas/#:~:text=Cardano%20utiliza%20un%20nuevo%20algoritmo,ataques%20y%20aumenta%20su%20estabilidad.)
+
+
 
 
 
