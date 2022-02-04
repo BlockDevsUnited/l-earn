@@ -1,5 +1,5 @@
 # TOKENS NATIVOS EN CARDANO
-<a href="https://ibb.co/48BTyqB"><img src="https://i.ibb.co/48BTyqB/msg1175630242-132273.jpg" alt="msg1175630242-132273" border="0"></a>
+<a href="https://ibb.co/71td6yP"><img src="https://i.ibb.co/71td6yP/msg1175630242-132276.jpg" alt="msg1175630242-132276" border="0"></a>
 
 ## Índice
 
