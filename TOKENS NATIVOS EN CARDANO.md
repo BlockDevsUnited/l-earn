@@ -12,7 +12,7 @@
 * [TOKENIZACION](#TOKENIZACION)
 * [BENEFICIOS DE LA TOKENIZACION](#BENEFICIOS-DE-LA-TOKENIZACION)
 
-### 1. TOKENS NATIVOS
+### TOKENS NATIVOS
 
 Hace referencia a un activo digital perteneciente a una blockchain, los cuales se pueden crear y destruir. En Cardano los tokens nativos no requieren códigos personalizados, ni contratos inteligentes. Resultan ser de poca complejidad para los usuarios, adicionalmente conlleva a transacciones de manera segura y económica.
 
