@@ -2,11 +2,11 @@
 A cryptocurrency or crypto is a **digital** coin that used **cryptography** to provide a secure payment system. Let's separate the keywords of that definition:
 
   * **Digital coin** : Unlike the euro, the dollar, the peso and the bolivar, a cryptocurrency cannot be physically represented as cash or a coin, which is why they are said to be digital.
-  * **Cryptography** : It is used to transform data into messages that cannot be decrypted by unauthorized persons, for which there are different algorithms. This technique is one of the fundamental bases of blockchain technology (on which cryptocurrencies are created) and what makes it so secure.
+  * **Cryptography** : It is used to transform data into messages that cannot be decrypted by unauthorized users, for which there are different algorithms. This technique is one of the fundamental bases of blockchain technology (on which cryptocurrencies are created) and what makes it so secure.
 
  
  
-# What are the types of cryptocurrencies?
+# What are the main cryptocurrency types??
 Now that you understand what a cryptocurrency is, let's learn aboure the types of crypto that we can find on the market:
   
   * **Bitcoin**: It's a crypto by itself, that's why is the most important digital coin on the cryptomarket. The objective pursued by Satoshi Nakamoto (pseudonym used to refer to the creator of bitcoin) when creating bitcoin was to develop an electronic payment system that would allow its users to carry out transactions among themselves without the need for an intermediary such as bank..
