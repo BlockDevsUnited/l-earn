@@ -27,12 +27,14 @@ The xDai chain is an Ethereum-based sidechain that uses a Proof-of-Stake mechani
 
 
 Note: Chain ID 0x64 is the hexadecimal equivalent of 100, which is the xDai chain ID. MetaMask recently updated the ChainID to be a required field. When you update, you may need to reenter the Chain ID: 100, and it will be converted to a hexadecimal: 0x64.
-## If you are having issues, try entering 100 for Chain ID and resaving the configuration.
+If you are having issues, try entering 100 for Chain ID and resaving the configuration.
+
 
 # What is DCASH?
 
 DevCash(DCASH) is an ERC20 token on Ethereum, and bridged to xDaiChain. Devcash is BDU’s native cryptocurrency and economic engine. Devcash began as an ERC20 token on Ethereum, and is being extended to other chains. BDU has set up Devcash and related apps on a Layer 2 network — [xDai Network](https://blockscout.com/xdai/mainnet/token/0x248E081e3C9e738D7C1ded5d471069dcf4Fd9B15/)
 Devcash has been bridged to xDAI STAKE using the xDai omni bridge. 
+
 
 # How to add DCASH Token to xDAI Network in Metamask
 
@@ -50,11 +52,14 @@ Devcash has been bridged to xDAI STAKE using the xDai omni bridge.
                                  Token Symbol : DCASH
                                  Token Decimal : 8
 
+![image](https://github.com/aaravgon/bc/blob/main/customtokens.png) 
+
 5. Click on "Add Custom Token".
 
 Hurrey! You have successfully add DCASH token to metamask. You can earn DCASH from BDU's [bounty platform ](https://xdai.devcash.dev/bountyplatform/) and [earn & learn platform ](https://github.com/BlockDevsUnited/l-earn/)
 
 # Resources
+
 [DevCASH](https://devcash.dev/)
 
 [xDai Chain](https://www.xdaichain.com/)
