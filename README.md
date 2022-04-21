@@ -9,9 +9,9 @@ Here are the links to our community channels
 * [English Telegram Channel ](https://t.me/bdu_learn)
 
 ## Start Learning and Earning Now
-Start with [Getting started with BDU L-EARN](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/L1:Intro_To_BDU_L-EARN.md) - Reward - 2.5 xDai
+Start with [Getting started with BDU L-EARN](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/L1:Intro_To_BDU_L-EARN.md) - Reward - 2 xDai
 
-Empiece con [Comenzando con BDU - Aprende a ganar](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md) - Recompensa - 2.5 xDai
+Empiece con [Comenzando con BDU - Aprende a ganar](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/L1:Intro_A_BDU_Aprende_Y_Gana.md) - Recompensa - 2 xDai
 
 ### Beginner Lessons
 
