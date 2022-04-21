@@ -52,4 +52,4 @@ Nunca revele sus claves privadas o su frase semilla. Si alguna vez alguien le pi
 Para esta fase piloto de BDU - Aprende a ganar, un miembro de BDU probará sus conocimientos en una conversación uno-a-uno, utilizando [BrightID](https://www.brightid.org/) para verificar su identidad. Póngase en contacto con nosotros a través de ésta vía o en el grupo de Telegram en nuestro sitio web.
 
 ### Compartir dirección
-Una vez que Metamask esté instalado, copie su dirección y envíela a uno de los propietarios de éste repositorio. Recompensa: 5 xDai.
+Una vez que Metamask esté instalado, copie su dirección y envíela a uno de los propietarios de éste repositorio. Recompensa: 3 xDai.
