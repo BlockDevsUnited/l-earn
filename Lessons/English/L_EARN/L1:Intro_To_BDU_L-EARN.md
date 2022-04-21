@@ -8,7 +8,7 @@ The goal is to train people with cryptocurrency skills, provide accessible means
 
 This lesson introduces you to BDU L-EARN, and teaches you how to get started.
 
-Reward: 2.5 xDai.
+Reward: 2 xDai.
 
 ## Learn
 
