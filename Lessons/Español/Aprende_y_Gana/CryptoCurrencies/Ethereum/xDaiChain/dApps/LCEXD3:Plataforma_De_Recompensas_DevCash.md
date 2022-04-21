@@ -91,4 +91,4 @@ Hay más recompensas disponibles. ¡También publicaremos recompensas para ayuda
 
 ## Pruebas
 
-Para esta lección, uno de nuestros colaboradores pondrá a prueba sus conocimientos en una conversación uno-a-uno utilizando [BrightID](https://www.brightid.org/) para verificar su identidad. Póngase en contacto con nosotros a través de este repositorio o en el grupo de Telegram en nuestro sitio web. Recompensa: 5 xDai.
+Para esta lección, uno de nuestros colaboradores pondrá a prueba sus conocimientos en una conversación uno-a-uno utilizando [BrightID](https://www.brightid.org/) para verificar su identidad. Póngase en contacto con nosotros a través de este repositorio o en el grupo de Telegram en nuestro sitio web. Recompensa: 3 xDai.
