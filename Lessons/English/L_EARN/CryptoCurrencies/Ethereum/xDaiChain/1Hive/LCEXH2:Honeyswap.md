@@ -75,5 +75,5 @@ To provide liquidity to the HoneySwap pools, 1Hive has created farming platforms
 
 ## Testing
 
-For this lesson, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website. Reward: 5 xDai.
+For this lesson, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website. Reward: 3 xDai.
 
