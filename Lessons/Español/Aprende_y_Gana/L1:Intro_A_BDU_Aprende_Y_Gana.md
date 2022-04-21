@@ -8,7 +8,7 @@ El objetivo es capacitar a personas para que adquieran habilidades en crypto, pr
 
 Ésta lección les presenta a BDU Aprende y gana y les enseña cómo comenzar. 
 
-Recompensa: 2.5 xDai.
+Recompensa: 2 xDai.
 
 ## Aprende
 
