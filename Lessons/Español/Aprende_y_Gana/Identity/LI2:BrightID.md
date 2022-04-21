@@ -41,7 +41,7 @@ https://brightid.gitbook.io/brightid/
 # Recompensa
 
 Para programar una prueba, comuníquese con nuestro grupo comunitario a través de Telegram.
-Recompensa: 5 xDai.
+Recompensa: 3 xDai.
 
 ## Recursos
 
