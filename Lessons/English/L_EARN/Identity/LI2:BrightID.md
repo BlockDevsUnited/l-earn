@@ -41,7 +41,7 @@ https://brightid.gitbook.io/brightid/
 # Reward
 
 To schedule a test, please contact our community group via Telegram.
-Reward: 5 xDai.
+Reward: 3 xDai.
 
 ## Resources 
 
