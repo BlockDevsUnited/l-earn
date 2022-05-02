@@ -6,8 +6,8 @@
 
 Devcash is Cash for the developer economy. The symbol is DCASH.
 
-*[Devcash Website](https://devcash.dev)
-*[Devcash Community](https://discord.gg/BuEJptRutQ)
+* [Devcash Website](https://devcash.dev)
+* [Devcash Community](https://discord.gg/BuEJptRutQ)
 
 Devcash is intended to be used as the main currency in a Developer Marketplace, where people can buy and sell Developer Resources.
 
@@ -45,7 +45,9 @@ A Blockchain called DevChain is planned, where Devcash will be the native token.
 ### Developer Bounties
 Developer Bounties a central to Devcash. We use bounties to incentivize devs to help build mission critical apps, and services, and make devs the primary holders of Devcash.
 
-We use the [Devcash Bounty Platform](https://xdai.devcash.dev) to Post Bounties.
+We are currently posting bounties on 
+* [The Devcash Bounty Platform](https://xdai.devcash.dev) 
+* [dework](https://dework.xyz) 
 
 Our aim is build valuable developer resources, which increases the price of Devcash, which lets us build more dev resources, which further increases the price, which builds even more dev resources, and so on! This a virtuous cycle.
 
