@@ -32,9 +32,9 @@ Never give out your private keys or seed phrase. If anyone ever asks for them, r
 
 ### Required Readings
   - https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/
-  
+
 - Recommended Readings:
-- 
+-
   - https://ethereum.org/en/whitepaper/
   - https://cointelegraph.com/explained/erc-20-tokens-explained
   - https://www.youtube.com/watch?v=ZE2HxTmxfrI
@@ -55,4 +55,4 @@ Never give out your private keys or seed phrase. If anyone ever asks for them, r
 For this pilot phase of BDU L-EARN, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website.
 
 ### Share your Ethereum address
-Once Metamask is installed, copy your address and send it to one of the owners of this repo. Reward: 3 xDai.
+Once Metamask is installed, copy your address and send it to one of the owners of this repo. Reward: 3,000 DCASH.

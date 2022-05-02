@@ -41,9 +41,9 @@ https://brightid.gitbook.io/brightid/
 # Reward
 
 To schedule a test, please contact our community group via Telegram.
-Reward: 3 xDai.
+Reward: 3,000 DDASH.
 
-## Resources 
+## Resources
 
 Website https://brightid.org/
 
@@ -60,4 +60,3 @@ IDChain https://explorer.idchain.one/
 Applications: https://apps.brightid.org/
 
 Discord https://discord.gg/3wE9CMA
-

@@ -77,7 +77,7 @@ Once a submission is approved, the reward gets sent from the bounty chest contra
 Follow the steps here to become a DevCash Bounty Hunter: https://xdai.devcash.dev/bountyplatform/bounty/80
 
 ### Verify your payment
-Once your submission has been approved, make sure you got paid properly. Check Blockscout to see if the payment was sent to your address. 
+Once your submission has been approved, make sure you got paid properly. Check Blockscout to see if the payment was sent to your address.
 
 ### Continue Hunting Bounties!
 
@@ -85,5 +85,4 @@ More bounties are available. We will also be posting bounties to help build the 
 
 ## Testing
 
-For this lesson, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website. Reward: 3 xDai.
-
+For this lesson, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website. Reward: 3,000 DCASH.

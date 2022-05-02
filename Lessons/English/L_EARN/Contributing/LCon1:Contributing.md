@@ -60,4 +60,4 @@ Your potential as a contributor may be judged by the quality of your lesson, so 
 The easiest way to make a pull request is by editing our repository, and once your are done, click "Submit Pull Request".
 
 ## Testing
-For this lesson, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using BrightID to verify your identity. Get in touch with them via this repo or on the Telegram group on our website. Let us know  when you are ready to take the test! Reward: 7.5 xDai
+For this lesson, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using BrightID to verify your identity. Get in touch with them via this repo or on the Telegram group on our website. Let us know  when you are ready to take the test! Reward: 7,500 DCASH

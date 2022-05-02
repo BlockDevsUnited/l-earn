@@ -6,9 +6,9 @@ En BDU L-EARN, la educación es peer to peer (de igual a igual), dónde los estu
 
 El objetivo es capacitar a personas para que adquieran habilidades en crypto, proporcionar medios accesibles para ganar criptomonedas e impulsar la adopción de las mismas de forma simultánea.
 
-Ésta lección les presenta a BDU Aprende y gana y les enseña cómo comenzar. 
+Ésta lección les presenta a BDU Aprende y gana y les enseña cómo comenzar.
 
-Recompensa: 2 xDai.
+Recompensa: 2,000 DCASH.
 
 ## Aprende
 
