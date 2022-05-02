@@ -8,7 +8,7 @@ The goal is to train people with cryptocurrency skills, provide accessible means
 
 This lesson introduces you to BDU L-EARN, and teaches you how to get started.
 
-Reward: 2000 DCASH.
+Reward: 1 xDAI and 1,000 DCASH.
 
 ## Learn
 
@@ -65,9 +65,11 @@ We encourage peer to peer learning and teaching, and even testing.
 True to the name, after learning a lesson, you can earn crypto. This works by passing a test or trial. After you pass you can get rewarded.
 
 ### Rewards
-Every lesson has a reward attached. This lesson included! The reward for learning this lesson and passing the test at the end is 5 xDai.
+Every lesson has a reward attached. This lesson included! The reward for learning this lesson and passing the test at the end is 1 xDai and 1000 DCASH.
 
-Rewards are always in cryptocurrency! The type of crypto depends on which sponsors fund our learning program.
+Rewards will be primarily in Devcash (DCASH). BDU L-EARN was created and is supported by the Devcash Team. You will learn more about Devcash, how to use it, trade it in the next few lessons!
+
+Rewards are always in cryptocurrency! Sometimes the rewards are in different cryptos, depending on which sponsors fund our  program.
 
 ### Sponsors
 Sponsors come in and fund this program, so that people can learn about their platform and earn their cryptocurrency.
