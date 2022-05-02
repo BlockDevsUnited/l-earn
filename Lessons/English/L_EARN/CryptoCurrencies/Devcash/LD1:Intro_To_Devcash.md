@@ -6,10 +6,14 @@
 
 Devcash is Cash for the developer economy. The symbol is DCASH.
 
+Devcash is also the name of our decentralized organization, which manages Devcash, and constantly generates new developer resources. 
+
 * [Devcash Website](https://devcash.dev)
 * [Devcash Community](https://discord.gg/BuEJptRutQ)
 
-Devcash is intended to be used as the main currency in a Developer Marketplace, where people can buy and sell Developer Resources.
+Devcash is intended to be used as the main currency in our Developer Marketplace, where people can buy and sell Developer Resources.
+
+Devcash is also used as rewards for Devcash contributors, and accepted as payment for all Developer Products and Services created by our decentralized organization. 
 
 ### Economics
 There is 2.1 Billion Devcash in existence, with a fixed supply. Most Devcash (about 87%) is currently held in [this multisig wallet](https://etherscan.io/address/0xBe9AB77E88bFdA9491A4d18522C1d837D901673F) managed by early Devcash contributors.
