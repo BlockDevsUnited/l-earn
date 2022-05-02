@@ -31,7 +31,7 @@ To provide liquidity to the HoneySwap pools, 1Hive has created farming platforms
 
    1. Open Metamask
 
-   2. Click on "Ethereum Main Network" 
+   2. Click on "Ethereum Main Network"
 
       2.1 and then Custom RPC.
 
@@ -74,6 +74,6 @@ To provide liquidity to the HoneySwap pools, 1Hive has created farming platforms
 [Metamask](https://metamask.io/)
 
 ## Testing
+Message a test administrator on [telegram](https://t.me/bdu_learn) or [discord](https://discord.gg/BuEJptRutQ) to book a test. You must be [verified](https://github.com/BlockDevsUnited/l-earn/blob/master/Lessons/English/L_EARN/Identity/LI2:BrightID.md) to withdraw rewards. 
 
-For this lesson, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website. Reward: 3 xDai.
-
+Reward: 3,000 Devcash.

@@ -73,6 +73,6 @@ Trade some Devcash on [Honeyswap](https://honeyswap.org/)
 
 ## Testing
 
-Message a test administrator on [telegram]() or [discord](https://discord.gg/BuEJptRutQ) to book a test.
+Message a test administrator on [telegram](https://t.me/bdu_learn) or [discord](https://discord.gg/BuEJptRutQ) to book a test.
 
 Reward: 3,000 Devcash.
