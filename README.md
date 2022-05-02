@@ -19,7 +19,7 @@ Empiece con [Comenzando con BDU - Aprende a ganar](https://github.com/BlockDevsU
 
 * [Intro To Ethereum](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/LCE1:Intro_To_Ethereum.md) - 3,000 DCASH
 * [Intro to xDaiChain](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/xDaiChain/LCEX1:Intro_To_xDaiChain.md) - 3,000 DCASH
-* [Intro to Devcash](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/xDaiChain/dApps/LCEXD3:Devcash_Bounty_Platform.md) - 3,000 DCASH
+* [Intro to Devcash](https://github.com/BlockDevsUnited/l-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Devcash/LD1:Intro_To_Devcash.md) - 3,000 DCASH
 * [Devcash Bounty Platform](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/xDaiChain/dApps/LCEXD3:Devcash_Bounty_Platform.md) - 3,000 DCASH
 * [Contributing to BDU L-EARN](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/Contributing/LCon1:Contributing.md) - 7500 DCASH
 * [Intro to Honeyswap](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Ethereum/xDaiChain/1Hive/LCEXH2:Honeyswap.md) - 3,000 DCASH
