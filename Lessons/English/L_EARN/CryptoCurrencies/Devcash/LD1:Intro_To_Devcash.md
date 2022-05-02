@@ -4,18 +4,12 @@
 
 ### What is Devcash
 
-Devcash is Cash for the developer economy. It's symbol is DCASH.
+Devcash is Cash for the developer economy. The symbol is DCASH.
 
-[Devcash Website](https://devcash.dev)
-[Devcash Community](https://discord.gg/BuEJptRutQ)
+*[Devcash Website](https://devcash.dev)
+*[Devcash Community](https://discord.gg/BuEJptRutQ)
 
-
-### Technical Details
-Devcash is an ERC20 Token, originally created on Ethereum on [January 8, 2018](https://etherscan.io/tx/0x73921cdeb3ad1baa4cc11ddaeb8492056a6c63ddb71089fb80ceb44c60c598a1).
-
-Devcash is also bridged to xDaiChain (now Gnosis Chain), to take advantage of cheap transaction fees. This is known as "Devcash on xDAI", and is probably what you will be using.
-
-A Blockchain called DevChain is planned, where Devcash will be the native token. When DevChain is created, All existing Devcash on Ethereum, Gnosis Chain and elsewhere will be redeemable 1 to 1 for native Devcash.
+Devcash is intended to be used as the main currency in a Developer Marketplace, where people can buy and sell Developer Resources.
 
 ### Economics
 There is 2.1 Billion Devcash in existence, with a fixed supply. Most Devcash (about 87%) is currently held in [this multisig wallet](https://etherscan.io/address/0xBe9AB77E88bFdA9491A4d18522C1d837D901673F) managed by early Devcash contributors.
@@ -41,6 +35,12 @@ Devcash is used to access Developer Services in the Devcash Ecosystem. Developer
 #### Governance
 Devcash Holders can participate in Devcash Governance by creating proposals and voting on specific issues.
 
+### Technical Details
+Devcash is an ERC20 Token, originally created on Ethereum on [January 8, 2018](https://etherscan.io/tx/0x73921cdeb3ad1baa4cc11ddaeb8492056a6c63ddb71089fb80ceb44c60c598a1).
+
+Devcash is also bridged to xDaiChain (now Gnosis Chain), to take advantage of cheap transaction fees. This is known as "Devcash on xDAI", and is probably what you will be using.
+
+A Blockchain called DevChain is planned, where Devcash will be the native token. When DevChain is created, All existing Devcash on Ethereum, Gnosis Chain and elsewhere will be redeemable 1 to 1 for native Devcash.
 
 ### Developer Bounties
 Developer Bounties a central to Devcash. We use bounties to incentivize devs to help build mission critical apps, and services, and make devs the primary holders of Devcash.
