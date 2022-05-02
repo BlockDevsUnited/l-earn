@@ -9,6 +9,7 @@ The goal is to train people with cryptocurrency skills, provide accessible means
 This lesson introduces you to BDU L-EARN, and teaches you how to get started.
 
 Reward: 1 xDAI and 1,000 DCASH.
+[What is Devcash](https://github.com/BlockDevsUnited/l-earn/blob/master/Lessons/English/L_EARN/CryptoCurrencies/Devcash/LD1:Intro_To_Devcash.md)
 
 ## Learn
 
